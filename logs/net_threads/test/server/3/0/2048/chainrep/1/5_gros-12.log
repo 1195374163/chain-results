@@ -1,0 +1,14 @@
+I[03:40:07,744] [main]ChainRepMixedProto: Starting ChainReplication
+I[03:40:07,747] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[306, 307, 308]}
+W[03:40:07,796] [300-ChainRepMixedProto]ChainRepMixedProto: Connection failed to 172.16.66.13:50300, cause: finishConnect(..) failed: Connection refused: /172.16.66.13:50300
+W[03:40:07,797] [300-ChainRepMixedProto]ChainRepMixedProto: Connection failed to 172.16.66.14:50300, cause: finishConnect(..) failed: Connection refused: /172.16.66.14:50300
+I[03:40:07,890] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[]}
+I[03:40:07,891] [300-ChainRepMixedProto]ChainRepMixedProto: Looks like I'm the first one, registering myself directly
+I[03:40:07,897] [300-ChainRepMixedProto]ChainRepMixedProto: InConnectionDown{node=172.16.66.12:50300, cause=null}
+I[03:40:07,897] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[309]}
+I[03:40:07,898] [300-ChainRepMixedProto]ChainRepMixedProto: Active! My id is: 309
+I[03:40:07,899] [100-ChainRepMixFront0]ChainRepMixedFront: New writesTo: /172.16.66.12
+I[03:40:09,315] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[309, 310]}
+I[03:40:09,317] [300-ChainRepMixedProto]ChainRepMixedProto: Propagating 'sent' to 172.16.66.13:50300
+I[03:40:09,738] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[309, 310, 311]}
+I[03:41:43,327] [Thread-1]HashMapApp: Writes: 2227647, reads: 0

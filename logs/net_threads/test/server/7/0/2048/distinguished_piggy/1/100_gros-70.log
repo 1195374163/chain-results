@@ -1,0 +1,21 @@
+I[16:57:43,095] [main]DistPaxosPiggyProto: DistinguishedPiggy: {members=[172.16.66.70:50300, 172.16.66.71:50300, 172.16.66.72:50300, 172.16.66.73:50300, 172.16.66.74:50300, 172.16.66.75:50300, 172.16.66.76:50300]} qs 4
+W[16:57:43,136] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.71:50300, cause: finishConnect(..) failed: Connection refused: gros-71/172.16.66.71:50300
+W[16:57:43,137] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.74:50300, cause: finishConnect(..) failed: Connection refused: gros-74/172.16.66.74:50300
+W[16:57:43,137] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.72:50300, cause: finishConnect(..) failed: Connection refused: gros-72/172.16.66.72:50300
+W[16:57:43,138] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.76:50300, cause: finishConnect(..) failed: Connection refused: gros-76/172.16.66.76:50300
+W[16:57:43,138] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.73:50300, cause: finishConnect(..) failed: Connection refused: gros-73/172.16.66.73:50300
+W[16:57:43,138] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.75:50300, cause: finishConnect(..) failed: Connection refused: gros-75/172.16.66.75:50300
+W[16:57:44,141] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.74:50300, cause: finishConnect(..) failed: Connection refused: gros-74/172.16.66.74:50300
+W[16:57:44,142] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.73:50300, cause: finishConnect(..) failed: Connection refused: gros-73/172.16.66.73:50300
+W[16:57:44,142] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.75:50300, cause: finishConnect(..) failed: Connection refused: gros-75/172.16.66.75:50300
+W[16:57:44,142] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.76:50300, cause: finishConnect(..) failed: Connection refused: gros-76/172.16.66.76:50300
+W[16:57:45,144] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.75:50300, cause: finishConnect(..) failed: Connection refused: gros-75/172.16.66.75:50300
+W[16:57:45,145] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.76:50300, cause: finishConnect(..) failed: Connection refused: gros-76/172.16.66.76:50300
+I[16:57:48,097] [400-DistPiggyProto]DistPaxosPiggyProto: Attempting to take leadership...
+I[16:57:48,102] [400-DistPiggyProto]DistPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.70:50300}
+I[16:57:48,103] [100-DistFront0]DistPaxosFront: New writesTo: /172.16.66.70
+I[16:57:48,112] [400-DistPiggyProto]DistPaxosPiggyProto: I am leader now! @ instance 0
+W[16:57:48,112] [400-DistPiggyProto]DistPaxosPiggyProto: PrepareOk ignored, either already leader or stopped trying
+W[16:57:48,113] [400-DistPiggyProto]DistPaxosPiggyProto: PrepareOk ignored, either already leader or stopped trying
+W[16:57:48,113] [400-DistPiggyProto]DistPaxosPiggyProto: PrepareOk ignored, either already leader or stopped trying
+I[16:59:20,880] [Thread-1]HashMapApp: Writes: 813286, reads: 0

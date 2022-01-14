@@ -1,0 +1,13 @@
+I[16:16:57,335] [main]URingPaxosProto: URingPaxos: {members=[172.16.66.3:50300, 172.16.66.28:50300, 172.16.66.45:50300, 172.16.66.64:50300, 172.16.66.87:50300, 172.16.66.105:50300, 172.16.66.106:50300]} qs 4
+W[16:16:57,382] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.87:50300, cause: finishConnect(..) failed: Connection refused: gros-87/172.16.66.87:50300
+W[16:16:57,383] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.64:50300, cause: finishConnect(..) failed: Connection refused: gros-64/172.16.66.64:50300
+W[16:16:57,383] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.105:50300, cause: finishConnect(..) failed: Connection refused: gros-105/172.16.66.105:50300
+W[16:16:57,383] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.106:50300, cause: finishConnect(..) failed: Connection refused: gros-106/172.16.66.106:50300
+W[16:16:57,383] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.45:50300, cause: finishConnect(..) failed: Connection refused: gros-45/172.16.66.45:50300
+W[16:16:58,390] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.87:50300, cause: finishConnect(..) failed: Connection refused: gros-87/172.16.66.87:50300
+W[16:16:58,390] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.105:50300, cause: finishConnect(..) failed: Connection refused: gros-105/172.16.66.105:50300
+W[16:16:58,390] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.106:50300, cause: finishConnect(..) failed: Connection refused: gros-106/172.16.66.106:50300
+W[16:16:59,392] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.105:50300, cause: finishConnect(..) failed: Connection refused: gros-105/172.16.66.105:50300
+W[16:16:59,392] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.106:50300, cause: finishConnect(..) failed: Connection refused: gros-106/172.16.66.106:50300
+I[16:17:01,849] [200-URingPaxos]URingPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.3:50300}
+I[16:18:34,404] [Thread-1]HashMapApp: Writes: 763098, reads: 0

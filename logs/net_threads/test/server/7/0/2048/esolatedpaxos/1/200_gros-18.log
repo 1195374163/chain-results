@@ -1,0 +1,13 @@
+I[02:58:12,580] [main]Membership: New preferred members: [172.16.66.19:50300, 172.16.66.20:50300, 172.16.66.21:50300, 172.16.66.22:50300]
+I[02:58:12,675] [main]EsolatedPaxosProto: EsolatedPaxos: {members=[172.16.66.2:50300, 172.16.66.18:50300, 172.16.66.19:50300, 172.16.66.20:50300, 172.16.66.21:50300, 172.16.66.22:50300, 172.16.66.23:50300]} mcf 3
+I[02:58:12,678] [100-EPaxosFront0]EPaxosFront: New writesTo: /172.16.66.18
+W[02:58:12,719] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.20:50300, cause: finishConnect(..) failed: Connection refused: gros-20/172.16.66.20:50300
+W[02:58:12,720] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.19:50300, cause: finishConnect(..) failed: Connection refused: gros-19/172.16.66.19:50300
+W[02:58:12,720] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+W[02:58:12,720] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.22:50300, cause: finishConnect(..) failed: Connection refused: gros-22/172.16.66.22:50300
+W[02:58:12,721] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.21:50300, cause: finishConnect(..) failed: Connection refused: gros-21/172.16.66.21:50300
+W[02:58:13,726] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+W[02:58:13,726] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.21:50300, cause: finishConnect(..) failed: Connection refused: gros-21/172.16.66.21:50300
+W[02:58:13,727] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.22:50300, cause: finishConnect(..) failed: Connection refused: gros-22/172.16.66.22:50300
+W[02:58:14,727] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+I[02:59:50,095] [Thread-1]HashMapApp: Writes: 1840687, reads: 0

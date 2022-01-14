@@ -1,0 +1,15 @@
+I[00:00:00,404] [main]RingPaxosProto: RingPaxos: {members=[172.16.66.2:50300, 172.16.66.18:50300, 172.16.66.19:50300, 172.16.66.20:50300, 172.16.66.21:50300, 172.16.66.22:50300, 172.16.66.23:50300]} qs 4 max instances: 60
+W[00:00:00,412] [600-RingProto]RingPaxosProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+W[00:00:00,412] [600-RingProto]RingPaxosProto: Connection failed to 172.16.66.22:50300, cause: finishConnect(..) failed: Connection refused: gros-22/172.16.66.22:50300
+I[00:00:03,395] [600-RingProto]RingPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[00:00:03,396] [100-RingFront0]RingPaxosFront: New writesTo: /172.16.66.2
+W[00:00:54,873] [600-RingProto]RingPaxosProto: Requesting old decision: 406328 to 172.16.66.22:50300  decided until 406327 received 406329
+W[00:00:54,876] [600-RingProto]RingPaxosProto: Asking for accept: 406367
+W[00:00:54,877] [600-RingProto]RingPaxosProto: Asking for accept: 406368
+W[00:01:08,698] [600-RingProto]RingPaxosProto: Asking for accept: 531718
+W[00:01:08,700] [600-RingProto]RingPaxosProto: Asking for accept: 531719
+W[00:01:08,700] [600-RingProto]RingPaxosProto: Asking for accept: 531720
+W[00:01:08,700] [600-RingProto]RingPaxosProto: Asking for accept: 531721
+W[00:01:08,701] [600-RingProto]RingPaxosProto: Asking for accept: 531722
+W[00:01:08,717] [600-RingProto]RingPaxosProto: Asking for accept: 532144
+I[00:01:35,871] [Thread-1]HashMapApp: Writes: 763075, reads: 0

@@ -1,0 +1,21 @@
+I[20:24:00,854] [main]RingPaxosPiggyProto: RingPiggyPaxos: {members=[172.16.66.2:50300, 172.16.66.18:50300, 172.16.66.19:50300, 172.16.66.20:50300, 172.16.66.21:50300, 172.16.66.22:50300, 172.16.66.23:50300]} qs 4 max instances: 250
+W[20:24:00,863] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.19:50300, cause: finishConnect(..) failed: Connection refused: gros-19/172.16.66.19:50300
+W[20:24:00,864] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+W[20:24:00,864] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.22:50300, cause: finishConnect(..) failed: Connection refused: gros-22/172.16.66.22:50300
+W[20:24:00,864] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.20:50300, cause: finishConnect(..) failed: Connection refused: gros-20/172.16.66.20:50300
+W[20:24:00,864] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.21:50300, cause: finishConnect(..) failed: Connection refused: gros-21/172.16.66.21:50300
+W[20:24:00,864] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.18:50300, cause: finishConnect(..) failed: Connection refused: gros-18/172.16.66.18:50300
+W[20:24:01,868] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+W[20:24:01,868] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.21:50300, cause: finishConnect(..) failed: Connection refused: gros-21/172.16.66.21:50300
+W[20:24:01,869] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.20:50300, cause: finishConnect(..) failed: Connection refused: gros-20/172.16.66.20:50300
+W[20:24:01,869] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.22:50300, cause: finishConnect(..) failed: Connection refused: gros-22/172.16.66.22:50300
+W[20:24:02,870] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+W[20:24:02,872] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.22:50300, cause: finishConnect(..) failed: Connection refused: gros-22/172.16.66.22:50300
+I[20:24:05,856] [600-RingPiggyProto]RingPaxosPiggyProto: Attempting to take leadership...
+I[20:24:05,861] [600-RingPiggyProto]RingPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[20:24:05,862] [100-RingFront0]RingPaxosFront: New writesTo: /172.16.66.2
+I[20:24:05,872] [600-RingPiggyProto]RingPaxosPiggyProto: I am leader now! @ instance 0
+W[20:24:05,872] [600-RingPiggyProto]RingPaxosPiggyProto: PrepareOk ignored, either already leader or stopped trying
+W[20:24:05,872] [600-RingPiggyProto]RingPaxosPiggyProto: PrepareOk ignored, either already leader or stopped trying
+W[20:24:05,872] [600-RingPiggyProto]RingPaxosPiggyProto: PrepareOk ignored, either already leader or stopped trying
+I[20:25:38,355] [Thread-1]HashMapApp: Writes: 2460273, reads: 0

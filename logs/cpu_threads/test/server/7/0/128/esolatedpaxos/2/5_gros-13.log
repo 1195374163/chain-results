@@ -1,0 +1,13 @@
+I[01:38:32,958] [main]Membership: New preferred members: [172.16.66.14:50300, 172.16.66.15:50300, 172.16.66.16:50300, 172.16.66.120:50300]
+I[01:38:33,047] [main]EsolatedPaxosProto: EsolatedPaxos: {members=[172.16.66.12:50300, 172.16.66.13:50300, 172.16.66.14:50300, 172.16.66.15:50300, 172.16.66.16:50300, 172.16.66.120:50300, 172.16.66.121:50300]} mcf 3
+I[01:38:33,050] [100-EPaxosFront0]EPaxosFront: New writesTo: /172.16.66.13
+W[01:38:33,095] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.120:50300, cause: finishConnect(..) failed: Connection refused: gros-120/172.16.66.120:50300
+W[01:38:33,096] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.16:50300, cause: finishConnect(..) failed: Connection refused: gros-16/172.16.66.16:50300
+W[01:38:33,096] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.15:50300, cause: finishConnect(..) failed: Connection refused: gros-15/172.16.66.15:50300
+W[01:38:33,096] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.14:50300, cause: finishConnect(..) failed: Connection refused: gros-14/172.16.66.14:50300
+W[01:38:33,096] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.121:50300, cause: finishConnect(..) failed: Connection refused: gros-121/172.16.66.121:50300
+W[01:38:34,099] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.121:50300, cause: finishConnect(..) failed: Connection refused: gros-121/172.16.66.121:50300
+W[01:38:34,099] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.120:50300, cause: finishConnect(..) failed: Connection refused: gros-120/172.16.66.120:50300
+W[01:38:34,099] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.16:50300, cause: finishConnect(..) failed: Connection refused: gros-16/172.16.66.16:50300
+W[01:38:35,100] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.121:50300, cause: finishConnect(..) failed: Connection refused: gros-121/172.16.66.121:50300
+I[01:40:10,195] [Thread-1]HashMapApp: Writes: 2637564, reads: 0

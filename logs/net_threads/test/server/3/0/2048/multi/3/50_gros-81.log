@@ -1,0 +1,5 @@
+I[17:54:03,394] [main]MultiPaxosProto: MultiPaxos: {members=[172.16.66.80:50300, 172.16.66.81:50300, 172.16.66.82:50300]} qs 2
+W[17:54:03,403] [400-MultiProto]MultiPaxosProto: Connection failed to 172.16.66.82:50300, cause: finishConnect(..) failed: Connection refused: gros-82/172.16.66.82:50300
+I[17:54:07,897] [400-MultiProto]MultiPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.80:50300}
+I[17:54:07,898] [100-DistFront0]DistPaxosFront: New writesTo: /172.16.66.80
+I[17:55:38,546] [Thread-1]HashMapApp: Writes: 2248946, reads: 0

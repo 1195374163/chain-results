@@ -1,0 +1,16 @@
+I[15:27:38,917] [main]Membership: New preferred members: [172.16.66.110:50300, 172.16.66.111:50300, 172.16.66.112:50300, 172.16.66.115:50300]
+I[15:27:39,027] [main]EsolatedPaxosProto: EsolatedPaxos: {members=[172.16.66.13:50300, 172.16.66.110:50300, 172.16.66.111:50300, 172.16.66.112:50300, 172.16.66.115:50300, 172.16.66.120:50300, 172.16.66.121:50300]} mcf 3
+I[15:27:39,030] [100-EPaxosFront0]EPaxosFront: New writesTo: /172.16.66.13
+W[15:27:39,081] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.110:50300, cause: finishConnect(..) failed: Connection refused: gros-110/172.16.66.110:50300
+W[15:27:39,082] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.115:50300, cause: finishConnect(..) failed: Connection refused: gros-115/172.16.66.115:50300
+W[15:27:39,082] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.111:50300, cause: finishConnect(..) failed: Connection refused: gros-111/172.16.66.111:50300
+W[15:27:39,082] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.120:50300, cause: finishConnect(..) failed: Connection refused: gros-120/172.16.66.120:50300
+W[15:27:39,082] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.112:50300, cause: finishConnect(..) failed: Connection refused: gros-112/172.16.66.112:50300
+W[15:27:39,082] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.121:50300, cause: finishConnect(..) failed: Connection refused: gros-121/172.16.66.121:50300
+W[15:27:40,085] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.115:50300, cause: finishConnect(..) failed: Connection refused: gros-115/172.16.66.115:50300
+W[15:27:40,086] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.120:50300, cause: finishConnect(..) failed: Connection refused: gros-120/172.16.66.120:50300
+W[15:27:40,086] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.112:50300, cause: finishConnect(..) failed: Connection refused: gros-112/172.16.66.112:50300
+W[15:27:40,086] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.121:50300, cause: finishConnect(..) failed: Connection refused: gros-121/172.16.66.121:50300
+W[15:27:41,088] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.120:50300, cause: finishConnect(..) failed: Connection refused: gros-120/172.16.66.120:50300
+W[15:27:41,089] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.121:50300, cause: finishConnect(..) failed: Connection refused: gros-121/172.16.66.121:50300
+I[15:29:16,803] [Thread-1]HashMapApp: Writes: 1903135, reads: 0

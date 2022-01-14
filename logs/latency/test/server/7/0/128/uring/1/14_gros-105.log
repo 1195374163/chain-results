@@ -1,0 +1,4 @@
+I[16:06:54,857] [main]URingPaxosProto: URingPaxos: {members=[172.16.66.3:50300, 172.16.66.28:50300, 172.16.66.45:50300, 172.16.66.64:50300, 172.16.66.87:50300, 172.16.66.105:50300, 172.16.66.106:50300]} qs 4
+W[16:06:54,901] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.106:50300, cause: finishConnect(..) failed: Connection refused: gros-106/172.16.66.106:50300
+I[16:06:57,237] [200-URingPaxos]URingPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.3:50300}
+I[16:08:29,778] [Thread-1]HashMapApp: Writes: 763068, reads: 0

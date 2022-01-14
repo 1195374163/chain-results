@@ -1,0 +1,4 @@
+I[17:15:49,864] [main]DistPaxosPiggyProto: DistinguishedPiggy: {members=[172.16.66.80:50300, 172.16.66.81:50300, 172.16.66.82:50300]} qs 2
+I[17:15:53,867] [400-DistPiggyProto]DistPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.80:50300}
+I[17:15:53,868] [100-DistFront0]DistPaxosFront: New writesTo: /172.16.66.80
+I[17:17:24,478] [Thread-1]HashMapApp: Writes: 2218162, reads: 0

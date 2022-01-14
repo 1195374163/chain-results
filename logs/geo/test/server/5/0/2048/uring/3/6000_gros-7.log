@@ -1,0 +1,15 @@
+I[00:15:46,968] [main]URingPaxosProto: URingPaxos: {members=[172.16.66.7:50300, 172.16.66.8:50300, 172.16.66.68:50300, 172.16.66.69:50300, 172.16.66.70:50300]} qs 3
+W[00:15:47,070] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.8:50300, cause: finishConnect(..) failed: Connection refused: gros-8/172.16.66.8:50300
+W[00:15:47,098] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.68:50300, cause: finishConnect(..) failed: Connection refused: gros-68/172.16.66.68:50300
+W[00:15:47,163] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.70:50300, cause: finishConnect(..) failed: Connection refused: gros-70/172.16.66.70:50300
+W[00:15:47,192] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.69:50300, cause: finishConnect(..) failed: Connection refused: gros-69/172.16.66.69:50300
+W[00:15:48,211] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.68:50300, cause: finishConnect(..) failed: Connection refused: gros-68/172.16.66.68:50300
+W[00:15:48,342] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.70:50300, cause: finishConnect(..) failed: Connection refused: gros-70/172.16.66.70:50300
+W[00:15:48,396] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.69:50300, cause: finishConnect(..) failed: Connection refused: gros-69/172.16.66.69:50300
+W[00:15:49,519] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.70:50300, cause: finishConnect(..) failed: Connection refused: gros-70/172.16.66.70:50300
+W[00:15:49,618] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.69:50300, cause: finishConnect(..) failed: Connection refused: gros-69/172.16.66.69:50300
+W[00:15:50,712] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.70:50300, cause: finishConnect(..) failed: Connection refused: gros-70/172.16.66.70:50300
+I[00:15:54,970] [200-URingPaxos]URingPaxosProto: Attempting to take leadership...
+I[00:15:54,975] [200-URingPaxos]URingPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.7:50300}
+I[00:15:55,093] [200-URingPaxos]URingPaxosProto: I am leader now! @ instance 0
+I[00:18:10,086] [Thread-1]HashMapApp: Writes: 3226802, reads: 0

@@ -1,0 +1,9 @@
+I[18:32:52,267] [main]MultiPaxosProto: MultiPaxos: {members=[172.16.66.4:50300, 172.16.66.38:50300, 172.16.66.39:50300]} qs 2
+W[18:32:52,277] [400-MultiProto]MultiPaxosProto: Connection failed to 172.16.66.39:50300, cause: finishConnect(..) failed: Connection refused: gros-39/172.16.66.39:50300
+W[18:32:52,278] [400-MultiProto]MultiPaxosProto: Connection failed to 172.16.66.38:50300, cause: finishConnect(..) failed: Connection refused: gros-38/172.16.66.38:50300
+I[18:32:57,269] [400-MultiProto]MultiPaxosProto: Attempting to take leadership...
+I[18:32:57,273] [400-MultiProto]MultiPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.4:50300}
+I[18:32:57,274] [100-DistFront0]DistPaxosFront: New writesTo: /172.16.66.4
+I[18:32:57,284] [400-MultiProto]MultiPaxosProto: I am leader now! @ instance 0
+W[18:32:57,284] [400-MultiProto]MultiPaxosProto: PrepareOk ignored, either already leader or stopped trying
+I[18:34:28,065] [Thread-1]HashMapApp: Writes: 7596736, reads: 0

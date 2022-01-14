@@ -1,0 +1,13 @@
+I[14:53:44,054] [main]ChainPaxosDelayedProto: ChainProtoDelay: {members=[172.16.66.8:50300, 172.16.66.74:50300, 172.16.66.75:50300, 172.16.66.76:50300, 172.16.66.77:50300, 172.16.66.82:50300, 172.16.66.83:50300]} qs 4
+W[14:53:44,093] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.83:50300, cause: finishConnect(..) failed: Connection refused: gros-83/172.16.66.83:50300
+W[14:53:44,094] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.82:50300, cause: finishConnect(..) failed: Connection refused: gros-82/172.16.66.82:50300
+W[14:53:44,094] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.75:50300, cause: finishConnect(..) failed: Connection refused: gros-75/172.16.66.75:50300
+W[14:53:44,094] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.77:50300, cause: finishConnect(..) failed: Connection refused: gros-77/172.16.66.77:50300
+W[14:53:44,094] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.76:50300, cause: finishConnect(..) failed: Connection refused: gros-76/172.16.66.76:50300
+W[14:53:45,097] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.83:50300, cause: finishConnect(..) failed: Connection refused: gros-83/172.16.66.83:50300
+W[14:53:45,097] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.82:50300, cause: finishConnect(..) failed: Connection refused: gros-82/172.16.66.82:50300
+W[14:53:45,097] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.77:50300, cause: finishConnect(..) failed: Connection refused: gros-77/172.16.66.77:50300
+W[14:53:46,100] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.83:50300, cause: finishConnect(..) failed: Connection refused: gros-83/172.16.66.83:50300
+I[14:53:48,559] [200-ChainProtoDelay]ChainPaxosDelayedProto: New highest instance leader: iN:0, SN{0:172.16.66.8:50300}
+I[14:53:48,560] [100-ChainFrontDelay0]ChainPaxosDelayedFront: New writesTo: /172.16.66.8
+I[14:55:23,912] [Thread-1]HashMapApp: Writes: 5447282, reads: 13281683

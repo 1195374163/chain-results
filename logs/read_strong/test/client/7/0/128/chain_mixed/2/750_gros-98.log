@@ -1,0 +1,14 @@
+2022-01-12 12:59:36:396 0 sec: 0 operations; est completion in 0 second 
+2022-01-12 12:59:46:360 10 sec: 421052 operations; 42100.99 current ops/sec; est completion in 15 minutes [INSERT: Count=421091, Max=670719, Min=799, Avg=17166.78, 90=21439, 99=203007, 99.9=591871, 99.99=641535] 
+2022-01-12 12:59:56:360 20 sec: 868271 operations; 44726.37 current ops/sec; est completion in 15 minutes [INSERT: Count=447221, Max=1293311, Min=874, Avg=16298.58, 90=17695, 99=73663, 99.9=1208319, 99.99=1279999] 
+2022-01-12 13:00:06:360 30 sec: 1317569 operations; 44925.31 current ops/sec; est completion in 14 minutes [INSERT: Count=449289, Max=2506751, Min=891, Avg=16888.25, 90=17791, 99=57727, 99.9=2050047, 99.99=2486271] 
+2022-01-12 13:00:16:360 40 sec: 1715519 operations; 39798.98 current ops/sec; est completion in 14 minutes [INSERT: Count=397953, Max=2746367, Min=659, Avg=18903.72, 90=19375, 99=93695, 99.9=2617343, 99.99=2723839] 
+2022-01-12 13:00:26:360 50 sec: 2141142 operations; 42562.3 current ops/sec; est completion in 14 minutes [INSERT: Count=425601, Max=3057663, Min=868, Avg=16220.1, 90=17871, 99=65087, 99.9=2736127, 99.99=2883583] 
+2022-01-12 13:00:36:360 60 sec: 2617335 operations; 47619.3 current ops/sec; est completion in 14 minutes [INSERT: Count=476192, Max=3940351, Min=856, Avg=15414.61, 90=15479, 99=56671, 99.9=3129343, 99.99=3651583] 
+2022-01-12 13:00:46:360 70 sec: 3105387 operations; 48805.2 current ops/sec; est completion in 13 minutes [INSERT: Count=488061, Max=5394431, Min=1255, Avg=14744.64, 90=12887, 99=80063, 99.9=4329471, 99.99=4820991] 
+2022-01-12 13:00:56:360 80 sec: 3445906 operations; 34051.9 current ops/sec; est completion in 14 minutes [INSERT: Count=340518, Max=7565311, Min=799, Avg=24605.07, 90=16687, 99=146431, 99.9=6041599, 99.99=7516159] 
+Still waiting for thread Thread-3 to complete. Workload status: true
+Still waiting for thread Thread-3 to complete. Workload status: true
+2022-01-12 13:01:06:360 90 sec: 3659233 operations; 21332.7 current ops/sec; est completion in 14 minutes [CLEANUP: Count=675, Max=19, Min=0, Avg=0.09, 90=0, 99=1, 99.9=17, 99.99=19] [INSERT: Count=213307, Max=7434239, Min=644, Avg=20393.22, 90=18991, 99=72831, 99.9=6438911, 99.99=7204863] 
+Still waiting for thread Thread-3 to complete. Workload status: true
+2022-01-12 13:01:09:219 92 sec: 3659308 operations; 26.23 current ops/sec; est completion in 15 minutes [CLEANUP: Count=75, Max=0, Min=0, Avg=0, 90=0, 99=0, 99.9=0, 99.99=0] [INSERT: Count=75, Max=8065023, Min=7417856, Avg=7772542.29, 90=8065023, 99=8065023, 99.9=8065023, 99.99=8065023] 

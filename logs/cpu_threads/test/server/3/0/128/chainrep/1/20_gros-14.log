@@ -1,0 +1,10 @@
+I[20:27:30,402] [main]ChainRepMixedProto: Starting ChainReplication
+I[20:27:30,405] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[15]}
+I[20:27:30,916] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[15, 16]}
+I[20:27:31,407] [300-ChainRepMixedProto]ChainRepMixedProto: Sending join msg to: 172.16.66.13:50300 - 16
+I[20:27:31,422] [300-ChainRepMixedProto]ChainRepMixedProto: State received, registering self
+I[20:27:31,422] [100-ChainRepMixFront0]HashMapApp: State installed(0) 
+I[20:27:31,430] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[15, 16, 17]}
+I[20:27:31,432] [300-ChainRepMixedProto]ChainRepMixedProto: Active! My id is: 17
+I[20:27:31,433] [100-ChainRepMixFront0]ChainRepMixedFront: New writesTo: /172.16.66.12
+I[20:29:05,052] [Thread-1]HashMapApp: Writes: 5751171, reads: 0

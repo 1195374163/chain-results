@@ -1,0 +1,8 @@
+I[21:33:40,078] [main]DistPaxosPiggyProto: DistinguishedPiggy: {members=[172.16.66.9:50300, 172.16.66.82:50300, 172.16.66.83:50300]} qs 2
+I[21:33:44,159] [400-DistPiggyProto]DistPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.9:50300}
+I[21:33:44,161] [100-DistFront0]DistPaxosFront: New writesTo: /172.16.66.9
+I[21:35:55,577] [Thread-1]HashMapApp: Writes: 629568, reads: 0
+W[21:35:55,577] [100-DistFront0]DistPaxosFront: Lost connection to writesTo, re-connecting: OutConnectionDown{node=172.16.66.9:50400, cause=null}
+I[21:35:55,578] [400-DistPiggyProto]DistPaxosPiggyProto: InConnectionDown{node=172.16.66.9:50300, cause=null}
+W[21:35:55,578] [400-DistPiggyProto]DistPaxosPiggyProto: OutConnectionDown{node=172.16.66.9:50300, cause=io.netty.channel.StacklessClosedChannelException}
+W[21:35:55,579] [400-DistPiggyProto]DistPaxosPiggyProto: Failed: AcceptedMsg{iN=63015, sN=SN{0:172.16.66.9:50300}}, to: 172.16.66.9:50300, reason: null

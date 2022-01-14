@@ -1,0 +1,10 @@
+2022-01-10 17:50:52:470 0 sec: 0 operations; est completion in 0 second 
+2022-01-10 17:51:02:446 10 sec: 80085 operations; 8008.5 current ops/sec; est completion in 1 hour 23 minutes [INSERT: Count=80091, Max=223743, Min=161, Avg=1219.72, 90=1343, 99=1820, 99.9=5859, 99.99=223103] 
+2022-01-10 17:51:12:447 20 sec: 166545 operations; 8646 current ops/sec; est completion in 1 hour 19 minutes [INSERT: Count=86464, Max=53823, Min=169, Avg=1152.73, 90=1329, 99=1813, 99.9=4583, 99.99=52863] 
+2022-01-10 17:51:22:446 30 sec: 254249 operations; 8770.4 current ops/sec; est completion in 1 hour 18 minutes [INSERT: Count=87704, Max=48383, Min=158, Avg=1136.96, 90=1313, 99=1531, 99.9=6059, 99.99=47743] 
+2022-01-10 17:51:32:446 40 sec: 341400 operations; 8715.1 current ops/sec; est completion in 1 hour 17 minutes [INSERT: Count=87146, Max=54143, Min=154, Avg=1144.05, 90=1318, 99=1593, 99.9=6623, 99.99=51199] 
+2022-01-10 17:51:42:446 50 sec: 428047 operations; 8664.7 current ops/sec; est completion in 1 hour 17 minutes [INSERT: Count=86652, Max=53087, Min=172, Avg=1150.85, 90=1322, 99=1660, 99.9=6079, 99.99=52095] 
+2022-01-10 17:51:52:446 60 sec: 515113 operations; 8706.6 current ops/sec; est completion in 1 hour 16 minutes [INSERT: Count=87056, Max=52127, Min=171, Avg=1145.5, 90=1317, 99=1667, 99.9=5563, 99.99=51231] 
+2022-01-10 17:52:02:446 70 sec: 602101 operations; 8698.8 current ops/sec; est completion in 1 hour 16 minutes [INSERT: Count=86994, Max=49119, Min=177, Avg=1146.42, 90=1313, 99=1565, 99.9=4467, 99.99=48767] 
+2022-01-10 17:52:12:446 80 sec: 689470 operations; 8736.9 current ops/sec; est completion in 1 hour 16 minutes [INSERT: Count=87373, Max=57727, Min=156, Avg=1141.21, 90=1327, 99=1610, 99.9=4351, 99.99=57375] 
+2022-01-10 17:52:17:450 85 sec: 732924 operations; 8683.85 current ops/sec; est completion in 1 hour 15 minutes [CLEANUP: Count=10, Max=2, Min=0, Avg=0.3, 90=1, 99=2, 99.9=2, 99.99=2] [INSERT: Count=43444, Max=64319, Min=193, Avg=1148.18, 90=1328, 99=1559, 99.9=4211, 99.99=64095] 

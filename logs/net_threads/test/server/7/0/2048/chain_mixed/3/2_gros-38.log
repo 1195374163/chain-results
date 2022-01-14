@@ -1,0 +1,13 @@
+I[20:01:02,169] [main]ChainPaxosMixedProto: ChainPaxos: {members=[172.16.66.4:50300, 172.16.66.38:50300, 172.16.66.39:50300, 172.16.66.40:50300, 172.16.66.41:50300, 172.16.66.42:50300, 172.16.66.43:50300]} qs 4
+W[20:01:02,210] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.41:50300, cause: finishConnect(..) failed: Connection refused: gros-41/172.16.66.41:50300
+W[20:01:02,210] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.42:50300, cause: finishConnect(..) failed: Connection refused: gros-42/172.16.66.42:50300
+W[20:01:02,211] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.39:50300, cause: finishConnect(..) failed: Connection refused: gros-39/172.16.66.39:50300
+W[20:01:02,211] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.43:50300, cause: finishConnect(..) failed: Connection refused: gros-43/172.16.66.43:50300
+W[20:01:02,211] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.40:50300, cause: finishConnect(..) failed: Connection refused: gros-40/172.16.66.40:50300
+W[20:01:03,213] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.41:50300, cause: finishConnect(..) failed: Connection refused: gros-41/172.16.66.41:50300
+W[20:01:03,214] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.43:50300, cause: finishConnect(..) failed: Connection refused: gros-43/172.16.66.43:50300
+W[20:01:03,214] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.42:50300, cause: finishConnect(..) failed: Connection refused: gros-42/172.16.66.42:50300
+W[20:01:04,216] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.43:50300, cause: finishConnect(..) failed: Connection refused: gros-43/172.16.66.43:50300
+I[20:01:06,698] [200-ChainProtoMixed]ChainPaxosMixedProto: New highest instance leader: iN:0, SN{0:172.16.66.4:50300}
+I[20:01:06,699] [100-ChainFrontMixed0]ChainPaxosMixedFront: New writesTo: /172.16.66.4
+I[20:02:39,299] [Thread-1]HashMapApp: Writes: 1015248, reads: 0

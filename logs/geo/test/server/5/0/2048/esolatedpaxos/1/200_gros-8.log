@@ -1,0 +1,22 @@
+I[21:55:05,655] [main]Membership: New preferred members: [172.16.66.68:50300, 172.16.66.69:50300]
+I[21:55:05,777] [main]EsolatedPaxosProto: EsolatedPaxos: {members=[172.16.66.7:50300, 172.16.66.8:50300, 172.16.66.68:50300, 172.16.66.69:50300, 172.16.66.70:50300]} mcf 2
+I[21:55:05,779] [100-EPaxosFront0]EPaxosFront: New writesTo: /172.16.66.8
+W[21:55:05,966] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.68:50300, cause: finishConnect(..) failed: Connection refused: gros-68/172.16.66.68:50300
+W[21:55:06,082] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.70:50300, cause: finishConnect(..) failed: Connection refused: gros-70/172.16.66.70:50300
+W[21:55:06,086] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.69:50300, cause: finishConnect(..) failed: Connection refused: gros-69/172.16.66.69:50300
+W[21:55:07,369] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.70:50300, cause: finishConnect(..) failed: Connection refused: gros-70/172.16.66.70:50300
+W[21:55:19,180] [100-EPaxosFront0]EPaxosFront: Sending batch by timeout, size 1
+W[21:55:19,340] [100-EPaxosFront0]EPaxosFront: Sending batch by timeout, size 9
+W[21:55:23,424] [100-EPaxosFront0]EPaxosFront: Sending batch by timeout, size 1
+W[21:55:23,584] [100-EPaxosFront0]EPaxosFront: Sending batch by timeout, size 9
+W[21:55:27,027] [100-EPaxosFront0]EPaxosFront: Sending batch by timeout, size 7
+W[21:55:27,347] [100-EPaxosFront0]EPaxosFront: Sending batch by timeout, size 3
+W[21:55:27,907] [100-EPaxosFront0]EPaxosFront: Sending batch by timeout, size 1
+W[21:55:28,067] [100-EPaxosFront0]EPaxosFront: Sending batch by timeout, size 9
+W[21:55:30,709] [100-EPaxosFront0]EPaxosFront: Sending batch by timeout, size 1
+W[21:55:31,110] [100-EPaxosFront0]EPaxosFront: Sending batch by timeout, size 9
+W[21:55:32,311] [100-EPaxosFront0]EPaxosFront: Sending batch by timeout, size 1
+W[21:56:38,049] [100-EPaxosFront0]EPaxosFront: Sending batch by timeout, size 6
+W[21:56:38,369] [100-EPaxosFront0]EPaxosFront: Sending batch by timeout, size 4
+W[21:57:20,405] [100-EPaxosFront0]EPaxosFront: Sending batch by timeout, size 3
+I[21:57:22,243] [Thread-1]HashMapApp: Writes: 883992, reads: 0

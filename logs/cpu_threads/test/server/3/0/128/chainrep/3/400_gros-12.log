@@ -1,0 +1,10 @@
+I[21:09:08,703] [main]ChainRepMixedProto: Starting ChainReplication
+I[21:09:08,706] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[]}
+I[21:09:08,707] [300-ChainRepMixedProto]ChainRepMixedProto: Looks like I'm the first one, registering myself directly
+I[21:09:08,714] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[90]}
+I[21:09:08,718] [300-ChainRepMixedProto]ChainRepMixedProto: Active! My id is: 90
+I[21:09:08,719] [100-ChainRepMixFront0]ChainRepMixedFront: New writesTo: /172.16.66.12
+I[21:09:10,242] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[90, 91]}
+I[21:09:10,243] [300-ChainRepMixedProto]ChainRepMixedProto: Propagating 'sent' to 172.16.66.13:50300
+I[21:09:10,725] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[90, 91, 92]}
+I[21:10:46,017] [Thread-1]HashMapApp: Writes: 10794906, reads: 0

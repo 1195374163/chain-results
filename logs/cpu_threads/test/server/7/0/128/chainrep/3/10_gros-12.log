@@ -1,0 +1,22 @@
+I[21:51:21,762] [main]ChainRepMixedProto: Starting ChainReplication
+I[21:51:21,766] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[243, 244, 245, 246, 247, 248, 249]}
+W[21:51:21,810] [300-ChainRepMixedProto]ChainRepMixedProto: Connection failed to 172.16.66.120:50300, cause: finishConnect(..) failed: Connection refused: /172.16.66.120:50300
+W[21:51:21,811] [300-ChainRepMixedProto]ChainRepMixedProto: Connection failed to 172.16.66.15:50300, cause: finishConnect(..) failed: Connection refused: /172.16.66.15:50300
+W[21:51:21,811] [300-ChainRepMixedProto]ChainRepMixedProto: Connection failed to 172.16.66.14:50300, cause: finishConnect(..) failed: Connection refused: /172.16.66.14:50300
+W[21:51:21,812] [300-ChainRepMixedProto]ChainRepMixedProto: Connection failed to 172.16.66.16:50300, cause: finishConnect(..) failed: Connection refused: /172.16.66.16:50300
+W[21:51:21,812] [300-ChainRepMixedProto]ChainRepMixedProto: Connection failed to 172.16.66.121:50300, cause: finishConnect(..) failed: Connection refused: /172.16.66.121:50300
+W[21:51:21,812] [300-ChainRepMixedProto]ChainRepMixedProto: Connection failed to 172.16.66.13:50300, cause: finishConnect(..) failed: Connection refused: /172.16.66.13:50300
+I[21:51:21,885] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[]}
+I[21:51:21,886] [300-ChainRepMixedProto]ChainRepMixedProto: Looks like I'm the first one, registering myself directly
+I[21:51:21,891] [300-ChainRepMixedProto]ChainRepMixedProto: InConnectionDown{node=172.16.66.12:50300, cause=null}
+I[21:51:21,892] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[250]}
+I[21:51:21,892] [300-ChainRepMixedProto]ChainRepMixedProto: Active! My id is: 250
+I[21:51:21,894] [100-ChainRepMixFront0]ChainRepMixedFront: New writesTo: /172.16.66.12
+I[21:51:23,272] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[250, 251]}
+I[21:51:23,273] [300-ChainRepMixedProto]ChainRepMixedProto: Propagating 'sent' to 172.16.66.13:50300
+I[21:51:23,788] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[250, 251, 252]}
+I[21:51:24,294] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[250, 251, 252, 253]}
+I[21:51:24,803] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[250, 251, 252, 253, 254]}
+I[21:51:25,320] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[250, 251, 252, 253, 254, 255]}
+I[21:51:25,787] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[250, 251, 252, 253, 254, 255, 256]}
+I[21:52:59,414] [Thread-1]HashMapApp: Writes: 2016260, reads: 0

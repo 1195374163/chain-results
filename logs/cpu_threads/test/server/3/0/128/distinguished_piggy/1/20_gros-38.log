@@ -1,0 +1,5 @@
+I[16:53:58,478] [main]DistPaxosPiggyProto: DistinguishedPiggy: {members=[172.16.66.4:50300, 172.16.66.38:50300, 172.16.66.39:50300]} qs 2
+W[16:53:58,488] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.39:50300, cause: finishConnect(..) failed: Connection refused: gros-39/172.16.66.39:50300
+I[16:54:03,002] [400-DistPiggyProto]DistPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.4:50300}
+I[16:54:03,003] [100-DistFront0]DistPaxosFront: New writesTo: /172.16.66.4
+I[16:55:33,590] [Thread-1]HashMapApp: Writes: 6573130, reads: 0

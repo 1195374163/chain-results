@@ -1,0 +1,10 @@
+I[15:26:46,326] [main]Membership: New preferred members: [172.16.66.40:50300, 172.16.66.41:50300, 172.16.66.42:50300, 172.16.66.43:50300]
+I[15:26:46,415] [main]EPaxosProto: EPaxos: {members=[172.16.66.4:50300, 172.16.66.38:50300, 172.16.66.39:50300, 172.16.66.40:50300, 172.16.66.41:50300, 172.16.66.42:50300, 172.16.66.43:50300]} mcf 3
+I[15:26:46,418] [100-EPaxosFront0]EPaxosFront: New writesTo: /172.16.66.39
+W[15:26:46,463] [500-EPaxos]EPaxosProto: Connection failed to 172.16.66.41:50300, cause: finishConnect(..) failed: Connection refused: gros-41/172.16.66.41:50300
+W[15:26:46,463] [500-EPaxos]EPaxosProto: Connection failed to 172.16.66.43:50300, cause: finishConnect(..) failed: Connection refused: gros-43/172.16.66.43:50300
+W[15:26:46,464] [500-EPaxos]EPaxosProto: Connection failed to 172.16.66.40:50300, cause: finishConnect(..) failed: Connection refused: gros-40/172.16.66.40:50300
+W[15:26:46,464] [500-EPaxos]EPaxosProto: Connection failed to 172.16.66.42:50300, cause: finishConnect(..) failed: Connection refused: gros-42/172.16.66.42:50300
+W[15:26:47,466] [500-EPaxos]EPaxosProto: Connection failed to 172.16.66.43:50300, cause: finishConnect(..) failed: Connection refused: gros-43/172.16.66.43:50300
+W[15:26:47,470] [500-EPaxos]EPaxosProto: Connection failed to 172.16.66.42:50300, cause: finishConnect(..) failed: Connection refused: gros-42/172.16.66.42:50300
+I[15:28:23,349] [Thread-1]HashMapApp: Writes: 884909, reads: 0

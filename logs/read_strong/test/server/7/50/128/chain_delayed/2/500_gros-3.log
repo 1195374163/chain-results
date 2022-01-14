@@ -1,0 +1,18 @@
+I[23:16:41,265] [main]ChainPaxosDelayedProto: ChainProtoDelay: {members=[172.16.66.3:50300, 172.16.66.17:50300, 172.16.66.19:50300, 172.16.66.21:50300, 172.16.66.22:50300, 172.16.66.105:50300, 172.16.66.107:50300]} qs 4
+W[23:16:41,301] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.19:50300, cause: finishConnect(..) failed: Connection refused: gros-19/172.16.66.19:50300
+W[23:16:41,302] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.21:50300, cause: finishConnect(..) failed: Connection refused: gros-21/172.16.66.21:50300
+W[23:16:41,302] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.105:50300, cause: finishConnect(..) failed: Connection refused: gros-105/172.16.66.105:50300
+W[23:16:41,302] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.107:50300, cause: finishConnect(..) failed: Connection refused: gros-107/172.16.66.107:50300
+W[23:16:41,302] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.17:50300, cause: finishConnect(..) failed: Connection refused: gros-17/172.16.66.17:50300
+W[23:16:41,302] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.22:50300, cause: finishConnect(..) failed: Connection refused: gros-22/172.16.66.22:50300
+W[23:16:42,306] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.21:50300, cause: finishConnect(..) failed: Connection refused: gros-21/172.16.66.21:50300
+W[23:16:42,306] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.22:50300, cause: finishConnect(..) failed: Connection refused: gros-22/172.16.66.22:50300
+W[23:16:42,307] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.105:50300, cause: finishConnect(..) failed: Connection refused: gros-105/172.16.66.105:50300
+W[23:16:42,308] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.107:50300, cause: finishConnect(..) failed: Connection refused: gros-107/172.16.66.107:50300
+W[23:16:43,309] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.105:50300, cause: finishConnect(..) failed: Connection refused: gros-105/172.16.66.105:50300
+W[23:16:43,310] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.107:50300, cause: finishConnect(..) failed: Connection refused: gros-107/172.16.66.107:50300
+I[23:16:46,268] [200-ChainProtoDelay]ChainPaxosDelayedProto: Attempting to take leadership...
+I[23:16:46,272] [200-ChainProtoDelay]ChainPaxosDelayedProto: New highest instance leader: iN:0, SN{0:172.16.66.3:50300}
+I[23:16:46,274] [100-ChainFrontDelay0]ChainPaxosDelayedFront: New writesTo: /172.16.66.3
+I[23:16:46,284] [200-ChainProtoDelay]ChainPaxosDelayedProto: I am leader now! @ instance 0
+I[23:18:29,986] [Thread-1]HashMapApp: Writes: 7887523, reads: 1016757

@@ -1,0 +1,3 @@
+I[20:56:31,301] [main]URingPaxosProto: URingPaxos: {members=[172.16.66.4:50300, 172.16.66.5:50300, 172.16.66.39:50300, 172.16.66.40:50300, 172.16.66.41:50300]} qs 3
+I[20:56:35,417] [200-URingPaxos]URingPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.4:50300}
+I[20:58:48,920] [Thread-1]HashMapApp: Writes: 108330, reads: 0

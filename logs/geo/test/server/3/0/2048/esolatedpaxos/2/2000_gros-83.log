@@ -1,0 +1,5 @@
+I[23:49:38,950] [main]Membership: New preferred members: [172.16.66.9:50300]
+I[23:49:39,081] [main]EsolatedPaxosProto: EsolatedPaxos: {members=[172.16.66.9:50300, 172.16.66.82:50300, 172.16.66.83:50300]} mcf 1
+I[23:49:39,084] [100-EPaxosFront0]EPaxosFront: New writesTo: /172.16.66.83
+W[23:51:52,344] [100-EPaxosFront0]EPaxosFront: Sending batch by timeout, size 6
+I[23:51:54,274] [Thread-1]HashMapApp: Writes: 4721081, reads: 0

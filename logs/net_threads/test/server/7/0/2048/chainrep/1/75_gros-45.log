@@ -1,0 +1,15 @@
+I[15:20:37,373] [main]ChainRepMixedProto: Starting ChainReplication
+I[15:20:37,377] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[13]}
+I[15:20:37,883] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[13, 14]}
+I[15:20:38,379] [300-ChainRepMixedProto]ChainRepMixedProto: Sending join msg to: 172.16.66.22:50300 - 14
+I[15:20:38,395] [300-ChainRepMixedProto]ChainRepMixedProto: State received, registering self
+I[15:20:38,396] [100-ChainRepMixFront0]HashMapApp: State installed(0) 
+I[15:20:38,403] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[13, 14, 15]}
+I[15:20:38,404] [300-ChainRepMixedProto]ChainRepMixedProto: Active! My id is: 15
+I[15:20:38,405] [100-ChainRepMixFront0]ChainRepMixedFront: New writesTo: /172.16.66.12
+I[15:20:38,879] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[13, 14, 15, 16]}
+I[15:20:38,880] [300-ChainRepMixedProto]ChainRepMixedProto: Propagating 'sent' to 172.16.66.87:50300
+I[15:20:39,380] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[13, 14, 15, 16, 17]}
+I[15:20:39,885] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[13, 14, 15, 16, 17, 18]}
+I[15:20:40,384] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[13, 14, 15, 16, 17, 18, 19]}
+I[15:22:13,902] [Thread-1]HashMapApp: Writes: 3884059, reads: 0

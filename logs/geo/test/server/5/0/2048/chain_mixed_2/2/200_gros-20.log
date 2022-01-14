@@ -1,0 +1,6 @@
+I[02:17:51,362] [main]ChainPaxosMixedProto: ChainPaxos: {members=[172.16.66.2:50300, 172.16.66.17:50300, 172.16.66.18:50300, 172.16.66.19:50300, 172.16.66.20:50300]} qs 3
+I[02:17:54,430] [200-ChainProtoMixed]ChainPaxosMixedProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[02:17:54,431] [100-ChainFrontMixed0]ChainPaxosMixedFront: New writesTo: /172.16.66.2
+W[02:18:11,002] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+W[02:18:11,563] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+I[02:20:07,092] [Thread-1]HashMapApp: Writes: 493279, reads: 0

@@ -1,0 +1,24 @@
+2022-01-07 22:11:29:149 0 sec: 0 operations; est completion in 0 second 
+2022-01-07 22:11:39:150 10 sec: 1118945 operations; 111894.5 current ops/sec; est completion in 5 minutes [READ: Count=1062947, Max=5156863, Min=372, Avg=1902.15, 90=1880, 99=4049, 99.9=32559, 99.99=146303] [UPDATE: Count=56293, Max=5148671, Min=247, Avg=1536.22, 90=1505, 99=6207, 99.9=30927, 99.99=72319] 
+2022-01-07 22:11:49:150 20 sec: 2481212 operations; 136226.7 current ops/sec; est completion in 5 minutes [READ: Count=1293773, Max=10133503, Min=477, Avg=2097.64, 90=2297, 99=4295, 99.9=34399, 99.99=87551] [UPDATE: Count=68352, Max=10125311, Min=230, Avg=1879.91, 90=1824, 99=3857, 99.9=40543, 99.99=88959] 
+2022-01-07 22:11:59:149 30 sec: 3668893 operations; 118768.1 current ops/sec; est completion in 4 minutes [READ: Count=1128436, Max=77887, Min=609, Avg=2128.58, 90=2463, 99=4683, 99.9=43583, 99.99=72575] [UPDATE: Count=59177, Max=72319, Min=225, Avg=1627.65, 90=1981, 99=3657, 99.9=40895, 99.99=58943] 
+2022-01-07 22:12:09:149 40 sec: 4855238 operations; 118634.5 current ops/sec; est completion in 4 minutes [READ: Count=1126956, Max=48799, Min=658, Avg=2131.4, 90=2489, 99=5215, 99.9=39551, 99.99=44127] [UPDATE: Count=59428, Max=63519, Min=232, Avg=1620.64, 90=1988, 99=4231, 99.9=36799, 99.99=43263] 
+2022-01-07 22:12:19:149 50 sec: 6048135 operations; 119289.7 current ops/sec; est completion in 4 minutes [READ: Count=1132856, Max=74047, Min=634, Avg=2119.34, 90=2481, 99=4483, 99.9=35871, 99.99=72959] [UPDATE: Count=60010, Max=74367, Min=242, Avg=1623.02, 90=1994, 99=3951, 99.9=32559, 99.99=58175] 
+2022-01-07 22:12:29:149 60 sec: 7239821 operations; 119168.6 current ops/sec; est completion in 4 minutes [READ: Count=1131949, Max=53887, Min=671, Avg=2121.22, 90=2489, 99=5123, 99.9=35359, 99.99=50783] [UPDATE: Count=59765, Max=51615, Min=265, Avg=1627.29, 90=1998, 99=4107, 99.9=33471, 99.99=49375] 
+2022-01-07 22:12:39:149 70 sec: 8423726 operations; 118390.5 current ops/sec; est completion in 4 minutes [READ: Count=1124665, Max=95231, Min=769, Avg=2131.48, 90=2483, 99=4583, 99.9=37183, 99.99=86463] [UPDATE: Count=59149, Max=94335, Min=265, Avg=1700.57, 90=1992, 99=4207, 99.9=47711, 99.99=86207] 
+2022-01-07 22:12:49:149 80 sec: 9639393 operations; 121566.7 current ops/sec; est completion in 4 minutes [READ: Count=1155508, Max=46751, Min=577, Avg=2079.87, 90=2465, 99=4071, 99.9=31711, 99.99=42175] [UPDATE: Count=60210, Max=50527, Min=313, Avg=1586.06, 90=1972, 99=3273, 99.9=30719, 99.99=41279] 
+Still waiting for thread Thread-81 to complete. Workload status: true
+Still waiting for thread Thread-81 to complete. Workload status: true
+2022-01-07 22:12:59:150 90 sec: 10252116 operations; 61272.3 current ops/sec; est completion in 4 minutes [READ: Count=581589, Max=41663, Min=694, Avg=2080.57, 90=2491, 99=4013, 99.9=28815, 99.99=40223] [CLEANUP: Count=49, Max=4919295, Min=109056, Avg=2508778.45, 90=4419583, 99=4919295, 99.9=4919295, 99.99=4919295] [UPDATE: Count=31053, Max=41567, Min=278, Avg=1587.35, 90=1994, 99=3421, 99.9=27007, 99.99=38527] 
+Still waiting for thread Thread-81 to complete. Workload status: true
+Still waiting for thread Thread-81 to complete. Workload status: true
+Still waiting for thread Thread-81 to complete. Workload status: true
+Still waiting for thread Thread-81 to complete. Workload status: true
+Still waiting for thread Thread-81 to complete. Workload status: true
+2022-01-07 22:13:09:150 100 sec: 10252116 operations; 0 current ops/sec; est completion in 4 minutes [READ: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] [CLEANUP: Count=100, Max=14958591, Min=5017600, Avg=9986703.36, 90=13959167, 99=14860287, 99.9=14958591, 99.99=14958591] [UPDATE: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] 
+Still waiting for thread Thread-81 to complete. Workload status: true
+Still waiting for thread Thread-81 to complete. Workload status: true
+Still waiting for thread Thread-196 to complete. Workload status: true
+Still waiting for thread Thread-51 to complete. Workload status: true
+2022-01-07 22:13:19:149 110 sec: 10252116 operations; 0 current ops/sec; est completion in 5 minutes [READ: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] [CLEANUP: Count=99, Max=24887295, Min=15048704, Avg=19972344.24, 90=23887871, 99=24788991, 99.9=24887295, 99.99=24887295] [UPDATE: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] 
+2022-01-07 22:13:19:274 110 sec: 10252116 operations; 0 current ops/sec; est completion in 5 minutes [READ: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] [CLEANUP: Count=2, Max=25100287, Min=24985600, Avg=25042944, 90=25100287, 99=25100287, 99.9=25100287, 99.99=25100287] [UPDATE: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] 

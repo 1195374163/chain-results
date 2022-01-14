@@ -1,0 +1,21 @@
+I[16:55:48,897] [main]MultiPaxosProto: MultiPaxos: {members=[172.16.66.51:50300, 172.16.66.53:50300, 172.16.66.56:50300, 172.16.66.60:50300, 172.16.66.61:50300, 172.16.66.65:50300, 172.16.66.66:50300]} qs 4
+W[16:55:48,946] [400-MultiProto]MultiPaxosProto: Connection failed to 172.16.66.56:50300, cause: finishConnect(..) failed: Connection refused: gros-56/172.16.66.56:50300
+W[16:55:48,947] [400-MultiProto]MultiPaxosProto: Connection failed to 172.16.66.60:50300, cause: finishConnect(..) failed: Connection refused: gros-60/172.16.66.60:50300
+W[16:55:48,947] [400-MultiProto]MultiPaxosProto: Connection failed to 172.16.66.53:50300, cause: finishConnect(..) failed: Connection refused: gros-53/172.16.66.53:50300
+W[16:55:48,947] [400-MultiProto]MultiPaxosProto: Connection failed to 172.16.66.66:50300, cause: finishConnect(..) failed: Connection refused: gros-66/172.16.66.66:50300
+W[16:55:48,947] [400-MultiProto]MultiPaxosProto: Connection failed to 172.16.66.65:50300, cause: finishConnect(..) failed: Connection refused: gros-65/172.16.66.65:50300
+W[16:55:48,947] [400-MultiProto]MultiPaxosProto: Connection failed to 172.16.66.61:50300, cause: finishConnect(..) failed: Connection refused: gros-61/172.16.66.61:50300
+W[16:55:49,951] [400-MultiProto]MultiPaxosProto: Connection failed to 172.16.66.60:50300, cause: finishConnect(..) failed: Connection refused: gros-60/172.16.66.60:50300
+W[16:55:49,951] [400-MultiProto]MultiPaxosProto: Connection failed to 172.16.66.61:50300, cause: finishConnect(..) failed: Connection refused: gros-61/172.16.66.61:50300
+W[16:55:49,952] [400-MultiProto]MultiPaxosProto: Connection failed to 172.16.66.65:50300, cause: finishConnect(..) failed: Connection refused: gros-65/172.16.66.65:50300
+W[16:55:49,952] [400-MultiProto]MultiPaxosProto: Connection failed to 172.16.66.66:50300, cause: finishConnect(..) failed: Connection refused: gros-66/172.16.66.66:50300
+W[16:55:50,954] [400-MultiProto]MultiPaxosProto: Connection failed to 172.16.66.65:50300, cause: finishConnect(..) failed: Connection refused: gros-65/172.16.66.65:50300
+W[16:55:50,956] [400-MultiProto]MultiPaxosProto: Connection failed to 172.16.66.66:50300, cause: finishConnect(..) failed: Connection refused: gros-66/172.16.66.66:50300
+I[16:55:53,900] [400-MultiProto]MultiPaxosProto: Attempting to take leadership...
+I[16:55:53,904] [400-MultiProto]MultiPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.51:50300}
+I[16:55:53,905] [100-DistFront0]DistPaxosFront: New writesTo: /172.16.66.51
+I[16:55:53,915] [400-MultiProto]MultiPaxosProto: I am leader now! @ instance 0
+W[16:55:53,915] [400-MultiProto]MultiPaxosProto: PrepareOk ignored, either already leader or stopped trying
+W[16:55:53,915] [400-MultiProto]MultiPaxosProto: PrepareOk ignored, either already leader or stopped trying
+W[16:55:53,915] [400-MultiProto]MultiPaxosProto: PrepareOk ignored, either already leader or stopped trying
+I[16:57:26,541] [Thread-1]HashMapApp: Writes: 2610097, reads: 0

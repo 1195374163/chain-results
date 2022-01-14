@@ -1,0 +1,11 @@
+2022-01-12 00:17:50:254 0 sec: 0 operations; est completion in 0 second 
+2022-01-12 00:18:00:226 10 sec: 145126 operations; 14511.15 current ops/sec; est completion in 45 minutes [INSERT: Count=145129, Max=29631, Min=209, Avg=1344.74, 90=2411, 99=3867, 99.9=11751, 99.99=28447] 
+2022-01-12 00:18:10:226 20 sec: 300536 operations; 15541 current ops/sec; est completion in 44 minutes [INSERT: Count=155417, Max=31295, Min=212, Avg=1285.31, 90=2367, 99=3685, 99.9=9535, 99.99=15143] 
+2022-01-12 00:18:20:226 30 sec: 450241 operations; 14970.5 current ops/sec; est completion in 43 minutes [INSERT: Count=149702, Max=33247, Min=213, Avg=1334.36, 90=2449, 99=3873, 99.9=11239, 99.99=26527] 
+2022-01-12 00:18:30:226 40 sec: 603664 operations; 15342.3 current ops/sec; est completion in 43 minutes [INSERT: Count=153424, Max=35327, Min=210, Avg=1302.15, 90=2395, 99=3737, 99.9=12015, 99.99=34015] 
+2022-01-12 00:18:40:226 50 sec: 758896 operations; 15523.2 current ops/sec; est completion in 43 minutes [INSERT: Count=155234, Max=32559, Min=211, Avg=1287, 90=2355, 99=3691, 99.9=13311, 99.99=31199] 
+2022-01-12 00:18:50:226 60 sec: 917995 operations; 15909.9 current ops/sec; est completion in 42 minutes [INSERT: Count=159102, Max=138239, Min=215, Avg=1255.85, 90=2273, 99=3695, 99.9=19935, 99.99=58111] 
+2022-01-12 00:19:00:226 70 sec: 1078201 operations; 16020.6 current ops/sec; est completion in 42 minutes [INSERT: Count=160203, Max=40831, Min=213, Avg=1247.07, 90=2293, 99=3599, 99.9=22479, 99.99=39007] 
+2022-01-12 00:19:10:226 80 sec: 1237052 operations; 15885.1 current ops/sec; est completion in 41 minutes [INSERT: Count=158844, Max=44191, Min=214, Avg=1257.77, 90=2277, 99=3699, 99.9=25903, 99.99=42879] 
+Still waiting for thread Thread-5 to complete. Workload status: true
+2022-01-12 00:19:17:464 87 sec: 1314535 operations; 10705.03 current ops/sec; est completion in 42 minutes [CLEANUP: Count=20, Max=1, Min=0, Avg=0.1, 90=0, 99=1, 99.9=1, 99.99=1] [INSERT: Count=77480, Max=2234367, Min=217, Avg=1377.41, 90=2383, 99=3777, 99.9=27999, 99.99=30031] 

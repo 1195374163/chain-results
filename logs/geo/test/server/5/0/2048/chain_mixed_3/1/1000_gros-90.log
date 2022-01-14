@@ -1,0 +1,8 @@
+I[12:03:52,899] [main]ChainPaxosMixedProto: ChainPaxos: {members=[172.16.66.10:50300, 172.16.66.53:50300, 172.16.66.90:50300, 172.16.66.96:50300, 172.16.66.97:50300]} qs 3
+W[12:03:53,246] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.97:50300, cause: finishConnect(..) failed: Connection refused: gros-97/172.16.66.97:50300
+W[12:03:53,250] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.96:50300, cause: finishConnect(..) failed: Connection refused: gros-96/172.16.66.96:50300
+W[12:03:54,552] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.97:50300, cause: finishConnect(..) failed: Connection refused: gros-97/172.16.66.97:50300
+I[12:03:58,950] [200-ChainProtoMixed]ChainPaxosMixedProto: New highest instance leader: iN:0, SN{0:172.16.66.10:50300}
+I[12:03:58,951] [100-ChainFrontMixed0]ChainPaxosMixedFront: New writesTo: /172.16.66.10
+W[12:06:10,672] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 4
+I[12:06:12,409] [Thread-1]HashMapApp: Writes: 2778434, reads: 0

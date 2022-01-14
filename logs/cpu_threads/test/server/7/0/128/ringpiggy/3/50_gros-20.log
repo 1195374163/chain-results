@@ -1,0 +1,84 @@
+I[20:42:42,444] [main]RingPaxosPiggyProto: RingPiggyPaxos: {members=[172.16.66.2:50300, 172.16.66.18:50300, 172.16.66.19:50300, 172.16.66.20:50300, 172.16.66.21:50300, 172.16.66.22:50300, 172.16.66.23:50300]} qs 4 max instances: 250
+W[20:42:42,452] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.22:50300, cause: finishConnect(..) failed: Connection refused: gros-22/172.16.66.22:50300
+W[20:42:42,453] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+W[20:42:42,453] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.21:50300, cause: finishConnect(..) failed: Connection refused: gros-21/172.16.66.21:50300
+W[20:42:43,454] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+I[20:42:45,950] [600-RingPiggyProto]RingPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[20:42:45,952] [100-RingFront0]RingPaxosFront: New writesTo: /172.16.66.2
+W[20:42:52,595] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 28729 to 172.16.66.21:50300  decided until 28728 received 28870
+W[20:42:52,955] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 46182 to 172.16.66.21:50300  decided until 46181 received 46281
+W[20:42:55,421] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 159731 to 172.16.66.21:50300  decided until 159730 received 159830
+W[20:42:55,541] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 166313 to 172.16.66.21:50300  decided until 166312 received 166416
+W[20:42:56,847] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 232555 to 172.16.66.21:50300  decided until 232554 received 232681
+W[20:42:57,642] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 272668 to 172.16.66.21:50300  decided until 272667 received 272760
+W[20:42:57,777] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 279781 to 172.16.66.21:50300  decided until 279780 received 279882
+W[20:42:58,543] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 316624 to 172.16.66.21:50300  decided until 316623 received 316721
+W[20:42:59,006] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 338049 to 172.16.66.21:50300  decided until 338048 received 338155
+W[20:42:59,473] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 353470 to 172.16.66.21:50300  decided until 353469 received 353600
+W[20:43:00,028] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 372540 to 172.16.66.21:50300  decided until 372539 received 372646
+W[20:43:00,998] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 390679 to 172.16.66.21:50300  decided until 390678 received 390773
+W[20:43:01,450] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 416299 to 172.16.66.21:50300  decided until 416298 received 416398
+W[20:43:01,992] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 448868 to 172.16.66.21:50300  decided until 448867 received 448961
+W[20:43:03,740] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 532411 to 172.16.66.21:50300  decided until 532410 received 532432
+W[20:43:05,161] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 604090 to 172.16.66.21:50300  decided until 604089 received 604205
+W[20:43:05,400] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 615409 to 172.16.66.21:50300  decided until 615408 received 615410
+W[20:43:05,643] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 627142 to 172.16.66.21:50300  decided until 627141 received 627268
+W[20:43:06,448] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 668855 to 172.16.66.21:50300  decided until 668854 received 668996
+W[20:43:06,872] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 691582 to 172.16.66.21:50300  decided until 691581 received 691685
+W[20:43:07,107] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 704154 to 172.16.66.21:50300  decided until 704153 received 704252
+W[20:43:07,592] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 719563 to 172.16.66.21:50300  decided until 719562 received 719672
+W[20:43:07,703] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 725081 to 172.16.66.21:50300  decided until 725080 received 725195
+W[20:43:07,726] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 726002 to 172.16.66.21:50300  decided until 726001 received 726095
+W[20:43:07,893] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 733080 to 172.16.66.21:50300  decided until 733079 received 733181
+W[20:43:09,276] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 777738 to 172.16.66.21:50300  decided until 777737 received 777851
+W[20:43:09,504] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 778964 to 172.16.66.21:50300  decided until 778963 received 779061
+W[20:43:15,940] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 1089392 to 172.16.66.21:50300  decided until 1089391 received 1089489
+W[20:43:15,973] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 1090840 to 172.16.66.21:50300  decided until 1090839 received 1090967
+W[20:43:19,677] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 1276204 to 172.16.66.21:50300  decided until 1276203 received 1276318
+W[20:43:19,851] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 1286320 to 172.16.66.21:50300  decided until 1286319 received 1286413
+W[20:43:20,180] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 1302613 to 172.16.66.21:50300  decided until 1302612 received 1302758
+W[20:43:21,278] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 1360708 to 172.16.66.21:50300  decided until 1360707 received 1360801
+W[20:43:21,562] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 1373588 to 172.16.66.21:50300  decided until 1373587 received 1373717
+W[20:43:21,589] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 1374849 to 172.16.66.21:50300  decided until 1374848 received 1374947
+W[20:43:21,814] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 1387041 to 172.16.66.21:50300  decided until 1387040 received 1387163
+W[20:43:25,232] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 1549604 to 172.16.66.21:50300  decided until 1549603 received 1549626
+W[20:43:27,430] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 1657512 to 172.16.66.21:50300  decided until 1657511 received 1657625
+W[20:43:28,204] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 1701706 to 172.16.66.21:50300  decided until 1701705 received 1701801
+W[20:43:28,446] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 1715006 to 172.16.66.21:50300  decided until 1715005 received 1715114
+W[20:43:28,997] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 1743634 to 172.16.66.21:50300  decided until 1743633 received 1743731
+W[20:43:33,678] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 1964782 to 172.16.66.21:50300  decided until 1964781 received 1964884
+W[20:43:34,180] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 1985463 to 172.16.66.21:50300  decided until 1985462 received 1985564
+W[20:43:34,896] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2026743 to 172.16.66.21:50300  decided until 2026742 received 2026834
+W[20:43:38,368] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2202772 to 172.16.66.21:50300  decided until 2202771 received 2202878
+W[20:43:42,126] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2372589 to 172.16.66.21:50300  decided until 2372588 received 2372590
+W[20:43:42,459] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2390646 to 172.16.66.21:50300  decided until 2390645 received 2390790
+W[20:43:44,031] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2475897 to 172.16.66.21:50300  decided until 2475896 received 2476025
+W[20:43:44,916] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2523123 to 172.16.66.21:50300  decided until 2523122 received 2523215
+W[20:43:46,012] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2574443 to 172.16.66.21:50300  decided until 2574442 received 2574563
+W[20:43:46,283] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2589120 to 172.16.66.21:50300  decided until 2589119 received 2589239
+W[20:43:47,129] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2636244 to 172.16.66.21:50300  decided until 2636243 received 2636342
+W[20:43:47,461] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2658088 to 172.16.66.21:50300  decided until 2658087 received 2658218
+W[20:43:47,664] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2669880 to 172.16.66.21:50300  decided until 2669879 received 2669988
+W[20:43:48,936] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2734851 to 172.16.66.21:50300  decided until 2734850 received 2734977
+W[20:43:49,751] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2767012 to 172.16.66.21:50300  decided until 2767011 received 2767133
+W[20:43:50,085] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2779553 to 172.16.66.21:50300  decided until 2779552 received 2779673
+W[20:43:50,725] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2817911 to 172.16.66.21:50300  decided until 2817910 received 2818008
+W[20:43:50,836] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2824304 to 172.16.66.21:50300  decided until 2824303 received 2824420
+W[20:43:50,904] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2828457 to 172.16.66.21:50300  decided until 2828456 received 2828587
+W[20:43:51,197] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2848062 to 172.16.66.21:50300  decided until 2848061 received 2848155
+W[20:43:52,950] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2936749 to 172.16.66.21:50300  decided until 2936748 received 2936847
+W[20:43:55,056] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 3045042 to 172.16.66.21:50300  decided until 3045041 received 3045066
+W[20:43:55,666] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 3077119 to 172.16.66.21:50300  decided until 3077118 received 3077220
+W[20:43:57,494] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 3155810 to 172.16.66.21:50300  decided until 3155809 received 3155902
+W[20:43:59,080] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 3233974 to 172.16.66.21:50300  decided until 3233973 received 3234084
+W[20:44:02,300] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 3420566 to 172.16.66.21:50300  decided until 3420565 received 3420665
+W[20:44:02,403] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 3426724 to 172.16.66.21:50300  decided until 3426723 received 3426818
+W[20:44:02,882] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 3448512 to 172.16.66.21:50300  decided until 3448511 received 3448614
+W[20:44:06,582] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 3614344 to 172.16.66.21:50300  decided until 3614343 received 3614438
+W[20:44:06,717] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 3621502 to 172.16.66.21:50300  decided until 3621501 received 3621649
+W[20:44:06,782] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 3625443 to 172.16.66.21:50300  decided until 3625442 received 3625536
+W[20:44:08,691] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 3723317 to 172.16.66.21:50300  decided until 3723316 received 3723443
+W[20:44:12,169] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 3902440 to 172.16.66.21:50300  decided until 3902439 received 3902540
+W[20:44:12,646] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 3927117 to 172.16.66.21:50300  decided until 3927116 received 3927226
+W[20:44:16,553] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 4118911 to 172.16.66.21:50300  decided until 4118910 received 4119006
+I[20:44:18,435] [Thread-1]HashMapApp: Writes: 4116823, reads: 0

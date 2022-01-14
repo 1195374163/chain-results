@@ -1,0 +1,13 @@
+I[20:22:31,332] [main]ChainRepMixedProto: Starting ChainReplication
+I[20:22:31,336] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[3, 4, 5]}
+I[20:22:32,337] [300-ChainRepMixedProto]ChainRepMixedProto: Sending join msg to: 172.16.66.14:50300 - 5
+W[20:22:32,338] [300-ChainRepMixedProto]ChainRepMixedProto: Not tail, ignoring...JoinRequestMsg{}
+I[20:22:32,392] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[]}
+I[20:22:32,394] [300-ChainRepMixedProto]ChainRepMixedProto: Looks like I'm the first one, registering myself directly
+I[20:22:32,409] [300-ChainRepMixedProto]ChainRepMixedProto: InConnectionDown{node=172.16.66.14:50300, cause=null}
+I[20:22:32,409] [300-ChainRepMixedProto]ChainRepMixedProto: InConnectionDown{node=172.16.66.13:50300, cause=null}
+I[20:22:32,409] [300-ChainRepMixedProto]ChainRepMixedProto: InConnectionDown{node=172.16.66.12:50300, cause=null}
+I[20:22:32,409] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[6, 7, 8]}
+I[20:22:32,413] [300-ChainRepMixedProto]ChainRepMixedProto: Active! My id is: 6
+I[20:22:32,414] [100-ChainRepMixFront0]ChainRepMixedFront: New writesTo: /172.16.66.14
+I[20:24:05,811] [Thread-1]HashMapApp: Writes: 1199802, reads: 0

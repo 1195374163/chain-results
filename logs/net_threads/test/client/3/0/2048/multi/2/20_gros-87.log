@@ -1,0 +1,10 @@
+2022-01-10 17:29:15:885 0 sec: 0 operations; est completion in 0 second 
+2022-01-10 17:29:25:860 10 sec: 81046 operations; 8103.79 current ops/sec; est completion in 1 hour 22 minutes [INSERT: Count=81060, Max=261631, Min=250, Avg=2407.08, 90=2471, 99=3477, 99.9=10103, 99.99=261119] 
+2022-01-10 17:29:35:860 20 sec: 169633 operations; 8858.7 current ops/sec; est completion in 1 hour 18 minutes [INSERT: Count=88584, Max=53983, Min=252, Avg=2252.01, 90=2429, 99=4167, 99.9=10607, 99.99=53599] 
+2022-01-10 17:29:45:860 30 sec: 258614 operations; 8898.1 current ops/sec; est completion in 1 hour 16 minutes [INSERT: Count=88971, Max=49535, Min=196, Avg=2242.9, 90=2423, 99=4363, 99.9=15855, 99.99=49151] 
+2022-01-10 17:29:55:860 40 sec: 347125 operations; 8851.1 current ops/sec; est completion in 1 hour 16 minutes [INSERT: Count=88517, Max=51423, Min=266, Avg=2254.46, 90=2419, 99=3023, 99.9=8119, 99.99=50943] 
+2022-01-10 17:30:05:860 50 sec: 435584 operations; 8845.9 current ops/sec; est completion in 1 hour 15 minutes [INSERT: Count=88463, Max=52479, Min=273, Avg=2256.02, 90=2429, 99=4467, 99.9=14663, 99.99=52191] 
+2022-01-10 17:30:15:860 60 sec: 523519 operations; 8793.5 current ops/sec; est completion in 1 hour 15 minutes [INSERT: Count=87926, Max=54143, Min=219, Avg=2269.68, 90=2451, 99=5711, 99.9=7739, 99.99=53599] 
+2022-01-10 17:30:25:860 70 sec: 611417 operations; 8789.8 current ops/sec; est completion in 1 hour 15 minutes [INSERT: Count=87896, Max=54303, Min=185, Avg=2270.53, 90=2445, 99=4027, 99.9=7499, 99.99=53631] 
+2022-01-10 17:30:35:860 80 sec: 700847 operations; 8943 current ops/sec; est completion in 1 hour 14 minutes [INSERT: Count=89432, Max=62623, Min=204, Avg=2232.07, 90=2411, 99=3605, 99.9=9295, 99.99=61983] 
+2022-01-10 17:30:40:866 85 sec: 745919 operations; 9003.6 current ops/sec; est completion in 1 hour 14 minutes [CLEANUP: Count=20, Max=1, Min=0, Avg=0.05, 90=0, 99=1, 99.9=1, 99.99=1] [INSERT: Count=45070, Max=61279, Min=336, Avg=2217.38, 90=2403, 99=4323, 99.9=12159, 99.99=60415] 

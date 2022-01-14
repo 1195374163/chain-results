@@ -1,0 +1,10 @@
+I[20:37:33,532] [main]DistPaxosPiggyProto: DistinguishedPiggy: {members=[172.16.66.9:50300, 172.16.66.82:50300, 172.16.66.83:50300]} qs 2
+W[20:37:33,634] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.82:50300, cause: finishConnect(..) failed: Connection refused: gros-82/172.16.66.82:50300
+W[20:37:33,660] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.83:50300, cause: finishConnect(..) failed: Connection refused: gros-83/172.16.66.83:50300
+I[20:37:38,534] [400-DistPiggyProto]DistPaxosPiggyProto: Attempting to take leadership...
+I[20:37:38,538] [400-DistPiggyProto]DistPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.9:50300}
+I[20:37:38,539] [100-DistFront0]DistPaxosFront: New writesTo: /172.16.66.9
+I[20:37:38,637] [400-DistPiggyProto]DistPaxosPiggyProto: I am leader now! @ instance 0
+W[20:37:38,675] [400-DistPiggyProto]DistPaxosPiggyProto: PrepareOk ignored, either already leader or stopped trying
+W[20:39:47,724] [100-DistFront0]DistPaxosFront: Sending batch by timeout, size 7
+I[20:39:49,541] [Thread-1]HashMapApp: Writes: 3560437, reads: 0

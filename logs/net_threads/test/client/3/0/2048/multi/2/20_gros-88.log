@@ -1,0 +1,10 @@
+2022-01-10 17:29:15:870 0 sec: 0 operations; est completion in 0 second 
+2022-01-10 17:29:25:845 10 sec: 82010 operations; 8201 current ops/sec; est completion in 1 hour 21 minutes [INSERT: Count=82017, Max=261375, Min=240, Avg=2385.99, 90=2445, 99=3673, 99.9=11167, 99.99=261247] 
+2022-01-10 17:29:35:845 20 sec: 170564 operations; 8855.4 current ops/sec; est completion in 1 hour 17 minutes [INSERT: Count=88556, Max=54015, Min=291, Avg=2252.95, 90=2427, 99=3953, 99.9=21055, 99.99=53503] 
+2022-01-10 17:29:45:845 30 sec: 259279 operations; 8871.5 current ops/sec; est completion in 1 hour 16 minutes [INSERT: Count=88713, Max=49759, Min=218, Avg=2249.37, 90=2431, 99=4367, 99.9=15847, 99.99=49119] 
+2022-01-10 17:29:55:845 40 sec: 347099 operations; 8782 current ops/sec; est completion in 1 hour 16 minutes [INSERT: Count=87823, Max=51679, Min=314, Avg=2272.57, 90=2439, 99=3241, 99.9=7951, 99.99=51327] 
+2022-01-10 17:30:05:845 50 sec: 434976 operations; 8787.7 current ops/sec; est completion in 1 hour 15 minutes [INSERT: Count=87867, Max=52127, Min=283, Avg=2271.28, 90=2441, 99=4459, 99.9=19519, 99.99=51999] 
+2022-01-10 17:30:15:845 60 sec: 523996 operations; 8902 current ops/sec; est completion in 1 hour 15 minutes [INSERT: Count=89020, Max=55039, Min=205, Avg=2242.32, 90=2443, 99=5587, 99.9=7475, 99.99=53567] 
+2022-01-10 17:30:25:845 70 sec: 612274 operations; 8827.8 current ops/sec; est completion in 1 hour 15 minutes [INSERT: Count=88286, Max=53887, Min=276, Avg=2261.11, 90=2431, 99=4119, 99.9=7335, 99.99=53727] 
+2022-01-10 17:30:35:845 80 sec: 700819 operations; 8854.5 current ops/sec; est completion in 1 hour 14 minutes [INSERT: Count=88549, Max=62143, Min=291, Avg=2254.09, 90=2429, 99=3627, 99.9=9871, 99.99=61887] 
+2022-01-10 17:30:40:852 85 sec: 745256 operations; 8874.98 current ops/sec; est completion in 1 hour 14 minutes [CLEANUP: Count=20, Max=5, Min=0, Avg=0.45, 90=1, 99=5, 99.9=5, 99.99=5] [INSERT: Count=44425, Max=61279, Min=283, Avg=2249.33, 90=2423, 99=4247, 99.9=13903, 99.99=60319] 

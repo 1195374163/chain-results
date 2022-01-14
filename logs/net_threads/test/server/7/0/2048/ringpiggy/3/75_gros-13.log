@@ -1,0 +1,40 @@
+I[15:48:02,002] [main]RingPaxosPiggyProto: RingPiggyPaxos: {members=[172.16.66.13:50300, 172.16.66.110:50300, 172.16.66.111:50300, 172.16.66.112:50300, 172.16.66.115:50300, 172.16.66.120:50300, 172.16.66.121:50300]} qs 4 max instances: 20
+W[15:48:02,012] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.110:50300, cause: finishConnect(..) failed: Connection refused: gros-110/172.16.66.110:50300
+W[15:48:02,012] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.111:50300, cause: finishConnect(..) failed: Connection refused: gros-111/172.16.66.111:50300
+W[15:48:02,012] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.121:50300, cause: finishConnect(..) failed: Connection refused: gros-121/172.16.66.121:50300
+W[15:48:02,013] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.112:50300, cause: finishConnect(..) failed: Connection refused: gros-112/172.16.66.112:50300
+W[15:48:02,013] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.115:50300, cause: finishConnect(..) failed: Connection refused: gros-115/172.16.66.115:50300
+W[15:48:02,013] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.120:50300, cause: finishConnect(..) failed: Connection refused: gros-120/172.16.66.120:50300
+W[15:48:03,016] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.115:50300, cause: finishConnect(..) failed: Connection refused: gros-115/172.16.66.115:50300
+W[15:48:03,016] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.120:50300, cause: finishConnect(..) failed: Connection refused: gros-120/172.16.66.120:50300
+W[15:48:03,016] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.121:50300, cause: finishConnect(..) failed: Connection refused: gros-121/172.16.66.121:50300
+W[15:48:03,018] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.112:50300, cause: finishConnect(..) failed: Connection refused: gros-112/172.16.66.112:50300
+W[15:48:04,017] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.120:50300, cause: finishConnect(..) failed: Connection refused: gros-120/172.16.66.120:50300
+W[15:48:04,018] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.121:50300, cause: finishConnect(..) failed: Connection refused: gros-121/172.16.66.121:50300
+I[15:48:07,006] [600-RingPiggyProto]RingPaxosPiggyProto: Attempting to take leadership...
+I[15:48:07,010] [600-RingPiggyProto]RingPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.13:50300}
+I[15:48:07,011] [100-RingFront0]RingPaxosFront: New writesTo: /172.16.66.13
+I[15:48:07,021] [600-RingPiggyProto]RingPaxosPiggyProto: I am leader now! @ instance 0
+W[15:48:07,021] [600-RingPiggyProto]RingPaxosPiggyProto: PrepareOk ignored, either already leader or stopped trying
+W[15:48:07,021] [600-RingPiggyProto]RingPaxosPiggyProto: PrepareOk ignored, either already leader or stopped trying
+W[15:48:07,021] [600-RingPiggyProto]RingPaxosPiggyProto: PrepareOk ignored, either already leader or stopped trying
+W[15:48:35,882] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365084
+W[15:48:35,882] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365085
+W[15:48:35,882] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365086
+W[15:48:35,883] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365087
+W[15:48:35,883] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365088
+W[15:48:35,883] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365089
+W[15:48:35,883] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365090
+W[15:48:35,883] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365091
+W[15:48:35,883] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365092
+W[15:48:35,883] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365093
+W[15:48:35,883] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365094
+W[15:48:35,883] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365095
+W[15:48:35,884] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365096
+W[15:48:35,884] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365097
+W[15:48:35,884] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365098
+W[15:48:35,884] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365099
+W[15:48:35,884] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365100
+W[15:48:35,884] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365101
+W[15:48:35,884] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 365102
+I[15:49:39,508] [Thread-1]HashMapApp: Writes: 1475749, reads: 0

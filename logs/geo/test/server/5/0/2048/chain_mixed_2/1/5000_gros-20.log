@@ -1,0 +1,22 @@
+I[01:49:59,531] [main]ChainPaxosMixedProto: ChainPaxos: {members=[172.16.66.2:50300, 172.16.66.17:50300, 172.16.66.18:50300, 172.16.66.19:50300, 172.16.66.20:50300]} qs 3
+I[01:50:02,625] [200-ChainProtoMixed]ChainPaxosMixedProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[01:50:02,626] [100-ChainFrontMixed0]ChainPaxosMixedFront: New writesTo: /172.16.66.2
+W[01:50:29,340] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 9
+W[01:50:29,580] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 1
+W[01:50:40,629] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+W[01:50:40,790] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+W[01:50:51,678] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+W[01:50:51,998] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+W[01:50:59,759] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+W[01:50:59,999] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+W[01:51:09,047] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+W[01:51:09,287] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+W[01:51:19,553] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+W[01:51:19,793] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+W[01:51:31,403] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+W[01:51:31,644] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+W[01:51:44,469] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+W[01:51:44,870] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+W[01:51:58,761] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+W[01:51:59,322] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 5
+I[01:52:26,611] [Thread-1]HashMapApp: Writes: 3270983, reads: 0

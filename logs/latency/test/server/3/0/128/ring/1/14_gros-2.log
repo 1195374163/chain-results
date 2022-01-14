@@ -1,0 +1,9 @@
+I[23:49:43,925] [main]RingPaxosProto: RingPaxos: {members=[172.16.66.2:50300, 172.16.66.18:50300, 172.16.66.19:50300]} qs 2 max instances: 60
+W[23:49:43,933] [600-RingProto]RingPaxosProto: Connection failed to 172.16.66.18:50300, cause: finishConnect(..) failed: Connection refused: gros-18/172.16.66.18:50300
+W[23:49:43,934] [600-RingProto]RingPaxosProto: Connection failed to 172.16.66.19:50300, cause: finishConnect(..) failed: Connection refused: gros-19/172.16.66.19:50300
+I[23:49:48,927] [600-RingProto]RingPaxosProto: Attempting to take leadership...
+I[23:49:48,931] [600-RingProto]RingPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[23:49:48,932] [100-RingFront0]RingPaxosFront: New writesTo: /172.16.66.2
+I[23:49:48,942] [600-RingProto]RingPaxosProto: I am leader now! @ instance 0
+W[23:49:48,942] [600-RingProto]RingPaxosProto: PrepareOk ignored, either already leader or stopped trying
+I[23:51:19,390] [Thread-1]HashMapApp: Writes: 763096, reads: 0

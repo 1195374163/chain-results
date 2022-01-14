@@ -1,0 +1,10 @@
+2022-01-10 17:40:53:969 0 sec: 0 operations; est completion in 0 second 
+2022-01-10 17:41:03:945 10 sec: 81128 operations; 8112.8 current ops/sec; est completion in 1 hour 22 minutes [INSERT: Count=81138, Max=318719, Min=236, Avg=2407.41, 90=2479, 99=2975, 99.9=9567, 99.99=318463] 
+2022-01-10 17:41:13:945 20 sec: 169011 operations; 8788.3 current ops/sec; est completion in 1 hour 18 minutes [INSERT: Count=87878, Max=57055, Min=389, Avg=2270.81, 90=2453, 99=2905, 99.9=22479, 99.99=56927] 
+2022-01-10 17:41:23:944 30 sec: 257569 operations; 8855.8 current ops/sec; est completion in 1 hour 17 minutes [INSERT: Count=88553, Max=55775, Min=269, Avg=2254.1, 90=2425, 99=2899, 99.9=18431, 99.99=55391] 
+2022-01-10 17:41:33:944 40 sec: 345745 operations; 8817.6 current ops/sec; est completion in 1 hour 16 minutes [INSERT: Count=88176, Max=51039, Min=377, Avg=2263.77, 90=2459, 99=2923, 99.9=13847, 99.99=51007] 
+2022-01-10 17:41:43:944 50 sec: 433822 operations; 8807.7 current ops/sec; est completion in 1 hour 16 minutes [INSERT: Count=88081, Max=54335, Min=315, Avg=2266.2, 90=2439, 99=2857, 99.9=18271, 99.99=53599] 
+2022-01-10 17:41:53:944 60 sec: 522034 operations; 8821.2 current ops/sec; est completion in 1 hour 15 minutes [INSERT: Count=88218, Max=98495, Min=254, Avg=2263, 90=2441, 99=2849, 99.9=4459, 99.99=50367] 
+2022-01-10 17:42:03:944 70 sec: 610573 operations; 8853.9 current ops/sec; est completion in 1 hour 15 minutes [INSERT: Count=88529, Max=55903, Min=350, Avg=2254.91, 90=2439, 99=2841, 99.9=15575, 99.99=55487] 
+2022-01-10 17:42:13:944 80 sec: 699271 operations; 8869.8 current ops/sec; est completion in 1 hour 14 minutes [INSERT: Count=88699, Max=61407, Min=377, Avg=2250.67, 90=2441, 99=2865, 99.9=4067, 99.99=60991] 
+2022-01-10 17:42:18:951 85 sec: 744142 operations; 8961.65 current ops/sec; est completion in 1 hour 14 minutes [CLEANUP: Count=20, Max=1, Min=0, Avg=0.05, 90=0, 99=1, 99.9=1, 99.99=1] [INSERT: Count=44870, Max=61599, Min=511, Avg=2228.17, 90=2425, 99=2843, 99.9=17887, 99.99=60383] 

@@ -1,0 +1,4 @@
+I[22:04:12,087] [main]MultiPaxosProto: MultiPaxos: {members=[172.16.66.9:50300, 172.16.66.82:50300, 172.16.66.83:50300, 172.16.66.84:50300, 172.16.66.85:50300]} qs 3
+I[22:04:15,153] [400-MultiProto]MultiPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.9:50300}
+I[22:04:15,154] [100-DistFront0]DistPaxosFront: New writesTo: /172.16.66.9
+I[22:06:28,010] [Thread-1]HashMapApp: Writes: 1665680, reads: 0

@@ -1,0 +1,32 @@
+I[03:20:34,602] [main]ChainPaxosMixedProto: ChainPaxos: {members=[172.16.66.2:50300, 172.16.66.17:50300, 172.16.66.18:50300, 172.16.66.19:50300, 172.16.66.20:50300]} qs 3
+W[03:20:34,706] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.17:50300, cause: finishConnect(..) failed: Connection refused: gros-17/172.16.66.17:50300
+W[03:20:34,729] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.18:50300, cause: finishConnect(..) failed: Connection refused: gros-18/172.16.66.18:50300
+W[03:20:34,795] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.20:50300, cause: finishConnect(..) failed: Connection refused: gros-20/172.16.66.20:50300
+W[03:20:34,815] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.19:50300, cause: finishConnect(..) failed: Connection refused: gros-19/172.16.66.19:50300
+W[03:20:35,958] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.20:50300, cause: finishConnect(..) failed: Connection refused: gros-20/172.16.66.20:50300
+W[03:20:36,021] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.19:50300, cause: finishConnect(..) failed: Connection refused: gros-19/172.16.66.19:50300
+I[03:20:39,604] [200-ChainProtoMixed]ChainPaxosMixedProto: Attempting to take leadership...
+I[03:20:39,609] [200-ChainProtoMixed]ChainPaxosMixedProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[03:20:39,610] [100-ChainFrontMixed0]ChainPaxosMixedFront: New writesTo: /172.16.66.2
+I[03:20:39,740] [200-ChainProtoMixed]ChainPaxosMixedProto: I am leader now! @ instance 0
+W[03:21:12,173] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 8
+W[03:21:13,454] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 2
+W[03:21:14,656] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 8
+W[03:21:15,856] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 2
+W[03:21:16,817] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 8
+W[03:21:18,017] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 2
+W[03:21:48,719] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 3
+W[03:21:48,879] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 7
+W[03:21:54,708] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 1
+W[03:21:54,869] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 9
+W[03:21:57,910] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 3
+W[03:21:58,070] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 7
+W[03:22:08,157] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 3
+W[03:22:08,317] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 7
+W[03:22:19,846] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 3
+W[03:22:20,006] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 7
+W[03:22:32,896] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 3
+W[03:22:33,056] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 7
+W[03:22:47,259] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 3
+W[03:22:47,419] [100-ChainFrontMixed0]ChainPaxosMixedFront: Sending batch by timeout, size 7
+I[03:23:03,101] [Thread-1]HashMapApp: Writes: 3453790, reads: 0

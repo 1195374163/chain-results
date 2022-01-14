@@ -1,0 +1,14 @@
+2022-01-11 20:23:54:016 0 sec: 0 operations; est completion in 0 second 
+2022-01-11 20:24:03:980 10 sec: 0 operations; est completion in 106751991167300 days 15 hours 
+2022-01-11 20:24:13:980 20 sec: 2500 operations; 250 current ops/sec; est completion in 3 days 16 hours [INSERT: Count=2500, Max=15605759, Min=7503872, Avg=10590960.03, 90=15597567, 99=15605759, 99.9=15605759, 99.99=15605759] 
+2022-01-11 20:24:23:980 30 sec: 10661 operations; 816.1 current ops/sec; est completion in 1 day 7 hours [INSERT: Count=8161, Max=4956159, Min=96896, Avg=2039478.89, 90=3651583, 99=4952063, 99.9=4952063, 99.99=4956159] 
+2022-01-11 20:24:33:980 40 sec: 26074 operations; 1541.3 current ops/sec; est completion in 17 hours 2 minutes [INSERT: Count=15413, Max=1428479, Min=96960, Avg=1044838.82, 90=1309695, 99=1427455, 99.9=1428479, 99.99=1428479] 
+2022-01-11 20:24:43:980 50 sec: 49209 operations; 2313.5 current ops/sec; est completion in 11 hours 16 minutes [INSERT: Count=23135, Max=818687, Min=82624, Avg=652783.98, 90=711167, 99=814591, 99.9=818687, 99.99=818687] 
+2022-01-11 20:24:53:980 60 sec: 73625 operations; 2441.6 current ops/sec; est completion in 9 hours 2 minutes [INSERT: Count=24416, Max=798719, Min=86016, Avg=621277.7, 90=719871, 99=782335, 99.9=798719, 99.99=798719] 
+2022-01-11 20:25:03:980 70 sec: 96313 operations; 2268.8 current ops/sec; est completion in 8 hours 3 minutes [INSERT: Count=22688, Max=777215, Min=81280, Avg=659032.64, 90=730623, 99=776703, 99.9=777215, 99.99=777215] 
+2022-01-11 20:25:13:980 80 sec: 118895 operations; 2258.2 current ops/sec; est completion in 7 hours 27 minutes [INSERT: Count=22582, Max=788479, Min=79936, Avg=637008.83, 90=708095, 99=788479, 99.9=788479, 99.99=788479] 
+2022-01-11 20:25:23:980 90 sec: 142355 operations; 2346 current ops/sec; est completion in 6 hours 59 minutes [INSERT: Count=23460, Max=770047, Min=86656, Avg=644281.17, 90=720383, 99=769535, 99.9=769535, 99.99=770047] 
+2022-01-11 20:25:33:979 100 sec: 166999 operations; 2464.4 current ops/sec; est completion in 6 hours 37 minutes [INSERT: Count=24644, Max=730111, Min=88256, Avg=632463.52, 90=696319, 99=729087, 99.9=730111, 99.99=730111] 
+2022-01-11 20:25:43:979 110 sec: 189821 operations; 2282.2 current ops/sec; est completion in 6 hours 24 minutes [INSERT: Count=22846, Max=707583, Min=85056, Avg=627358.92, 90=680447, 99=707071, 99.9=707583, 99.99=707583] 
+2022-01-11 20:25:53:979 120 sec: 213699 operations; 2387.8 current ops/sec; est completion in 6 hours 12 minutes [INSERT: Count=23854, Max=811519, Min=87296, Avg=651052.29, 90=723967, 99=810495, 99.9=811007, 99.99=811519] 
+2022-01-11 20:25:59:532 125 sec: 227282 operations; 2446.51 current ops/sec; est completion in 6 hours 6 minutes [CLEANUP: Count=1500, Max=16, Min=0, Avg=0.1, 90=0, 99=3, 99.9=15, 99.99=16] [INSERT: Count=13583, Max=844799, Min=81728, Avg=623258.56, 90=756735, 99=837631, 99.9=843263, 99.99=844799] 

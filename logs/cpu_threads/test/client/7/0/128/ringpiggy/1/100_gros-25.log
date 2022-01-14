@@ -1,0 +1,10 @@
+2022-01-12 20:10:37:144 0 sec: 0 operations; est completion in 0 second 
+2022-01-12 20:10:47:109 10 sec: 202950 operations; 20295 current ops/sec; est completion in 1 hour 5 minutes [INSERT: Count=202976, Max=208255, Min=1153, Avg=4818.43, 90=5459, 99=9255, 99.9=162559, 99.99=206719] 
+2022-01-12 20:10:57:109 20 sec: 398685 operations; 19573.5 current ops/sec; est completion in 1 hour 6 minutes [INSERT: Count=195721, Max=243455, Min=1077, Avg=5107.6, 90=5327, 99=7783, 99.9=230527, 99.99=236031] 
+2022-01-12 20:11:07:109 30 sec: 625770 operations; 22708.5 current ops/sec; est completion in 1 hour 3 minutes [INSERT: Count=227086, Max=100159, Min=823, Avg=4402.53, 90=5239, 99=6875, 99.9=69759, 99.99=99135] 
+2022-01-12 20:11:17:109 40 sec: 848287 operations; 22251.7 current ops/sec; est completion in 1 hour 2 minutes [INSERT: Count=222519, Max=87231, Min=1028, Avg=4492.86, 90=5279, 99=7227, 99.9=77567, 99.99=84287] 
+2022-01-12 20:11:27:109 50 sec: 1070711 operations; 22242.4 current ops/sec; est completion in 1 hour 1 minute [INSERT: Count=222425, Max=193407, Min=498, Avg=4494.95, 90=5215, 99=6791, 99.9=82303, 99.99=192127] 
+2022-01-12 20:11:37:109 60 sec: 1301582 operations; 23087.1 current ops/sec; est completion in 1 hour [INSERT: Count=230858, Max=83647, Min=1037, Avg=4330.04, 90=5187, 99=6771, 99.9=70591, 99.99=82239] 
+2022-01-12 20:11:47:109 70 sec: 1526021 operations; 22443.9 current ops/sec; est completion in 1 hour [INSERT: Count=224440, Max=84607, Min=1221, Avg=4454.9, 90=5243, 99=7079, 99.9=72831, 99.99=84159] 
+2022-01-12 20:11:57:109 80 sec: 1748203 operations; 22218.2 current ops/sec; est completion in 59 minutes [INSERT: Count=222178, Max=155007, Min=621, Avg=4499.42, 90=5227, 99=7135, 99.9=81087, 99.99=154495] 
+2022-01-12 20:12:02:129 85 sec: 1863648 operations; 22997.01 current ops/sec; est completion in 59 minutes [CLEANUP: Count=100, Max=6, Min=0, Avg=0.1, 90=0, 99=2, 99.9=6, 99.99=6] [INSERT: Count=115445, Max=73983, Min=749, Avg=4348.02, 90=5255, 99=7155, 99.9=70911, 99.99=73279] 

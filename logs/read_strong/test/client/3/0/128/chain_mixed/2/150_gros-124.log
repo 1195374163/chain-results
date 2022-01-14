@@ -1,0 +1,11 @@
+2022-01-11 22:30:17:451 0 sec: 0 operations; est completion in 0 second 
+2022-01-11 22:30:27:414 10 sec: 384495 operations; 38449.5 current ops/sec; est completion in 17 minutes [INSERT: Count=384510, Max=518911, Min=287, Avg=3767.77, 90=4311, 99=23567, 99.9=420095, 99.99=498175] 
+2022-01-11 22:30:37:414 20 sec: 777757 operations; 39326.2 current ops/sec; est completion in 16 minutes [INSERT: Count=393248, Max=1843199, Min=259, Avg=3781.74, 90=3877, 99=14519, 99.9=657919, 99.99=1740799] 
+2022-01-11 22:30:47:414 30 sec: 1137911 operations; 36015.4 current ops/sec; est completion in 17 minutes [INSERT: Count=360207, Max=1422335, Min=318, Avg=4140.17, 90=3997, 99=13535, 99.9=1028607, 99.99=1377279] 
+2022-01-11 22:30:57:414 40 sec: 1527599 operations; 38968.8 current ops/sec; est completion in 16 minutes [INSERT: Count=389675, Max=1704959, Min=286, Avg=3891.15, 90=3817, 99=19711, 99.9=996863, 99.99=1655807] 
+2022-01-11 22:31:07:414 50 sec: 1906093 operations; 37849.4 current ops/sec; est completion in 16 minutes [INSERT: Count=378495, Max=1732607, Min=251, Avg=3951.57, 90=3957, 99=11679, 99.9=767999, 99.99=1729535] 
+2022-01-11 22:31:17:414 60 sec: 2332652 operations; 42655.9 current ops/sec; est completion in 16 minutes [INSERT: Count=426517, Max=1795071, Min=244, Avg=3518.21, 90=3281, 99=17855, 99.9=121663, 99.99=1762303] 
+2022-01-11 22:31:27:414 70 sec: 2708696 operations; 37604.4 current ops/sec; est completion in 16 minutes [INSERT: Count=376045, Max=2420735, Min=276, Avg=3797.45, 90=3631, 99=21007, 99.9=108351, 99.99=2379775] 
+2022-01-11 22:31:37:414 80 sec: 3062165 operations; 35346.9 current ops/sec; est completion in 16 minutes [INSERT: Count=353469, Max=2332671, Min=274, Avg=4306.97, 90=3945, 99=9679, 99.9=76607, 99.99=2312191] 
+Still waiting for thread Thread-94 to complete. Workload status: true
+2022-01-11 22:31:44:667 87 sec: 3247739 operations; 25589.35 current ops/sec; est completion in 16 minutes [CLEANUP: Count=150, Max=6, Min=0, Avg=0.1, 90=0, 99=5, 99.9=6, 99.99=6] [INSERT: Count=185573, Max=2387967, Min=258, Avg=5007.65, 90=3373, 99=24975, 99.9=2011135, 99.99=2383871] 

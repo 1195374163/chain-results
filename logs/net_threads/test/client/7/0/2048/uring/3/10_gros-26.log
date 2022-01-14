@@ -1,0 +1,10 @@
+2022-01-10 07:22:27:075 0 sec: 0 operations; est completion in 0 second 
+2022-01-10 07:22:37:050 10 sec: 69765 operations; 6975.8 current ops/sec; est completion in 1 hour 35 minutes [INSERT: Count=69765, Max=280575, Min=399, Avg=1379.49, 90=1752, 99=2549, 99.9=16655, 99.99=279807] 
+2022-01-10 07:22:47:050 20 sec: 146822 operations; 7705.7 current ops/sec; est completion in 1 hour 30 minutes [INSERT: Count=77057, Max=390911, Min=390, Avg=1314.97, 90=1724, 99=2523, 99.9=63807, 99.99=389119] 
+2022-01-10 07:22:57:050 30 sec: 229817 operations; 8300.33 current ops/sec; est completion in 1 hour 26 minutes [INSERT: Count=82997, Max=70847, Min=397, Avg=1201.64, 90=1734, 99=2619, 99.9=19215, 99.99=70335] 
+2022-01-10 07:23:07:050 40 sec: 311367 operations; 8154.18 current ops/sec; est completion in 1 hour 24 minutes [INSERT: Count=81553, Max=145151, Min=409, Avg=1223.05, 90=1729, 99=2621, 99.9=24607, 99.99=145151] 
+2022-01-10 07:23:17:050 50 sec: 391803 operations; 8044.4 current ops/sec; est completion in 1 hour 24 minutes [INSERT: Count=80431, Max=74303, Min=398, Avg=1240.06, 90=1787, 99=2735, 99.9=57919, 99.99=74175] 
+2022-01-10 07:23:27:050 60 sec: 472899 operations; 8109.6 current ops/sec; est completion in 1 hour 23 minutes [INSERT: Count=81101, Max=70783, Min=402, Avg=1230.24, 90=1793, 99=2665, 99.9=58975, 99.99=69951] 
+2022-01-10 07:23:37:050 70 sec: 552950 operations; 8005.1 current ops/sec; est completion in 1 hour 23 minutes [INSERT: Count=80050, Max=372223, Min=394, Avg=1246.31, 90=1764, 99=2627, 99.9=57631, 99.99=312319] 
+2022-01-10 07:23:47:050 80 sec: 636240 operations; 8329 current ops/sec; est completion in 1 hour 22 minutes [INSERT: Count=83296, Max=66303, Min=402, Avg=1197.65, 90=1688, 99=2525, 99.9=60415, 99.99=65855] 
+2022-01-10 07:23:52:054 85 sec: 678237 operations; 8392.69 current ops/sec; est completion in 1 hour 22 minutes [CLEANUP: Count=10, Max=1, Min=0, Avg=0.1, 90=0, 99=1, 99.9=1, 99.99=1] [INSERT: Count=41987, Max=72639, Min=424, Avg=1188.54, 90=1723, 99=2499, 99.9=3795, 99.99=72063] 

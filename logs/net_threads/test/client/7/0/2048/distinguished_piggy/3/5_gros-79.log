@@ -1,0 +1,10 @@
+2022-01-10 17:38:36:536 0 sec: 0 operations; est completion in 0 second 
+2022-01-10 17:38:46:513 10 sec: 29563 operations; 2956.3 current ops/sec; est completion in 3 hours 45 minutes [INSERT: Count=29565, Max=66815, Min=615, Avg=1650.59, 90=1769, 99=2057, 99.9=3093, 99.99=66367] 
+2022-01-10 17:38:56:512 20 sec: 59329 operations; 2976.6 current ops/sec; est completion in 3 hours 44 minutes [INSERT: Count=29765, Max=88447, Min=728, Avg=1671.71, 90=1786, 99=2042, 99.9=4871, 99.99=88255] 
+2022-01-10 17:39:06:513 30 sec: 89313 operations; 2998.4 current ops/sec; est completion in 3 hours 43 minutes [INSERT: Count=29986, Max=32239, Min=490, Avg=1661.18, 90=1785, 99=4231, 99.9=6447, 99.99=32015] 
+2022-01-10 17:39:16:512 40 sec: 119253 operations; 2994 current ops/sec; est completion in 3 hours 42 minutes [INSERT: Count=29939, Max=40895, Min=633, Avg=1664.5, 90=1786, 99=2053, 99.9=2483, 99.99=40511] 
+2022-01-10 17:39:26:512 50 sec: 149089 operations; 2983.6 current ops/sec; est completion in 3 hours 42 minutes [INSERT: Count=29837, Max=34111, Min=434, Avg=1670.56, 90=1799, 99=2105, 99.9=4831, 99.99=33439] 
+2022-01-10 17:39:36:512 60 sec: 178980 operations; 2989.1 current ops/sec; est completion in 3 hours 42 minutes [INSERT: Count=29890, Max=43967, Min=792, Avg=1667.29, 90=1793, 99=2059, 99.9=2319, 99.99=43519] 
+2022-01-10 17:39:46:512 70 sec: 208864 operations; 2988.4 current ops/sec; est completion in 3 hours 42 minutes [INSERT: Count=29883, Max=43487, Min=734, Avg=1668.16, 90=1792, 99=2059, 99.9=2351, 99.99=43071] 
+2022-01-10 17:39:56:512 80 sec: 238753 operations; 2988.9 current ops/sec; est completion in 3 hours 42 minutes [INSERT: Count=29889, Max=47295, Min=866, Avg=1667.88, 90=1789, 99=2063, 99.9=2373, 99.99=46655] 
+2022-01-10 17:40:01:515 85 sec: 253577 operations; 2963.02 current ops/sec; est completion in 3 hours 42 minutes [CLEANUP: Count=5, Max=1, Min=0, Avg=0.2, 90=1, 99=1, 99.9=1, 99.99=1] [INSERT: Count=14823, Max=49183, Min=819, Avg=1682.29, 90=1792, 99=2051, 99.9=2423, 99.99=49055] 

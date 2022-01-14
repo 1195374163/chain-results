@@ -1,0 +1,6 @@
+I[14:10:28,742] [main]URingPaxosProto: URingPaxos: {members=[172.16.66.7:50300, 172.16.66.8:50300, 172.16.66.70:50300, 172.16.66.71:50300, 172.16.66.72:50300]} qs 3
+W[14:10:28,922] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.72:50300, cause: finishConnect(..) failed: Connection refused: gros-72/172.16.66.72:50300
+I[14:10:33,872] [200-URingPaxos]URingPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.7:50300}
+I[14:12:46,327] [200-URingPaxos]URingPaxosProto: InConnectionDown{node=172.16.66.7:50300, cause=io.netty.channel.unix.Errors$NativeIoException: readAddress(..) failed: Connection reset by peer}
+W[14:12:46,336] [200-URingPaxos]URingPaxosProto: OutConnectionDown{node=172.16.66.7:50300, cause=io.netty.channel.unix.Errors$NativeIoException: readAddress(..) failed: Connection reset by peer}
+I[14:12:46,454] [Thread-1]HashMapApp: Writes: 1724181, reads: 0

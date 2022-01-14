@@ -1,0 +1,17 @@
+I[23:19:35,635] [main]DistPaxosPiggyProto: DistinguishedPiggy: {members=[172.16.66.9:50300, 172.16.66.82:50300, 172.16.66.83:50300, 172.16.66.84:50300, 172.16.66.85:50300]} qs 3
+W[23:19:35,734] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.82:50300, cause: finishConnect(..) failed: Connection refused: gros-82/172.16.66.82:50300
+W[23:19:35,752] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.83:50300, cause: finishConnect(..) failed: Connection refused: gros-83/172.16.66.83:50300
+W[23:19:35,816] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.85:50300, cause: finishConnect(..) failed: Connection refused: gros-85/172.16.66.85:50300
+W[23:19:35,850] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.84:50300, cause: finishConnect(..) failed: Connection refused: gros-84/172.16.66.84:50300
+W[23:19:36,989] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.85:50300, cause: finishConnect(..) failed: Connection refused: gros-85/172.16.66.85:50300
+W[23:19:37,066] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.84:50300, cause: finishConnect(..) failed: Connection refused: gros-84/172.16.66.84:50300
+I[23:19:40,638] [400-DistPiggyProto]DistPaxosPiggyProto: Attempting to take leadership...
+I[23:19:40,642] [400-DistPiggyProto]DistPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.9:50300}
+I[23:19:40,643] [100-DistFront0]DistPaxosFront: New writesTo: /172.16.66.9
+I[23:19:40,784] [400-DistPiggyProto]DistPaxosPiggyProto: I am leader now! @ instance 0
+W[23:19:40,827] [400-DistPiggyProto]DistPaxosPiggyProto: PrepareOk ignored, either already leader or stopped trying
+W[23:19:40,855] [400-DistPiggyProto]DistPaxosPiggyProto: PrepareOk ignored, either already leader or stopped trying
+W[23:19:59,308] [100-DistFront0]DistPaxosFront: Sending batch by timeout, size 6
+W[23:19:59,467] [100-DistFront0]DistPaxosFront: Sending batch by timeout, size 4
+W[23:21:50,836] [100-DistFront0]DistPaxosFront: Sending batch by timeout, size 5
+I[23:21:52,573] [Thread-1]HashMapApp: Writes: 1810675, reads: 0

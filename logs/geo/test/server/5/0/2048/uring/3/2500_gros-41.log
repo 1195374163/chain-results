@@ -1,0 +1,4 @@
+I[23:25:00,693] [main]URingPaxosProto: URingPaxos: {members=[172.16.66.4:50300, 172.16.66.5:50300, 172.16.66.39:50300, 172.16.66.40:50300, 172.16.66.41:50300]} qs 3
+I[23:25:04,762] [200-URingPaxos]URingPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.4:50300}
+W[23:27:16,526] [100-URingFront0]URingPaxosFront: Sending batch by timeout, size 9
+I[23:27:18,612] [Thread-1]HashMapApp: Writes: 2681229, reads: 0

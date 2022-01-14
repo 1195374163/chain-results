@@ -1,0 +1,6 @@
+I[01:55:04,379] [main]Membership: New preferred members: [172.16.66.18:50300]
+I[01:55:04,501] [main]EsolatedPaxosProto: EsolatedPaxos: {members=[172.16.66.13:50300, 172.16.66.18:50300, 172.16.66.25:50300]} mcf 1
+I[01:55:04,504] [100-EPaxosFront0]EPaxosFront: New writesTo: /172.16.66.13
+W[01:55:04,513] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.25:50300, cause: finishConnect(..) failed: Connection refused: gros-25/172.16.66.25:50300
+W[01:55:04,514] [500-EsolatedPaxos]EsolatedPaxosProto: Connection failed to 172.16.66.18:50300, cause: finishConnect(..) failed: Connection refused: gros-18/172.16.66.18:50300
+I[01:56:39,984] [Thread-1]HashMapApp: Writes: 0, reads: 1534414

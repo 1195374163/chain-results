@@ -1,0 +1,4 @@
+I[23:20:16,680] [main]DistPaxosProto: DistinguishedPaxos: {members=[172.16.66.2:50300, 172.16.66.18:50300, 172.16.66.19:50300]} qs 2
+I[23:20:20,699] [400-DistProto]DistPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[23:20:20,701] [100-DistFront0]DistPaxosFront: New writesTo: /172.16.66.2
+I[23:21:51,211] [Thread-1]HashMapApp: Writes: 763243, reads: 0

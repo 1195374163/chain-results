@@ -1,0 +1,10 @@
+2022-01-10 17:39:14:253 0 sec: 0 operations; est completion in 0 second 
+2022-01-10 17:39:24:230 10 sec: 81301 operations; 8129.29 current ops/sec; est completion in 1 hour 21 minutes [INSERT: Count=81310, Max=321791, Min=187, Avg=1200.87, 90=1303, 99=1513, 99.9=4823, 99.99=321535] 
+2022-01-10 17:39:34:230 20 sec: 168416 operations; 8711.5 current ops/sec; est completion in 1 hour 18 minutes [INSERT: Count=87107, Max=53983, Min=204, Avg=1144.41, 90=1305, 99=1482, 99.9=3181, 99.99=53535] 
+2022-01-10 17:39:44:230 30 sec: 255376 operations; 8696 current ops/sec; est completion in 1 hour 17 minutes [INSERT: Count=86961, Max=52351, Min=168, Avg=1146.57, 90=1316, 99=1475, 99.9=1868, 99.99=51839] 
+2022-01-10 17:39:54:230 40 sec: 343089 operations; 8771.3 current ops/sec; est completion in 1 hour 17 minutes [INSERT: Count=87715, Max=51775, Min=175, Avg=1136.84, 90=1313, 99=1483, 99.9=2171, 99.99=51231] 
+2022-01-10 17:40:04:230 50 sec: 430867 operations; 8777.8 current ops/sec; est completion in 1 hour 16 minutes [INSERT: Count=87780, Max=58143, Min=206, Avg=1136.05, 90=1311, 99=1478, 99.9=1742, 99.99=56895] 
+2022-01-10 17:40:14:230 60 sec: 517445 operations; 8657.8 current ops/sec; est completion in 1 hour 16 minutes [INSERT: Count=86580, Max=100415, Min=204, Avg=1151.85, 90=1314, 99=1479, 99.9=1792, 99.99=52383] 
+2022-01-10 17:40:24:230 70 sec: 605808 operations; 8836.3 current ops/sec; est completion in 1 hour 15 minutes [INSERT: Count=88362, Max=52191, Min=202, Avg=1128.78, 90=1289, 99=1453, 99.9=1757, 99.99=51647] 
+2022-01-10 17:40:34:230 80 sec: 694311 operations; 8850.3 current ops/sec; est completion in 1 hour 15 minutes [INSERT: Count=88496, Max=51487, Min=228, Avg=1126.96, 90=1303, 99=1465, 99.9=1739, 99.99=50815] 
+2022-01-10 17:40:39:234 85 sec: 738444 operations; 8821.31 current ops/sec; est completion in 1 hour 15 minutes [CLEANUP: Count=10, Max=3, Min=0, Avg=0.5, 90=1, 99=3, 99.9=3, 99.99=3] [INSERT: Count=44133, Max=58591, Min=220, Avg=1130.79, 90=1306, 99=1476, 99.9=1672, 99.99=58495] 

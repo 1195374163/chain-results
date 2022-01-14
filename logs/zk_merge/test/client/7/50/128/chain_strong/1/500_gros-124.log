@@ -1,0 +1,38 @@
+2022-01-08 12:28:10:087 0 sec: 0 operations; est completion in 0 second 
+2022-01-08 12:28:20:087 10 sec: 468921 operations; 46892.1 current ops/sec; est completion in 14 minutes [READ: Count=235116, Max=5230591, Min=632, Avg=5361.05, 90=4783, 99=30735, 99.9=69823, 99.99=5058559] [UPDATE: Count=234398, Max=5255167, Min=281, Avg=4929.49, 90=4975, 99=23743, 99.9=65983, 99.99=5074943] 
+2022-01-08 12:28:30:087 20 sec: 1012583 operations; 54366.2 current ops/sec; est completion in 12 minutes [READ: Count=271215, Max=15237119, Min=1214, Avg=9611.89, 90=7087, 99=56479, 99.9=129855, 99.99=15048703] [UPDATE: Count=272148, Max=15261695, Min=288, Avg=8274.62, 90=7031, 99=39487, 99.9=128255, 99.99=15073279] 
+2022-01-08 12:28:40:087 30 sec: 1482377 operations; 46979.4 current ops/sec; est completion in 13 minutes [READ: Count=234976, Max=20234239, Min=617, Avg=16662.59, 90=11615, 99=119039, 99.9=183935, 99.99=20070399] [UPDATE: Count=234693, Max=20250623, Min=299, Avg=15504.07, 90=12319, 99=114303, 99.9=183039, 99.99=20070399] 
+2022-01-08 12:28:50:087 40 sec: 2029363 operations; 54698.6 current ops/sec; est completion in 12 minutes [READ: Count=273373, Max=62015, Min=1818, Avg=9653.84, 90=11551, 99=44159, 99.9=57599, 99.99=60959] [UPDATE: Count=273548, Max=68607, Min=285, Avg=8626.98, 90=12247, 99=41567, 99.9=55935, 99.99=66047] 
+2022-01-08 12:29:00:087 50 sec: 2572881 operations; 54351.8 current ops/sec; est completion in 12 minutes [READ: Count=271106, Max=66751, Min=2174, Avg=9631.56, 90=11375, 99=40831, 99.9=62815, 99.99=65375] [UPDATE: Count=272390, Max=71551, Min=284, Avg=8765.06, 90=12255, 99=40543, 99.9=61439, 99.99=64895] 
+2022-01-08 12:29:10:087 60 sec: 3112167 operations; 53928.6 current ops/sec; est completion in 11 minutes [READ: Count=270315, Max=68607, Min=2398, Avg=9872.07, 90=11967, 99=44735, 99.9=63583, 99.99=66623] [UPDATE: Count=269026, Max=72895, Min=277, Avg=8665.53, 90=12343, 99=43967, 99.9=62271, 99.99=65599] 
+2022-01-08 12:29:20:087 70 sec: 3655119 operations; 54295.2 current ops/sec; est completion in 11 minutes [READ: Count=271306, Max=77503, Min=1430, Avg=9674, 90=11567, 99=44223, 99.9=64447, 99.99=67903] [UPDATE: Count=271631, Max=71807, Min=296, Avg=8743.3, 90=12167, 99=41887, 99.9=65087, 99.99=68927] 
+2022-01-08 12:29:30:087 80 sec: 4196756 operations; 54163.7 current ops/sec; est completion in 11 minutes [READ: Count=270033, Max=81023, Min=1608, Avg=9785.35, 90=11759, 99=45631, 99.9=75135, 99.99=80255] [UPDATE: Count=271597, Max=87679, Min=297, Avg=8674.17, 90=12239, 99=42399, 99.9=75647, 99.99=84799] 
+Still waiting for thread Thread-82 to complete. Workload status: true
+Still waiting for thread Thread-82 to complete. Workload status: true
+2022-01-08 12:29:40:087 90 sec: 4478879 operations; 28212.3 current ops/sec; est completion in 11 minutes [READ: Count=141912, Max=65055, Min=2026, Avg=9338.86, 90=11143, 99=41119, 99.9=63551, 99.99=64863] [CLEANUP: Count=49, Max=4915199, Min=108480, Avg=2495749.88, 90=4419583, 99=4915199, 99.9=4915199, 99.99=4915199] [UPDATE: Count=140096, Max=70591, Min=301, Avg=8608.51, 90=12063, 99=37503, 99.9=64319, 99.99=70399] 
+Still waiting for thread Thread-82 to complete. Workload status: true
+Still waiting for thread Thread-82 to complete. Workload status: true
+Still waiting for thread Thread-82 to complete. Workload status: true
+Still waiting for thread Thread-82 to complete. Workload status: true
+Still waiting for thread Thread-82 to complete. Workload status: true
+2022-01-08 12:29:50:087 100 sec: 4478879 operations; 0 current ops/sec; est completion in 13 minutes [READ: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] [CLEANUP: Count=99, Max=14852095, Min=5013504, Avg=9935489.29, 90=13852671, 99=14761983, 99.9=14852095, 99.99=14852095] [UPDATE: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] 
+Still waiting for thread Thread-82 to complete. Workload status: true
+Still waiting for thread Thread-82 to complete. Workload status: true
+Still waiting for thread Thread-82 to complete. Workload status: true
+Still waiting for thread Thread-82 to complete. Workload status: true
+Still waiting for thread Thread-82 to complete. Workload status: true
+2022-01-08 12:30:00:087 110 sec: 4478879 operations; 0 current ops/sec; est completion in 14 minutes [READ: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] [CLEANUP: Count=100, Max=24903679, Min=14950400, Avg=19920609.28, 90=23887871, 99=24788991, 99.9=24903679, 99.99=24903679] [UPDATE: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] 
+Still waiting for thread Thread-82 to complete. Workload status: true
+Still waiting for thread Thread-82 to complete. Workload status: true
+Still waiting for thread Thread-82 to complete. Workload status: true
+Still waiting for thread Thread-82 to complete. Workload status: true
+Still waiting for thread Thread-82 to complete. Workload status: true
+2022-01-08 12:30:10:087 120 sec: 4478879 operations; 0 current ops/sec; est completion in 15 minutes [READ: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] [CLEANUP: Count=100, Max=34930687, Min=24985600, Avg=29956014.08, 90=33947647, 99=34832383, 99.9=34930687, 99.99=34930687] [UPDATE: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] 
+Still waiting for thread Thread-82 to complete. Workload status: true
+Still waiting for thread Thread-82 to complete. Workload status: true
+Still waiting for thread Thread-82 to complete. Workload status: true
+Still waiting for thread Thread-82 to complete. Workload status: true
+Still waiting for thread Thread-381 to complete. Workload status: true
+2022-01-08 12:30:20:087 130 sec: 4478879 operations; 0 current ops/sec; est completion in 17 minutes [READ: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] [CLEANUP: Count=99, Max=44859391, Min=34996224, Avg=39940054.63, 90=43876351, 99=44761087, 99.9=44859391, 99.99=44859391] [UPDATE: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] 
+Still waiting for thread Thread-239 to complete. Workload status: true
+2022-01-08 12:30:25:310 135 sec: 4478879 operations; 0 current ops/sec; est completion in 17 minutes [READ: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] [CLEANUP: Count=53, Max=50200575, Min=44924928, Avg=47562133.74, 90=49676287, 99=50069503, 99.9=50200575, 99.99=50200575] [UPDATE: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] 

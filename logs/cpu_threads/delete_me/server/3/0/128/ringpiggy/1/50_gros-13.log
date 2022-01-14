@@ -1,0 +1,5 @@
+I[18:01:52,319] [main]RingPaxosPiggyProto: RingPiggyPaxos: {members=[172.16.66.12:50300, 172.16.66.13:50300, 172.16.66.64:50300]} qs 2
+W[18:01:52,330] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.64:50300, cause: finishConnect(..) failed: Connection refused: gros-64/172.16.66.64:50300
+I[18:01:56,827] [600-RingPiggyProto]RingPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.12:50300}
+I[18:01:56,829] [100-RingFront0]RingPaxosFront: New writesTo: /172.16.66.12
+I[18:03:27,269] [Thread-1]HashMapApp: Writes: 4771885, reads: 0

@@ -1,0 +1,17 @@
+I[22:15:51,273] [main]RingPaxosPiggyProto: RingPiggyPaxos: {members=[172.16.66.2:50300, 172.16.66.18:50300, 172.16.66.19:50300]} qs 2 max instances: 15
+W[22:15:51,282] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.18:50300, cause: finishConnect(..) failed: Connection refused: gros-18/172.16.66.18:50300
+W[22:15:51,282] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.19:50300, cause: finishConnect(..) failed: Connection refused: gros-19/172.16.66.19:50300
+I[22:15:56,275] [600-RingPiggyProto]RingPaxosPiggyProto: Attempting to take leadership...
+I[22:15:56,279] [600-RingPiggyProto]RingPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[22:15:56,280] [100-RingFront0]RingPaxosFront: New writesTo: /172.16.66.2
+I[22:15:56,291] [600-RingPiggyProto]RingPaxosPiggyProto: I am leader now! @ instance 0
+W[22:15:56,291] [600-RingPiggyProto]RingPaxosPiggyProto: PrepareOk ignored, either already leader or stopped trying
+W[22:16:17,443] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 384366
+W[22:16:17,444] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 384367
+W[22:16:17,444] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 384368
+W[22:16:17,444] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 384369
+W[22:16:17,444] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 384370
+W[22:16:17,444] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 384371
+W[22:16:17,444] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 384372
+W[22:16:17,444] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 384373
+I[22:17:26,764] [Thread-1]HashMapApp: Writes: 1918295, reads: 0

@@ -1,0 +1,10 @@
+2022-01-12 22:17:40:040 0 sec: 0 operations; est completion in 0 second 
+2022-01-12 22:17:50:011 10 sec: 69709 operations; 6970.9 current ops/sec; est completion in 3 hours 11 minutes [INSERT: Count=69713, Max=248063, Min=323, Avg=1399.12, 90=1827, 99=2261, 99.9=6059, 99.99=247679] 
+2022-01-12 22:18:00:012 20 sec: 137608 operations; 6789.9 current ops/sec; est completion in 3 hours 13 minutes [INSERT: Count=67901, Max=521215, Min=334, Avg=1470.68, 90=1771, 99=2145, 99.9=2645, 99.99=520703] 
+2022-01-12 22:18:10:012 30 sec: 209770 operations; 7216.2 current ops/sec; est completion in 3 hours 10 minutes [INSERT: Count=72160, Max=72575, Min=525, Avg=1383.51, 90=1810, 99=2129, 99.9=2437, 99.99=72383] 
+2022-01-12 22:18:20:011 40 sec: 281833 operations; 7206.3 current ops/sec; est completion in 3 hours 8 minutes [INSERT: Count=72064, Max=89087, Min=443, Avg=1385.49, 90=1821, 99=2215, 99.9=3239, 99.99=88831] 
+2022-01-12 22:18:30:011 50 sec: 352879 operations; 7104.6 current ops/sec; est completion in 3 hours 8 minutes [INSERT: Count=71047, Max=57087, Min=557, Avg=1405.64, 90=1858, 99=2203, 99.9=2473, 99.99=56895] 
+2022-01-12 22:18:40:011 60 sec: 424919 operations; 7204 current ops/sec; est completion in 3 hours 7 minutes [INSERT: Count=72034, Max=81535, Min=400, Avg=1386.3, 90=1826, 99=2177, 99.9=2551, 99.99=81407] 
+2022-01-12 22:18:50:011 70 sec: 499386 operations; 7446.7 current ops/sec; est completion in 3 hours 5 minutes [INSERT: Count=74469, Max=84543, Min=305, Avg=1340.95, 90=1770, 99=2149, 99.9=2421, 99.99=84159] 
+2022-01-12 22:19:00:011 80 sec: 572273 operations; 7288.7 current ops/sec; est completion in 3 hours 5 minutes [INSERT: Count=72888, Max=77887, Min=440, Avg=1370.1, 90=1800, 99=2155, 99.9=2531, 99.99=77567] 
+2022-01-12 22:19:05:014 85 sec: 610063 operations; 7553.47 current ops/sec; est completion in 3 hours 4 minutes [CLEANUP: Count=10, Max=1, Min=0, Avg=0.1, 90=0, 99=1, 99.9=1, 99.99=1] [INSERT: Count=37787, Max=85503, Min=209, Avg=1322.18, 90=1758, 99=2127, 99.9=2447, 99.99=84991] 

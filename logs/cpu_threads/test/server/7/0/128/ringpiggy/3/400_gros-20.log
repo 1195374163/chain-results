@@ -1,0 +1,34 @@
+I[20:49:29,687] [main]RingPaxosPiggyProto: RingPiggyPaxos: {members=[172.16.66.2:50300, 172.16.66.18:50300, 172.16.66.19:50300, 172.16.66.20:50300, 172.16.66.21:50300, 172.16.66.22:50300, 172.16.66.23:50300]} qs 4 max instances: 250
+W[20:49:29,697] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.21:50300, cause: finishConnect(..) failed: Connection refused: gros-21/172.16.66.21:50300
+W[20:49:29,697] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+W[20:49:29,698] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.22:50300, cause: finishConnect(..) failed: Connection refused: gros-22/172.16.66.22:50300
+W[20:49:30,700] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+I[20:49:33,189] [600-RingPiggyProto]RingPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[20:49:33,190] [100-RingFront0]RingPaxosFront: New writesTo: /172.16.66.2
+W[20:50:21,879] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2748089 to 172.16.66.21:50300  decided until 2748088 received 2748102
+W[20:50:21,879] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2748090 to 172.16.66.21:50300  decided until 2748089 received 2748143
+W[20:50:21,881] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2748091 to 172.16.66.21:50300  decided until 2748090 received 2748359
+W[20:50:21,882] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2748092 to 172.16.66.21:50300  decided until 2748091 received 2748361
+W[20:50:21,883] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2748093 to 172.16.66.21:50300  decided until 2748092 received 2748417
+W[20:50:21,884] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2748094 to 172.16.66.21:50300  decided until 2748093 received 2748471
+W[20:50:21,884] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2748095 to 172.16.66.21:50300  decided until 2748094 received 2748538
+W[20:50:21,885] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2748096 to 172.16.66.21:50300  decided until 2748095 received 2748547
+W[20:50:21,887] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2748097 to 172.16.66.21:50300  decided until 2748096 received 2748722
+W[20:50:21,889] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2748098 to 172.16.66.21:50300  decided until 2748097 received 2748774
+W[20:50:21,890] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2748099 to 172.16.66.21:50300  decided until 2748098 received 2748775
+W[20:50:21,890] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2748100 to 172.16.66.21:50300  decided until 2748099 received 2748813
+W[20:50:21,890] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 2748101 to 172.16.66.21:50300  decided until 2748100 received 2748847
+W[20:50:21,891] [600-RingPiggyProto]RingPaxosPiggyProto: Asking for accept: 2748339
+W[20:50:21,898] [600-RingPiggyProto]RingPaxosPiggyProto: Asking for accept: 2748340
+W[20:50:21,899] [600-RingPiggyProto]RingPaxosPiggyProto: Asking for accept: 2748341
+W[20:50:21,899] [600-RingPiggyProto]RingPaxosPiggyProto: Asking for accept: 2748342
+W[20:50:21,900] [600-RingPiggyProto]RingPaxosPiggyProto: Asking for accept: 2748343
+W[20:50:21,901] [600-RingPiggyProto]RingPaxosPiggyProto: Asking for accept: 2748344
+W[20:50:21,902] [600-RingPiggyProto]RingPaxosPiggyProto: Asking for accept: 2748345
+W[20:50:21,902] [600-RingPiggyProto]RingPaxosPiggyProto: Asking for accept: 2748346
+W[20:50:21,902] [600-RingPiggyProto]RingPaxosPiggyProto: Asking for accept: 2748347
+W[20:50:21,903] [600-RingPiggyProto]RingPaxosPiggyProto: Asking for accept: 2748348
+W[20:50:21,903] [600-RingPiggyProto]RingPaxosPiggyProto: Asking for accept: 2748349
+W[20:50:21,904] [600-RingPiggyProto]RingPaxosPiggyProto: Asking for accept: 2748350
+W[20:50:21,905] [600-RingPiggyProto]RingPaxosPiggyProto: Asking for accept: 2748351
+I[20:51:05,739] [Thread-1]HashMapApp: Writes: 5598787, reads: 0

@@ -1,0 +1,14 @@
+I[23:30:22,762] [main]DistPaxosProto: DistinguishedPaxos: {members=[172.16.66.2:50300, 172.16.66.18:50300, 172.16.66.19:50300, 172.16.66.20:50300, 172.16.66.21:50300]} qs 3
+W[23:30:22,804] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.18:50300, cause: finishConnect(..) failed: Connection refused: gros-18/172.16.66.18:50300
+W[23:30:22,805] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.19:50300, cause: finishConnect(..) failed: Connection refused: gros-19/172.16.66.19:50300
+W[23:30:22,805] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.21:50300, cause: finishConnect(..) failed: Connection refused: gros-21/172.16.66.21:50300
+W[23:30:22,805] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.20:50300, cause: finishConnect(..) failed: Connection refused: gros-20/172.16.66.20:50300
+W[23:30:23,807] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.21:50300, cause: finishConnect(..) failed: Connection refused: gros-21/172.16.66.21:50300
+W[23:30:23,808] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.20:50300, cause: finishConnect(..) failed: Connection refused: gros-20/172.16.66.20:50300
+I[23:30:27,764] [400-DistProto]DistPaxosProto: Attempting to take leadership...
+I[23:30:27,769] [400-DistProto]DistPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[23:30:27,770] [100-DistFront0]DistPaxosFront: New writesTo: /172.16.66.2
+I[23:30:27,781] [400-DistProto]DistPaxosProto: I am leader now! @ instance 0
+W[23:30:27,781] [400-DistProto]DistPaxosProto: PrepareOk ignored, either already leader or stopped trying
+W[23:30:27,781] [400-DistProto]DistPaxosProto: PrepareOk ignored, either already leader or stopped trying
+I[23:31:59,301] [Thread-1]HashMapApp: Writes: 763132, reads: 0

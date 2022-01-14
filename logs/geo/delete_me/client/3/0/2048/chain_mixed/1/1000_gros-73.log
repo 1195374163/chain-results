@@ -1,0 +1,10 @@
+2022-01-11 12:31:48:605 0 sec: 0 operations; est completion in 0 second 
+2022-01-11 12:31:58:567 10 sec: 42766 operations; 4276.6 current ops/sec; est completion in 2 hours 35 minutes [INSERT: Count=42766, Max=2551807, Min=86848, Avg=224274.65, 90=385023, 99=2096127, 99.9=2549759, 99.99=2551807] 
+2022-01-11 12:32:08:567 20 sec: 99482 operations; 5671.6 current ops/sec; est completion in 2 hours 13 minutes [INSERT: Count=56716, Max=331519, Min=88640, Avg=176576.49, 90=247295, 99=274687, 99.9=330495, 99.99=331519] 
+2022-01-11 12:32:18:567 30 sec: 156540 operations; 5705.8 current ops/sec; est completion in 2 hours 7 minutes [INSERT: Count=57058, Max=333055, Min=89536, Avg=176073.02, 90=247295, 99=284415, 99.9=317951, 99.99=333055] 
+2022-01-11 12:32:28:567 40 sec: 212960 operations; 5642 current ops/sec; est completion in 2 hours 4 minutes [INSERT: Count=56423, Max=322303, Min=86912, Avg=176385.02, 90=248831, 99=291071, 99.9=322047, 99.99=322303] 
+2022-01-11 12:32:38:567 50 sec: 269892 operations; 5693.2 current ops/sec; est completion in 2 hours 2 minutes [INSERT: Count=56960, Max=315135, Min=89088, Avg=176204.94, 90=248575, 99=279039, 99.9=312063, 99.99=315135] 
+2022-01-11 12:32:48:567 60 sec: 326887 operations; 5699.5 current ops/sec; est completion in 2 hours 1 minute [INSERT: Count=56965, Max=272639, Min=96512, Avg=174838.64, 90=249215, 99=254847, 99.9=267775, 99.99=272383] 
+2022-01-11 12:32:58:567 70 sec: 384136 operations; 5724.9 current ops/sec; est completion in 2 hours [INSERT: Count=57261, Max=280063, Min=95616, Avg=175152.97, 90=249343, 99=256255, 99.9=267775, 99.99=277503] 
+2022-01-11 12:33:08:567 80 sec: 440440 operations; 5630.4 current ops/sec; est completion in 1 hour 59 minutes [INSERT: Count=56294, Max=342271, Min=90560, Avg=177748.07, 90=251007, 99=292863, 99.9=335871, 99.99=342271] 
+2022-01-11 12:33:13:963 85 sec: 470336 operations; 5540.4 current ops/sec; est completion in 1 hour 59 minutes [CLEANUP: Count=1000, Max=7, Min=0, Avg=0.02, 90=0, 99=0, 99.9=3, 99.99=7] [INSERT: Count=29893, Max=333823, Min=89408, Avg=175570.24, 90=246911, 99=251775, 99.9=258303, 99.99=264191] 

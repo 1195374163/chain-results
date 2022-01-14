@@ -1,0 +1,10 @@
+2022-01-12 20:47:57:373 0 sec: 0 operations; est completion in 0 second 
+2022-01-12 20:48:07:337 10 sec: 199033 operations; 19901.31 current ops/sec; est completion in 1 hour 6 minutes [INSERT: Count=199033, Max=217343, Min=2482, Avg=14674.94, 90=15687, 99=162559, 99.9=211967, 99.99=213247] 
+2022-01-12 20:48:17:337 20 sec: 401547 operations; 20251.4 current ops/sec; est completion in 1 hour 6 minutes [INSERT: Count=202547, Max=436991, Min=1974, Avg=14813.14, 90=14855, 99=75967, 99.9=435455, 99.99=436223] 
+2022-01-12 20:48:27:337 30 sec: 629852 operations; 22830.5 current ops/sec; est completion in 1 hour 3 minutes [INSERT: Count=228274, Max=110527, Min=5736, Avg=13140.68, 90=14903, 99=61631, 99.9=90687, 99.99=108159] 
+2022-01-12 20:48:37:337 40 sec: 847740 operations; 21788.8 current ops/sec; est completion in 1 hour 2 minutes [INSERT: Count=217891, Max=90943, Min=2312, Avg=13764.21, 90=15071, 99=77247, 99.9=88767, 99.99=90303] 
+2022-01-12 20:48:47:337 50 sec: 1058885 operations; 21114.5 current ops/sec; est completion in 1 hour 2 minutes [INSERT: Count=211143, Max=156415, Min=6480, Avg=14208.14, 90=15175, 99=82943, 99.9=116543, 99.99=154879] 
+2022-01-12 20:48:57:337 60 sec: 1284541 operations; 22565.6 current ops/sec; est completion in 1 hour 1 minute [INSERT: Count=225656, Max=155519, Min=6152, Avg=13292.33, 90=15199, 99=75199, 99.9=89215, 99.99=151423] 
+2022-01-12 20:49:07:337 70 sec: 1503481 operations; 21894 current ops/sec; est completion in 1 hour [INSERT: Count=218964, Max=152703, Min=6208, Avg=13698.88, 90=15063, 99=79743, 99.9=148991, 99.99=152319] 
+2022-01-12 20:49:17:337 80 sec: 1722593 operations; 21911.2 current ops/sec; est completion in 1 hour [INSERT: Count=219111, Max=172671, Min=1126, Avg=13694.91, 90=14799, 99=81919, 99.9=154623, 99.99=167679] 
+2022-01-12 20:49:22:375 85 sec: 1838473 operations; 23001.19 current ops/sec; est completion in 1 hour [CLEANUP: Count=300, Max=18, Min=0, Avg=0.13, 90=0, 99=2, 99.9=18, 99.99=18] [INSERT: Count=115854, Max=84223, Min=5744, Avg=13047.64, 90=15159, 99=18191, 99.9=82431, 99.99=83903] 

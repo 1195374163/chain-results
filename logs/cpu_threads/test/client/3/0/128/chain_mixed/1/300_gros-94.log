@@ -1,0 +1,13 @@
+2021-12-15 16:03:19:318 0 sec: 0 operations; est completion in 0 second 
+2021-12-15 16:03:29:284 10 sec: 511850 operations; 51185 current ops/sec; est completion in 12 minutes [INSERT: Count=511888, Max=1182719, Min=489, Avg=5630.66, 90=5907, 99=54239, 99.9=459775, 99.99=1147903] 
+2021-12-15 16:03:39:284 20 sec: 1024803 operations; 51295.3 current ops/sec; est completion in 12 minutes [INSERT: Count=512944, Max=1751039, Min=476, Avg=5734.52, 90=4915, 99=47711, 99.9=1382399, 99.99=1723391] 
+2021-12-15 16:03:49:284 30 sec: 1563806 operations; 53900.3 current ops/sec; est completion in 12 minutes [INSERT: Count=539014, Max=2922495, Min=535, Avg=5388.52, 90=5831, 99=24287, 99.9=138623, 99.99=2443263] 
+2021-12-15 16:03:59:284 40 sec: 2067203 operations; 50339.7 current ops/sec; est completion in 12 minutes [INSERT: Count=503368, Max=3682303, Min=473, Avg=5813.83, 90=5323, 99=34015, 99.9=175359, 99.99=3678207] 
+2021-12-15 16:04:09:284 50 sec: 2610678 operations; 54347.5 current ops/sec; est completion in 11 minutes [INSERT: Count=543502, Max=4407295, Min=558, Avg=5335.05, 90=5243, 99=28015, 99.9=121599, 99.99=4085759] 
+2021-12-15 16:04:19:284 60 sec: 3131767 operations; 52108.9 current ops/sec; est completion in 11 minutes [INSERT: Count=521051, Max=5734399, Min=475, Avg=5693.99, 90=5539, 99=28575, 99.9=123775, 99.99=5181439] 
+2021-12-15 16:04:29:284 70 sec: 3633107 operations; 50134 current ops/sec; est completion in 11 minutes [INSERT: Count=501361, Max=6672383, Min=565, Avg=6181.61, 90=5235, 99=22623, 99.9=347903, 99.99=6078463] 
+2021-12-15 16:04:39:284 80 sec: 4161531 operations; 52842.4 current ops/sec; est completion in 11 minutes [INSERT: Count=528404, Max=7450623, Min=412, Avg=5351.71, 90=5691, 99=28735, 99.9=92607, 99.99=6971391] 
+Still waiting for thread Thread-76 to complete. Workload status: true
+Still waiting for thread Thread-76 to complete. Workload status: true
+2021-12-15 16:04:49:285 90 sec: 4436067 operations; 27453.6 current ops/sec; est completion in 12 minutes [CLEANUP: Count=218, Max=6, Min=0, Avg=0.09, 90=0, 99=3, 99.9=6, 99.99=6] [INSERT: Count=274535, Max=8757247, Min=559, Avg=6502.73, 90=5095, 99=21151, 99.9=117183, 99.99=7704575] 
+2021-12-15 16:04:50:934 91 sec: 4436149 operations; 49.7 current ops/sec; est completion in 12 minutes [CLEANUP: Count=82, Max=57, Min=0, Avg=1.07, 90=1, 99=3, 99.9=57, 99.99=57] [INSERT: Count=82, Max=9445375, Min=9134080, Avg=9265651.51, 90=9371647, 99=9445375, 99.9=9445375, 99.99=9445375] 

@@ -1,0 +1,14 @@
+I[20:22:30,847] [main]ChainRepMixedProto: Starting ChainReplication
+I[20:22:30,851] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[3, 4, 5]}
+W[20:22:30,905] [300-ChainRepMixedProto]ChainRepMixedProto: Connection failed to 172.16.66.14:50300, cause: finishConnect(..) failed: Connection refused: /172.16.66.14:50300
+I[20:22:31,853] [300-ChainRepMixedProto]ChainRepMixedProto: Sending join msg to: 172.16.66.14:50300 - 5
+W[20:22:31,854] [300-ChainRepMixedProto]ChainRepMixedProto: Failed: JoinRequestMsg{}, to: 172.16.66.14:50300, reason: No outgoing connection
+I[20:22:32,393] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[]}
+I[20:22:32,394] [300-ChainRepMixedProto]ChainRepMixedProto: Looks like I'm the first one, registering myself directly
+I[20:22:32,408] [300-ChainRepMixedProto]ChainRepMixedProto: InConnectionDown{node=172.16.66.13:50300, cause=null}
+I[20:22:32,409] [300-ChainRepMixedProto]ChainRepMixedProto: InConnectionDown{node=172.16.66.14:50300, cause=null}
+I[20:22:32,409] [300-ChainRepMixedProto]ChainRepMixedProto: InConnectionDown{node=172.16.66.12:50300, cause=null}
+I[20:22:32,409] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[6, 7, 8]}
+I[20:22:32,412] [300-ChainRepMixedProto]ChainRepMixedProto: Active! My id is: 7
+I[20:22:32,414] [100-ChainRepMixFront0]ChainRepMixedFront: New writesTo: /172.16.66.14
+I[20:24:05,846] [Thread-1]HashMapApp: Writes: 1199802, reads: 0

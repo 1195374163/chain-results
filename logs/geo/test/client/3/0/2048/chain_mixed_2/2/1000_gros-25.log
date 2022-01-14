@@ -1,0 +1,18 @@
+2022-01-13 01:59:40:468 0 sec: 0 operations; est completion in 0 second 
+2022-01-13 01:59:50:432 10 sec: 25970 operations; 2597 current ops/sec; est completion in 8 hours 33 minutes [INSERT: Count=25972, Max=9756671, Min=81344, Avg=185270.29, 90=136319, 99=2500607, 99.9=9297919, 99.99=9732095] 
+2022-01-13 02:00:00:433 20 sec: 54144 operations; 2817.4 current ops/sec; est completion in 8 hours 12 minutes [INSERT: Count=28175, Max=18186239, Min=81984, Avg=252654.56, 90=138495, 99=9895935, 99.9=15802367, 99.99=17678335] 
+2022-01-13 02:00:10:433 30 sec: 80244 operations; 2610 current ops/sec; est completion in 8 hours 17 minutes [INSERT: Count=26097, Max=22921215, Min=81728, Avg=363152.96, 90=139135, 99=19218431, 99.9=22855679, 99.99=22921215] 
+2022-01-13 02:00:20:433 40 sec: 107866 operations; 2762.2 current ops/sec; est completion in 8 hours 13 minutes [INSERT: Count=27622, Max=24526847, Min=85696, Avg=425667.75, 90=145791, 99=23986175, 99.9=24444927, 99.99=24510463] 
+2022-01-13 02:00:30:432 50 sec: 135566 operations; 2770 current ops/sec; est completion in 8 hours 10 minutes [INSERT: Count=27712, Max=24018943, Min=77696, Avg=352822.91, 90=138367, 99=211711, 99.9=23674879, 99.99=23887871] 
+2022-01-13 02:00:40:433 60 sec: 163319 operations; 2775.3 current ops/sec; est completion in 8 hours 8 minutes [INSERT: Count=27741, Max=23494655, Min=77376, Avg=424598.19, 90=138751, 99=21757951, 99.9=23429119, 99.99=23494655] 
+2022-01-13 02:00:50:433 70 sec: 190901 operations; 2758.2 current ops/sec; est completion in 8 hours 7 minutes [INSERT: Count=27582, Max=21708799, Min=86464, Avg=295422.9, 90=134655, 99=205951, 99.9=21577727, 99.99=21708799] 
+2022-01-13 02:01:00:432 80 sec: 218344 operations; 2744.3 current ops/sec; est completion in 8 hours 7 minutes [INSERT: Count=27443, Max=21069823, Min=84928, Avg=447822.01, 90=145023, 99=20119551, 99.9=21020671, 99.99=21069823] 
+2022-01-13 02:01:10:433 90 sec: 245810 operations; 2746.6 current ops/sec; est completion in 8 hours 6 minutes [INSERT: Count=27466, Max=20086783, Min=85760, Avg=304177.66, 90=137855, 99=203903, 99.9=19677183, 99.99=20037631] 
+2022-01-13 02:01:20:433 100 sec: 273549 operations; 2773.9 current ops/sec; est completion in 8 hours 5 minutes [INSERT: Count=27739, Max=19251199, Min=85504, Avg=400655.18, 90=136703, 99=18399231, 99.9=19234815, 99.99=19251199] 
+2022-01-13 02:01:30:433 110 sec: 301272 operations; 2772.3 current ops/sec; est completion in 8 hours 5 minutes [INSERT: Count=27724, Max=18104319, Min=83136, Avg=323076.32, 90=133759, 99=17432575, 99.9=17842175, 99.99=18104319] 
+2022-01-13 02:01:40:432 120 sec: 328999 operations; 2772.7 current ops/sec; est completion in 8 hours 4 minutes [INSERT: Count=27726, Max=17416191, Min=82048, Avg=387745.08, 90=145791, 99=17088511, 99.9=17317887, 99.99=17399807] 
+Still waiting for thread Thread-952 to complete. Workload status: true
+Still waiting for thread Thread-952 to complete. Workload status: true
+2022-01-13 02:01:50:433 130 sec: 344026 operations; 1502.7 current ops/sec; est completion in 8 hours 21 minutes [CLEANUP: Count=710, Max=14, Min=0, Avg=0.07, 90=0, 99=2, 99.9=12, 99.99=14] [INSERT: Count=15027, Max=16392191, Min=85888, Avg=706702.73, 90=139135, 99=16285695, 99.9=16375807, 99.99=16392191] 
+Still waiting for thread Thread-773 to complete. Workload status: true
+2022-01-13 02:01:53:005 132 sec: 344316 operations; 112.71 current ops/sec; est completion in 8 hours 31 minutes [CLEANUP: Count=290, Max=0, Min=0, Avg=0, 90=0, 99=0, 99.9=0, 99.99=0] [INSERT: Count=290, Max=11018239, Min=8388608, Avg=9437974.95, 90=10608639, 99=11018239, 99.9=11018239, 99.99=11018239] 

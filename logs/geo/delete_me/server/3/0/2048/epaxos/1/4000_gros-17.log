@@ -1,0 +1,6 @@
+I[13:55:25,333] [main]Membership: New preferred members: [172.16.66.3:50300]
+I[13:55:25,444] [main]EPaxosProto: EPaxos: {members=[172.16.66.3:50300, 172.16.66.9:50300, 172.16.66.17:50300]} mcf 1
+I[13:55:25,447] [100-EPaxosFront0]EPaxosFront: New writesTo: /172.16.66.17
+I[13:55:46,040] [500-EPaxos]EPaxosProto: InConnectionDown{node=172.16.66.3:50300, cause=io.netty.channel.unix.Errors$NativeIoException: readAddress(..) failed: Connection reset by peer}
+W[13:55:46,041] [500-EPaxos]EPaxosProto: OutConnectionDown{node=172.16.66.3:50300, cause=io.netty.channel.unix.Errors$NativeIoException: readAddress(..) failed: Connection reset by peer}
+I[13:55:46,100] [Thread-1]HashMapApp: Writes: 0, reads: 0

@@ -1,0 +1,32 @@
+I[23:58:12,755] [main]RingPaxosProto: RingPaxos: {members=[172.16.66.2:50300, 172.16.66.18:50300, 172.16.66.19:50300, 172.16.66.20:50300, 172.16.66.21:50300]} qs 3 max instances: 60
+W[23:58:12,761] [600-RingProto]RingPaxosProto: Connection failed to 172.16.66.21:50300, cause: finishConnect(..) failed: Connection refused: gros-21/172.16.66.21:50300
+I[23:58:16,246] [600-RingProto]RingPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[23:58:16,247] [100-RingFront0]RingPaxosFront: New writesTo: /172.16.66.2
+W[23:59:08,463] [600-RingProto]RingPaxosProto: Asking for accept: 422471
+W[23:59:08,476] [600-RingProto]RingPaxosProto: Asking for accept: 422617
+W[23:59:08,477] [600-RingProto]RingPaxosProto: Asking for accept: 422618
+W[23:59:08,478] [600-RingProto]RingPaxosProto: Asking for accept: 422619
+W[23:59:08,478] [600-RingProto]RingPaxosProto: Asking for accept: 422620
+W[23:59:08,489] [600-RingProto]RingPaxosProto: Asking for accept: 422909
+W[23:59:08,490] [600-RingProto]RingPaxosProto: Asking for accept: 422910
+W[23:59:08,490] [600-RingProto]RingPaxosProto: Asking for accept: 422911
+W[23:59:08,491] [600-RingProto]RingPaxosProto: Asking for accept: 422912
+W[23:59:08,511] [600-RingProto]RingPaxosProto: Asking for accept: 423488
+W[23:59:08,511] [600-RingProto]RingPaxosProto: Asking for accept: 423489
+W[23:59:08,512] [600-RingProto]RingPaxosProto: Asking for accept: 423490
+W[23:59:08,512] [600-RingProto]RingPaxosProto: Asking for accept: 423491
+W[23:59:08,513] [600-RingProto]RingPaxosProto: Asking for accept: 423492
+W[23:59:08,514] [600-RingProto]RingPaxosProto: Asking for accept: 423493
+W[23:59:08,515] [600-RingProto]RingPaxosProto: Asking for accept: 423494
+W[23:59:08,515] [600-RingProto]RingPaxosProto: Asking for accept: 423495
+W[23:59:08,516] [600-RingProto]RingPaxosProto: Asking for accept: 423496
+W[23:59:08,517] [600-RingProto]RingPaxosProto: Asking for accept: 423497
+W[23:59:08,517] [600-RingProto]RingPaxosProto: Asking for accept: 423596
+W[23:59:08,518] [600-RingProto]RingPaxosProto: Asking for accept: 423597
+W[23:59:08,519] [600-RingProto]RingPaxosProto: Asking for accept: 423598
+W[23:59:08,520] [600-RingProto]RingPaxosProto: Asking for accept: 423599
+W[23:59:08,520] [600-RingProto]RingPaxosProto: Asking for accept: 423600
+W[23:59:08,521] [600-RingProto]RingPaxosProto: Asking for accept: 423601
+W[23:59:08,521] [600-RingProto]RingPaxosProto: Asking for accept: 423602
+W[23:59:08,522] [600-RingProto]RingPaxosProto: Asking for accept: 423603
+I[23:59:47,702] [Thread-1]HashMapApp: Writes: 763177, reads: 0

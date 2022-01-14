@@ -1,0 +1,15 @@
+I[23:51:35,874] [main]ChainRepMixedProto: Starting ChainReplication
+I[23:51:35,878] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[135, 136, 137]}
+I[23:51:36,880] [300-ChainRepMixedProto]ChainRepMixedProto: Sending join msg to: 172.16.66.39:50300 - 137
+I[23:51:37,140] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[135, 136, 137, 138]}
+I[23:51:39,880] [300-ChainRepMixedProto]ChainRepMixedProto: Sending join msg to: 172.16.66.40:50300 - 138
+I[23:51:40,377] [300-ChainRepMixedProto]ChainRepMixedProto: State received, registering self
+I[23:51:40,378] [100-ChainRepMixFront0]HashMapApp: State installed(0) 
+I[23:51:40,385] [300-ChainRepMixedProto]ChainRepMixedProto: New membership: {members=[135, 136, 137, 138, 139]}
+I[23:51:40,386] [300-ChainRepMixedProto]ChainRepMixedProto: Active! My id is: 139
+I[23:51:40,387] [100-ChainRepMixFront0]ChainRepMixedFront: New writesTo: /172.16.66.4
+W[23:51:46,624] [100-ChainRepMixFront0]ChainRepMixedFront: Sending batch by timeout, size 1
+W[23:51:46,944] [100-ChainRepMixFront0]ChainRepMixedFront: Sending batch by timeout, size 9
+W[23:51:47,184] [100-ChainRepMixFront0]ChainRepMixedFront: Sending batch by timeout, size 1
+W[23:53:19,480] [100-ChainRepMixFront0]ChainRepMixedFront: Sending batch by timeout, size 4
+I[23:53:54,646] [Thread-1]HashMapApp: Writes: 3410515, reads: 0

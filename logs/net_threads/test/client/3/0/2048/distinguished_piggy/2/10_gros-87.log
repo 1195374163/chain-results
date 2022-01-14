@@ -1,0 +1,10 @@
+2022-01-10 17:15:57:993 0 sec: 0 operations; est completion in 0 second 
+2022-01-10 17:16:07:971 10 sec: 82329 operations; 8232.9 current ops/sec; est completion in 1 hour 20 minutes [INSERT: Count=82338, Max=280575, Min=172, Avg=1188.05, 90=1309, 99=1518, 99.9=6027, 99.99=280575] 
+2022-01-10 17:16:17:970 20 sec: 170270 operations; 8794.1 current ops/sec; est completion in 1 hour 17 minutes [INSERT: Count=87936, Max=52639, Min=205, Avg=1133.87, 90=1309, 99=1484, 99.9=3563, 99.99=52351] 
+2022-01-10 17:16:27:970 30 sec: 258291 operations; 8802.1 current ops/sec; est completion in 1 hour 16 minutes [INSERT: Count=88020, Max=58207, Min=193, Avg=1133.18, 90=1300, 99=1465, 99.9=1819, 99.99=57567] 
+2022-01-10 17:16:37:971 40 sec: 346864 operations; 8857.3 current ops/sec; est completion in 1 hour 16 minutes [INSERT: Count=88576, Max=59359, Min=194, Avg=1126.36, 90=1299, 99=1459, 99.9=1734, 99.99=58463] 
+2022-01-10 17:16:47:970 50 sec: 435244 operations; 8838 current ops/sec; est completion in 1 hour 15 minutes [INSERT: Count=88378, Max=57055, Min=234, Avg=1128.54, 90=1307, 99=1473, 99.9=1956, 99.99=56575] 
+2022-01-10 17:16:57:971 60 sec: 523768 operations; 8852.4 current ops/sec; est completion in 1 hour 15 minutes [INSERT: Count=88521, Max=97343, Min=206, Avg=1126.97, 90=1299, 99=1462, 99.9=2809, 99.99=50783] 
+2022-01-10 17:17:07:970 70 sec: 613244 operations; 8947.6 current ops/sec; est completion in 1 hour 14 minutes [INSERT: Count=89476, Max=51615, Min=191, Avg=1114.88, 90=1298, 99=1463, 99.9=1746, 99.99=50783] 
+2022-01-10 17:17:17:970 80 sec: 702360 operations; 8911.6 current ops/sec; est completion in 1 hour 14 minutes [INSERT: Count=89121, Max=52543, Min=196, Avg=1119.33, 90=1306, 99=1469, 99.9=1700, 99.99=51807] 
+2022-01-10 17:17:22:974 85 sec: 746436 operations; 8808.15 current ops/sec; est completion in 1 hour 14 minutes [CLEANUP: Count=10, Max=1, Min=0, Avg=0.1, 90=0, 99=1, 99.9=1, 99.99=1] [INSERT: Count=44070, Max=59903, Min=179, Avg=1132.49, 90=1308, 99=1484, 99.9=1739, 99.99=59839] 

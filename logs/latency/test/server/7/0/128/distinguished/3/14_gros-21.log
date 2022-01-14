@@ -1,0 +1,6 @@
+I[23:44:01,371] [main]DistPaxosProto: DistinguishedPaxos: {members=[172.16.66.2:50300, 172.16.66.18:50300, 172.16.66.19:50300, 172.16.66.20:50300, 172.16.66.21:50300, 172.16.66.22:50300, 172.16.66.23:50300]} qs 4
+W[23:44:01,422] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+W[23:44:01,423] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.22:50300, cause: finishConnect(..) failed: Connection refused: gros-22/172.16.66.22:50300
+I[23:44:04,374] [400-DistProto]DistPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[23:44:04,375] [100-DistFront0]DistPaxosFront: New writesTo: /172.16.66.2
+I[23:45:36,915] [Thread-1]HashMapApp: Writes: 763195, reads: 0

@@ -1,0 +1,10 @@
+2022-01-09 21:45:17:584 0 sec: 0 operations; est completion in 0 second 
+2022-01-09 21:45:27:551 10 sec: 87569 operations; 8756.9 current ops/sec; est completion in 1 hour 15 minutes [INSERT: Count=87569, Max=195327, Min=746, Avg=33487.04, 90=36255, 99=62271, 99.9=191871, 99.99=194559] 
+2022-01-09 21:45:37:550 20 sec: 152099 operations; 6453 current ops/sec; est completion in 1 hour 27 minutes [INSERT: Count=64530, Max=792063, Min=681, Avg=46510.06, 90=56031, 99=428799, 99.9=727039, 99.99=792063] 
+2022-01-09 21:45:47:550 30 sec: 243805 operations; 9170.6 current ops/sec; est completion in 1 hour 21 minutes [INSERT: Count=91706, Max=155263, Min=513, Avg=32741.46, 90=54335, 99=94719, 99.9=143231, 99.99=155263] 
+2022-01-09 21:45:57:551 40 sec: 333560 operations; 8975.5 current ops/sec; est completion in 1 hour 19 minutes [INSERT: Count=89755, Max=240767, Min=577, Avg=32803.27, 90=31903, 99=117951, 99.9=185087, 99.99=240639] 
+2022-01-09 21:46:07:550 50 sec: 422458 operations; 8889.8 current ops/sec; est completion in 1 hour 18 minutes [INSERT: Count=88898, Max=309759, Min=673, Avg=34298.74, 90=31647, 99=157823, 99.9=204031, 99.99=309759] 
+2022-01-09 21:46:17:550 60 sec: 507221 operations; 8476.3 current ops/sec; est completion in 1 hour 17 minutes [INSERT: Count=84763, Max=306175, Min=703, Avg=35464.83, 90=30639, 99=164351, 99.9=305919, 99.99=306175] 
+2022-01-09 21:46:27:550 70 sec: 597232 operations; 9001.1 current ops/sec; est completion in 1 hour 16 minutes [INSERT: Count=90011, Max=299263, Min=677, Avg=33272.17, 90=30399, 99=172415, 99.9=251519, 99.99=299263] 
+2022-01-09 21:46:37:550 80 sec: 689303 operations; 9207.1 current ops/sec; est completion in 1 hour 16 minutes [INSERT: Count=92096, Max=230271, Min=497, Avg=32641.21, 90=30559, 99=169983, 99.9=189311, 99.99=230271] 
+2022-01-09 21:46:42:595 85 sec: 736275 operations; 9310.6 current ops/sec; est completion in 1 hour 15 minutes [CLEANUP: Count=300, Max=6, Min=0, Avg=0.03, 90=0, 99=0, 99.9=6, 99.99=6] [INSERT: Count=46947, Max=261631, Min=638, Avg=32224.68, 90=28847, 99=185983, 99.9=261247, 99.99=261631] 

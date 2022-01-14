@@ -1,0 +1,10 @@
+2022-01-12 22:04:21:786 0 sec: 0 operations; est completion in 0 second 
+2022-01-12 22:04:31:757 10 sec: 69257 operations; 6925.7 current ops/sec; est completion in 3 hours 12 minutes [INSERT: Count=69264, Max=248959, Min=403, Avg=1408.56, 90=1820, 99=2203, 99.9=5411, 99.99=248447] 
+2022-01-12 22:04:41:757 20 sec: 135823 operations; 6656.6 current ops/sec; est completion in 3 hours 16 minutes [INSERT: Count=66561, Max=505343, Min=353, Avg=1500.01, 90=1825, 99=2211, 99.9=2987, 99.99=505343] 
+2022-01-12 22:04:51:757 30 sec: 206662 operations; 7083.9 current ops/sec; est completion in 3 hours 13 minutes [INSERT: Count=70842, Max=73983, Min=410, Avg=1409.43, 90=1860, 99=2231, 99.9=2581, 99.99=73535] 
+2022-01-12 22:05:01:757 40 sec: 278972 operations; 7231 current ops/sec; est completion in 3 hours 10 minutes [INSERT: Count=72305, Max=88063, Min=397, Avg=1380.72, 90=1798, 99=2179, 99.9=2623, 99.99=87679] 
+2022-01-12 22:05:11:757 50 sec: 351688 operations; 7271.6 current ops/sec; est completion in 3 hours 8 minutes [INSERT: Count=72720, Max=61151, Min=579, Avg=1373.33, 90=1827, 99=2175, 99.9=2465, 99.99=61023] 
+2022-01-12 22:05:21:757 60 sec: 422215 operations; 7052.7 current ops/sec; est completion in 3 hours 8 minutes [INSERT: Count=70526, Max=81855, Min=500, Avg=1415.98, 90=1835, 99=2243, 99.9=2543, 99.99=81535] 
+2022-01-12 22:05:31:757 70 sec: 494884 operations; 7266.9 current ops/sec; est completion in 3 hours 7 minutes [INSERT: Count=72676, Max=84351, Min=455, Avg=1374.2, 90=1784, 99=2177, 99.9=2507, 99.99=84095] 
+2022-01-12 22:05:41:757 80 sec: 566986 operations; 7210.2 current ops/sec; est completion in 3 hours 6 minutes [INSERT: Count=72092, Max=71487, Min=486, Avg=1384.87, 90=1812, 99=2183, 99.9=2513, 99.99=71359] 
+2022-01-12 22:05:46:761 85 sec: 601986 operations; 6995.8 current ops/sec; est completion in 3 hours 6 minutes [CLEANUP: Count=10, Max=3, Min=0, Avg=0.4, 90=1, 99=3, 99.9=3, 99.99=3] [INSERT: Count=35000, Max=83775, Min=518, Avg=1427.42, 90=1849, 99=2215, 99.9=2625, 99.99=83583] 

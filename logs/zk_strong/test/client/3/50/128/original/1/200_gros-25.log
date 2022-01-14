@@ -1,0 +1,20 @@
+2022-01-07 21:45:05:526 0 sec: 0 operations; est completion in 0 second 
+2022-01-07 21:45:15:527 10 sec: 0 operations; est completion in 106751991167300 days 15 hours 
+2022-01-07 21:45:25:529 20 sec: 365111 operations; 36511.1 current ops/sec; est completion in 36 minutes [READ: Count=182532, Max=11165695, Min=624, Avg=11474.2, 90=7475, 99=9855, 99.9=64991, 99.99=10207231] [UPDATE: Count=182922, Max=11157503, Min=1859, Avg=10275.4, 90=5155, 99=6955, 99.9=62207, 99.99=10207231] 
+2022-01-07 21:45:35:527 30 sec: 628294 operations; 26318.3 current ops/sec; est completion in 31 minutes [READ: Count=131646, Max=122751, Min=187, Avg=7182.62, 90=7415, 99=45919, 99.9=55807, 99.99=98431] [UPDATE: Count=131317, Max=115007, Min=1434, Avg=8017.53, 90=27823, 99=47647, 99.9=54527, 99.99=96575] 
+2022-01-07 21:45:45:527 40 sec: 964374 operations; 33608 current ops/sec; est completion in 27 minutes [READ: Count=167887, Max=96191, Min=188, Avg=6347.31, 90=7307, 99=39391, 99.9=72767, 99.99=95871] [UPDATE: Count=168168, Max=96127, Min=1578, Avg=5551.8, 90=5227, 99=44383, 99.9=69759, 99.99=95679] 
+2022-01-07 21:45:55:526 50 sec: 1301805 operations; 33743.1 current ops/sec; est completion in 24 minutes [READ: Count=168798, Max=88767, Min=190, Avg=6263.67, 90=7327, 99=36255, 99.9=51967, 99.99=88127] [UPDATE: Count=168543, Max=88255, Min=1711, Avg=5587.75, 90=5259, 99=40383, 99.9=52607, 99.99=87679] 
+2022-01-07 21:46:05:526 60 sec: 1656022 operations; 35421.7 current ops/sec; est completion in 23 minutes [READ: Count=177365, Max=68095, Min=176, Avg=6144.96, 90=7319, 99=27967, 99.9=50943, 99.99=64319] [UPDATE: Count=176924, Max=58783, Min=2162, Avg=5143.52, 90=5211, 99=39903, 99.9=49567, 99.99=55679] 
+2022-01-07 21:46:15:526 70 sec: 1976016 operations; 31999.4 current ops/sec; est completion in 22 minutes [READ: Count=159954, Max=60799, Min=192, Avg=6435.22, 90=7375, 99=39999, 99.9=50271, 99.99=58879] [UPDATE: Count=160009, Max=58367, Min=1954, Avg=6063.52, 90=5343, 99=43807, 99.9=51935, 99.99=57919] 
+2022-01-07 21:46:25:526 80 sec: 2341420 operations; 36540.4 current ops/sec; est completion in 21 minutes [READ: Count=182470, Max=77503, Min=195, Avg=6087.71, 90=7291, 99=14671, 99.9=54719, 99.99=73279] [UPDATE: Count=182947, Max=69567, Min=1330, Avg=4857.66, 90=5187, 99=36575, 99.9=50559, 99.99=67327] 
+Still waiting for thread Thread-81 to complete. Workload status: true
+Still waiting for thread Thread-81 to complete. Workload status: true
+2022-01-07 21:46:35:527 90 sec: 2529414 operations; 18799.4 current ops/sec; est completion in 22 minutes [READ: Count=93842, Max=91455, Min=202, Avg=6076.3, 90=7371, 99=10367, 99.9=70207, 99.99=90175] [CLEANUP: Count=49, Max=4919295, Min=105664, Avg=2505958.53, 90=4419583, 99=4919295, 99.9=4919295, 99.99=4919295] [UPDATE: Count=94090, Max=74815, Min=1841, Avg=4628.94, 90=5167, 99=8255, 99.9=61631, 99.99=74687] 
+Still waiting for thread Thread-81 to complete. Workload status: true
+Still waiting for thread Thread-81 to complete. Workload status: true
+Still waiting for thread Thread-81 to complete. Workload status: true
+Still waiting for thread Thread-81 to complete. Workload status: true
+Still waiting for thread Thread-81 to complete. Workload status: true
+2022-01-07 21:46:45:527 100 sec: 2529414 operations; 0 current ops/sec; est completion in 24 minutes [READ: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] [CLEANUP: Count=100, Max=14958591, Min=5017600, Avg=9987891.2, 90=13959167, 99=14860287, 99.9=14958591, 99.99=14958591] [UPDATE: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] 
+Still waiting for thread Thread-81 to complete. Workload status: true
+2022-01-07 21:46:50:628 105 sec: 2529414 operations; 0 current ops/sec; est completion in 25 minutes [READ: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] [CLEANUP: Count=51, Max=20086783, Min=15048704, Avg=17566378.67, 90=19578879, 99=19988479, 99.9=20086783, 99.99=20086783] [UPDATE: Count=0, Max=0, Min=9223372036854775807, Avg=NaN, 90=0, 99=0, 99.9=0, 99.99=0] 

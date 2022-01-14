@@ -1,0 +1,10 @@
+2022-01-10 16:54:21:435 0 sec: 0 operations; est completion in 0 second 
+2022-01-10 16:54:31:411 10 sec: 83218 operations; 8321.8 current ops/sec; est completion in 1 hour 19 minutes [INSERT: Count=83225, Max=322303, Min=292, Avg=2349.01, 90=2425, 99=2877, 99.9=9183, 99.99=322047] 
+2022-01-10 16:54:41:411 20 sec: 171864 operations; 8864.6 current ops/sec; est completion in 1 hour 17 minutes [INSERT: Count=88639, Max=55103, Min=247, Avg=2250.65, 90=2399, 99=2781, 99.9=20079, 99.99=54911] 
+2022-01-10 16:54:51:411 30 sec: 260958 operations; 8909.4 current ops/sec; est completion in 1 hour 16 minutes [INSERT: Count=89103, Max=54751, Min=293, Avg=2239.6, 90=2401, 99=2761, 99.9=18143, 99.99=54143] 
+2022-01-10 16:55:01:411 40 sec: 350218 operations; 8926 current ops/sec; est completion in 1 hour 15 minutes [INSERT: Count=89253, Max=60127, Min=263, Avg=2236.1, 90=2397, 99=2751, 99.9=4459, 99.99=59455] 
+2022-01-10 16:55:11:411 50 sec: 438935 operations; 8871.7 current ops/sec; est completion in 1 hour 15 minutes [INSERT: Count=88716, Max=57983, Min=331, Avg=2249.78, 90=2403, 99=2791, 99.9=36799, 99.99=57311] 
+2022-01-10 16:55:21:411 60 sec: 527371 operations; 8843.6 current ops/sec; est completion in 1 hour 14 minutes [INSERT: Count=88435, Max=97663, Min=239, Avg=2256.88, 90=2411, 99=2803, 99.9=26127, 99.99=52255] 
+2022-01-10 16:55:31:411 70 sec: 616184 operations; 8881.3 current ops/sec; est completion in 1 hour 14 minutes [INSERT: Count=88815, Max=55487, Min=330, Avg=2247.22, 90=2411, 99=2793, 99.9=16959, 99.99=55103] 
+2022-01-10 16:55:41:411 80 sec: 705804 operations; 8962 current ops/sec; est completion in 1 hour 14 minutes [INSERT: Count=89626, Max=63775, Min=290, Avg=2227.48, 90=2401, 99=2771, 99.9=12375, 99.99=63231] 
+2022-01-10 16:55:46:416 85 sec: 750906 operations; 9009.59 current ops/sec; est completion in 1 hour 14 minutes [CLEANUP: Count=20, Max=1, Min=0, Avg=0.05, 90=0, 99=1, 99.9=1, 99.99=1] [INSERT: Count=45094, Max=63103, Min=180, Avg=2215.21, 90=2401, 99=2779, 99.9=4239, 99.99=62687] 

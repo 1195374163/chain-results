@@ -1,0 +1,20 @@
+I[12:29:09,825] [main]ChainPaxosMixedProto: ChainPaxos: {members=[172.16.66.11:50300, 172.16.66.24:50300, 172.16.66.25:50300]} qs 2
+I[12:29:13,915] [200-ChainProtoMixed]ChainPaxosMixedProto: New highest instance leader: iN:0, SN{0:172.16.66.11:50300}
+I[12:29:13,917] [100-ChainFrontMixed0]ChainPaxosMixedFront: New writesTo: /172.16.66.11
+E[12:30:10,002] [nioEventLoopGroup-9-1]HashMapApp: Exception caught.
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253) ~[chain.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1134) ~[chain.jar:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[chain.jar:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [chain.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719) [chain.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655) [chain.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581) [chain.jar:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493) [chain.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989) [chain.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [chain.jar:?]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [chain.jar:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+I[12:30:11,192] [Thread-1]HashMapApp: Writes: 1071942, reads: 0

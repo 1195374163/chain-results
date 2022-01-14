@@ -1,0 +1,4 @@
+I[12:47:55,499] [main]ChainPaxosDelayedProto: ChainProtoDelay: {members=[172.16.66.7:50300, 172.16.66.9:50300, 172.16.66.72:50300]} qs 2
+I[12:47:59,503] [200-ChainProtoDelay]ChainPaxosDelayedProto: New highest instance leader: iN:0, SN{0:172.16.66.7:50300}
+I[12:47:59,505] [100-ChainFrontDelay0]ChainPaxosDelayedFront: New writesTo: /172.16.66.7
+I[12:49:32,712] [Thread-1]HashMapApp: Writes: 3753849, reads: 0

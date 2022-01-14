@@ -1,0 +1,8 @@
+I[15:04:39,620] [main]ChainPaxosMixedProto: ChainPaxos: {members=[172.16.66.80:50300, 172.16.66.81:50300, 172.16.66.82:50300]} qs 2
+W[15:04:39,660] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.82:50300, cause: finishConnect(..) failed: Connection refused: gros-82/172.16.66.82:50300
+W[15:04:39,660] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.81:50300, cause: finishConnect(..) failed: Connection refused: gros-81/172.16.66.81:50300
+I[15:04:44,622] [200-ChainProtoMixed]ChainPaxosMixedProto: Attempting to take leadership...
+I[15:04:44,626] [200-ChainProtoMixed]ChainPaxosMixedProto: New highest instance leader: iN:0, SN{0:172.16.66.80:50300}
+I[15:04:44,627] [100-ChainFrontMixed0]ChainPaxosMixedFront: New writesTo: /172.16.66.80
+I[15:04:44,636] [200-ChainProtoMixed]ChainPaxosMixedProto: I am leader now! @ instance 0
+I[15:06:15,052] [Thread-1]HashMapApp: Writes: 2069262, reads: 0

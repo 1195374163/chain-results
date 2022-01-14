@@ -1,0 +1,12 @@
+2022-01-11 21:14:57:801 0 sec: 0 operations; est completion in 0 second 
+2022-01-11 21:15:07:766 10 sec: 396227 operations; 39622.7 current ops/sec; est completion in 16 minutes [INSERT: Count=396302, Max=473343, Min=305, Avg=3678.85, 90=4077, 99=38271, 99.9=221823, 99.99=472831] 
+2022-01-11 21:15:17:766 20 sec: 774602 operations; 37837.5 current ops/sec; est completion in 16 minutes [INSERT: Count=378340, Max=348415, Min=255, Avg=3967.68, 90=4847, 99=43167, 99.9=193919, 99.99=347647] 
+2022-01-11 21:15:27:766 30 sec: 1151539 operations; 37693.7 current ops/sec; est completion in 16 minutes [INSERT: Count=376915, Max=410111, Min=285, Avg=3987.02, 90=4007, 99=47295, 99.9=256767, 99.99=348927] 
+2022-01-11 21:15:37:766 40 sec: 1501797 operations; 35025.8 current ops/sec; est completion in 17 minutes [INSERT: Count=350247, Max=372223, Min=266, Avg=4282.47, 90=4755, 99=31839, 99.9=239999, 99.99=350207] 
+2022-01-11 21:15:47:766 50 sec: 1867938 operations; 36614.1 current ops/sec; est completion in 17 minutes [INSERT: Count=366134, Max=557567, Min=271, Avg=4043.12, 90=4219, 99=29215, 99.9=319999, 99.99=494591] 
+2022-01-11 21:15:57:766 60 sec: 2298724 operations; 43078.6 current ops/sec; est completion in 16 minutes [INSERT: Count=430789, Max=1530879, Min=293, Avg=3482.11, 90=3531, 99=5663, 99.9=563711, 99.99=1511423] 
+2022-01-11 21:16:07:766 70 sec: 2729853 operations; 43112.9 current ops/sec; est completion in 15 minutes [INSERT: Count=431140, Max=2461695, Min=236, Avg=3350.52, 90=3419, 99=12279, 99.9=72255, 99.99=2400255] 
+2022-01-11 21:16:17:766 80 sec: 3169257 operations; 43940.4 current ops/sec; est completion in 15 minutes [INSERT: Count=439408, Max=4071423, Min=241, Avg=3392.34, 90=2871, 99=13711, 99.9=171903, 99.99=4052991] 
+Still waiting for thread Thread-94 to complete. Workload status: true
+Still waiting for thread Thread-94 to complete. Workload status: true
+2022-01-11 21:16:27:441 89 sec: 3364822 operations; 20213.44 current ops/sec; est completion in 16 minutes [CLEANUP: Count=150, Max=5, Min=0, Avg=0.17, 90=0, 99=4, 99.9=5, 99.99=5] [INSERT: Count=195547, Max=6139903, Min=275, Avg=5373.5, 90=2801, 99=24895, 99.9=312575, 99.99=6090751] 

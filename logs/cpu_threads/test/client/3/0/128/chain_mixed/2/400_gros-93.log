@@ -1,0 +1,11 @@
+2021-12-15 16:19:26:371 0 sec: 0 operations; est completion in 0 second 
+2021-12-15 16:19:36:336 10 sec: 534321 operations; 53432.1 current ops/sec; est completion in 12 minutes [INSERT: Count=534346, Max=1186815, Min=585, Avg=7134.4, 90=8687, 99=65855, 99.9=332031, 99.99=1182719] 
+2021-12-15 16:19:46:336 20 sec: 1073521 operations; 53920 current ops/sec; est completion in 12 minutes [INSERT: Count=539195, Max=1895423, Min=689, Avg=7450.98, 90=7783, 99=43839, 99.9=1541119, 99.99=1880063] 
+2021-12-15 16:19:56:336 30 sec: 1613449 operations; 53992.8 current ops/sec; est completion in 11 minutes [INSERT: Count=539908, Max=2783231, Min=623, Avg=7011.03, 90=6767, 99=51679, 99.9=192255, 99.99=2373631] 
+2021-12-15 16:20:06:336 40 sec: 2158568 operations; 54511.9 current ops/sec; est completion in 11 minutes [INSERT: Count=545135, Max=3547135, Min=677, Avg=7272.88, 90=7307, 99=61631, 99.9=241407, 99.99=3151871] 
+2021-12-15 16:20:16:336 50 sec: 2705995 operations; 54742.7 current ops/sec; est completion in 11 minutes [INSERT: Count=547411, Max=4194303, Min=685, Avg=7486.19, 90=6323, 99=55583, 99.9=174079, 99.99=4089855] 
+2021-12-15 16:20:26:336 60 sec: 3239758 operations; 53376.3 current ops/sec; est completion in 11 minutes [INSERT: Count=533800, Max=4943871, Min=683, Avg=7200.1, 90=7291, 99=55583, 99.9=157951, 99.99=4714495] 
+2021-12-15 16:20:36:336 70 sec: 3773918 operations; 53416 current ops/sec; est completion in 11 minutes [INSERT: Count=534123, Max=5488639, Min=704, Avg=7645.07, 90=6087, 99=55167, 99.9=219391, 99.99=5484543] 
+2021-12-15 16:20:46:336 80 sec: 4327693 operations; 55377.5 current ops/sec; est completion in 11 minutes [INSERT: Count=553807, Max=6430719, Min=685, Avg=6792.65, 90=5659, 99=65727, 99.9=219519, 99.99=6189055] 
+Still waiting for thread Thread-208 to complete. Workload status: true
+2021-12-15 16:20:56:064 89 sec: 4613563 operations; 29389.33 current ops/sec; est completion in 11 minutes [CLEANUP: Count=400, Max=28, Min=0, Avg=0.25, 90=1, 99=1, 99.9=28, 99.99=28] [INSERT: Count=285838, Max=8421375, Min=741, Avg=10137.62, 90=5987, 99=40543, 99.9=226559, 99.99=8171519] 

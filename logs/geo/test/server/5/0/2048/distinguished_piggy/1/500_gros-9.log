@@ -1,0 +1,16 @@
+I[22:13:35,340] [main]DistPaxosPiggyProto: DistinguishedPiggy: {members=[172.16.66.9:50300, 172.16.66.82:50300, 172.16.66.83:50300, 172.16.66.84:50300, 172.16.66.85:50300]} qs 3
+W[22:13:35,434] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.82:50300, cause: finishConnect(..) failed: Connection refused: gros-82/172.16.66.82:50300
+W[22:13:35,483] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.83:50300, cause: finishConnect(..) failed: Connection refused: gros-83/172.16.66.83:50300
+W[22:13:35,555] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.85:50300, cause: finishConnect(..) failed: Connection refused: gros-85/172.16.66.85:50300
+W[22:13:35,579] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.84:50300, cause: finishConnect(..) failed: Connection refused: gros-84/172.16.66.84:50300
+W[22:13:36,747] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.85:50300, cause: finishConnect(..) failed: Connection refused: gros-85/172.16.66.85:50300
+W[22:13:36,796] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.84:50300, cause: finishConnect(..) failed: Connection refused: gros-84/172.16.66.84:50300
+I[22:13:40,342] [400-DistPiggyProto]DistPaxosPiggyProto: Attempting to take leadership...
+I[22:13:40,347] [400-DistPiggyProto]DistPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.9:50300}
+I[22:13:40,348] [100-DistFront0]DistPaxosFront: New writesTo: /172.16.66.9
+I[22:13:40,485] [400-DistPiggyProto]DistPaxosPiggyProto: I am leader now! @ instance 0
+W[22:13:40,537] [400-DistPiggyProto]DistPaxosPiggyProto: PrepareOk ignored, either already leader or stopped trying
+W[22:13:40,550] [400-DistPiggyProto]DistPaxosPiggyProto: PrepareOk ignored, either already leader or stopped trying
+W[22:14:13,731] [100-DistFront0]DistPaxosFront: Sending batch by timeout, size 7
+W[22:15:50,548] [100-DistFront0]DistPaxosFront: Sending batch by timeout, size 5
+I[22:15:52,242] [Thread-1]HashMapApp: Writes: 1799572, reads: 0

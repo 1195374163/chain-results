@@ -1,0 +1,10 @@
+2022-01-12 20:12:18:968 0 sec: 0 operations; est completion in 0 second 
+2022-01-12 20:12:28:932 10 sec: 207944 operations; 20794.4 current ops/sec; est completion in 1 hour 3 minutes [INSERT: Count=207944, Max=341759, Min=2836, Avg=9371.74, 90=9967, 99=16071, 99.9=209791, 99.99=341247] 
+2022-01-12 20:12:38:932 20 sec: 409642 operations; 20169.8 current ops/sec; est completion in 1 hour 4 minutes [INSERT: Count=201698, Max=450047, Min=3410, Avg=9913.62, 90=9631, 99=71743, 99.9=236671, 99.99=252415] 
+2022-01-12 20:12:48:932 30 sec: 642971 operations; 23332.9 current ops/sec; est completion in 1 hour 1 minute [INSERT: Count=233338, Max=138111, Min=3454, Avg=8571.95, 90=9711, 99=13407, 99.9=76031, 99.99=86143] 
+2022-01-12 20:12:58:932 40 sec: 869437 operations; 22646.6 current ops/sec; est completion in 1 hour [INSERT: Count=226477, Max=90175, Min=3282, Avg=8829.72, 90=9871, 99=70591, 99.9=83839, 99.99=85951] 
+2022-01-12 20:13:08:932 50 sec: 1099206 operations; 22976.9 current ops/sec; est completion in 59 minutes [INSERT: Count=229774, Max=204159, Min=2996, Avg=8702.82, 90=9375, 99=73343, 99.9=86207, 99.99=203519] 
+2022-01-12 20:13:18:932 60 sec: 1324494 operations; 22528.8 current ops/sec; est completion in 59 minutes [INSERT: Count=225263, Max=86911, Min=4188, Avg=8875.56, 90=9695, 99=72703, 99.9=77503, 99.99=86079] 
+2022-01-12 20:13:28:932 70 sec: 1557038 operations; 23254.4 current ops/sec; est completion in 58 minutes [INSERT: Count=232558, Max=87615, Min=3148, Avg=8599.36, 90=9671, 99=12015, 99.9=83839, 99.99=85183] 
+2022-01-12 20:13:38:932 80 sec: 1781419 operations; 22438.1 current ops/sec; est completion in 58 minutes [INSERT: Count=224378, Max=219775, Min=2400, Avg=8913.22, 90=9799, 99=73471, 99.9=93567, 99.99=212607] 
+2022-01-12 20:13:43:963 85 sec: 1895362 operations; 22643.68 current ops/sec; est completion in 58 minutes [CLEANUP: Count=200, Max=2, Min=0, Avg=0.03, 90=0, 99=1, 99.9=2, 99.99=2] [INSERT: Count=113932, Max=90111, Min=4124, Avg=8830.95, 90=9623, 99=72127, 99.9=87807, 99.99=88703] 

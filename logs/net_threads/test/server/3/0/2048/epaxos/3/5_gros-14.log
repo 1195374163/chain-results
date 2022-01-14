@@ -1,0 +1,4 @@
+I[07:49:40,599] [main]Membership: New preferred members: [172.16.66.12:50300]
+I[07:49:40,693] [main]EPaxosProto: EPaxos: {members=[172.16.66.12:50300, 172.16.66.13:50300, 172.16.66.14:50300]} mcf 1
+I[07:49:40,696] [100-EPaxosFront0]EPaxosFront: New writesTo: /172.16.66.14
+I[07:51:15,339] [Thread-1]HashMapApp: Writes: 1793888, reads: 0

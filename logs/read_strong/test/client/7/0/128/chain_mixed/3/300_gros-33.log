@@ -1,0 +1,11 @@
+2022-01-12 00:26:31:820 0 sec: 0 operations; est completion in 0 second 
+2022-01-12 00:26:41:783 10 sec: 367690 operations; 36769 current ops/sec; est completion in 17 minutes [INSERT: Count=367724, Max=111231, Min=459, Avg=7967.51, 90=16063, 99=51391, 99.9=90943, 99.99=101055] 
+2022-01-12 00:26:51:783 20 sec: 722349 operations; 35465.9 current ops/sec; est completion in 18 minutes [INSERT: Count=354633, Max=82367, Min=510, Avg=8457.91, 90=15943, 99=33471, 99.9=66687, 99.99=81343] 
+2022-01-12 00:27:01:783 30 sec: 1085560 operations; 36321.1 current ops/sec; est completion in 17 minutes [INSERT: Count=363204, Max=95167, Min=399, Avg=8260.81, 90=16399, 99=45311, 99.9=80255, 99.99=92351] 
+2022-01-12 00:27:11:783 40 sec: 1422327 operations; 33676.7 current ops/sec; est completion in 18 minutes [INSERT: Count=336774, Max=107199, Min=409, Avg=8904.49, 90=16071, 99=42015, 99.9=70079, 99.99=99839] 
+2022-01-12 00:27:21:783 50 sec: 1754231 operations; 33190.4 current ops/sec; est completion in 18 minutes [INSERT: Count=331896, Max=162815, Min=371, Avg=9037.62, 90=17167, 99=41663, 99.9=76479, 99.99=154879] 
+2022-01-12 00:27:31:783 60 sec: 2119182 operations; 36495.1 current ops/sec; est completion in 17 minutes [INSERT: Count=364972, Max=157695, Min=542, Avg=8219.47, 90=13407, 99=55327, 99.9=140031, 99.99=156159] 
+2022-01-12 00:27:41:783 70 sec: 2483595 operations; 36441.3 current ops/sec; est completion in 17 minutes [INSERT: Count=364394, Max=141695, Min=442, Avg=8214.11, 90=15031, 99=50623, 99.9=128383, 99.99=137599] 
+2022-01-12 00:27:51:783 80 sec: 2891283 operations; 40768.8 current ops/sec; est completion in 17 minutes [INSERT: Count=407693, Max=211327, Min=474, Avg=7363.67, 90=12087, 99=65375, 99.9=171391, 99.99=208127] 
+Still waiting for thread Thread-137 to complete. Workload status: true
+2022-01-12 00:27:59:561 87 sec: 3092045 operations; 25814.84 current ops/sec; est completion in 17 minutes [CLEANUP: Count=300, Max=14, Min=0, Avg=0.08, 90=0, 99=2, 99.9=14, 99.99=14] [INSERT: Count=200755, Max=2750463, Min=467, Avg=7965.29, 90=16447, 99=59455, 99.9=94975, 99.99=2750463] 

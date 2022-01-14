@@ -1,0 +1,4 @@
+I[15:31:50,084] [main]ChainPaxosMixedProto: ChainPaxos: {members=[172.16.66.4:50300, 172.16.66.38:50300, 172.16.66.39:50300]} qs 2
+I[15:31:54,076] [200-ChainProtoMixed]ChainPaxosMixedProto: New highest instance leader: iN:0, SN{0:172.16.66.4:50300}
+I[15:31:54,077] [100-ChainFrontMixed0]ChainPaxosMixedFront: New writesTo: /172.16.66.4
+I[15:33:24,714] [Thread-1]HashMapApp: Writes: 2111302, reads: 0

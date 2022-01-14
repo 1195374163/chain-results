@@ -1,0 +1,21 @@
+I[23:37:12,229] [main]DistPaxosProto: DistinguishedPaxos: {members=[172.16.66.2:50300, 172.16.66.18:50300, 172.16.66.19:50300, 172.16.66.20:50300, 172.16.66.21:50300, 172.16.66.22:50300, 172.16.66.23:50300]} qs 4
+W[23:37:12,276] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.20:50300, cause: finishConnect(..) failed: Connection refused: gros-20/172.16.66.20:50300
+W[23:37:12,277] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.22:50300, cause: finishConnect(..) failed: Connection refused: gros-22/172.16.66.22:50300
+W[23:37:12,277] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.19:50300, cause: finishConnect(..) failed: Connection refused: gros-19/172.16.66.19:50300
+W[23:37:12,277] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.21:50300, cause: finishConnect(..) failed: Connection refused: gros-21/172.16.66.21:50300
+W[23:37:12,277] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.18:50300, cause: finishConnect(..) failed: Connection refused: gros-18/172.16.66.18:50300
+W[23:37:12,278] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+W[23:37:13,280] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.22:50300, cause: finishConnect(..) failed: Connection refused: gros-22/172.16.66.22:50300
+W[23:37:13,280] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.20:50300, cause: finishConnect(..) failed: Connection refused: gros-20/172.16.66.20:50300
+W[23:37:13,280] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.21:50300, cause: finishConnect(..) failed: Connection refused: gros-21/172.16.66.21:50300
+W[23:37:13,280] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+W[23:37:14,283] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.22:50300, cause: finishConnect(..) failed: Connection refused: gros-22/172.16.66.22:50300
+W[23:37:14,285] [400-DistProto]DistPaxosProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+I[23:37:17,232] [400-DistProto]DistPaxosProto: Attempting to take leadership...
+I[23:37:17,236] [400-DistProto]DistPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[23:37:17,237] [100-DistFront0]DistPaxosFront: New writesTo: /172.16.66.2
+I[23:37:17,247] [400-DistProto]DistPaxosProto: I am leader now! @ instance 0
+W[23:37:17,248] [400-DistProto]DistPaxosProto: PrepareOk ignored, either already leader or stopped trying
+W[23:37:17,248] [400-DistProto]DistPaxosProto: PrepareOk ignored, either already leader or stopped trying
+W[23:37:17,249] [400-DistProto]DistPaxosProto: PrepareOk ignored, either already leader or stopped trying
+I[23:38:49,793] [Thread-1]HashMapApp: Writes: 763029, reads: 0

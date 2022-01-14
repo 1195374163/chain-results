@@ -1,0 +1,10 @@
+2022-01-10 05:24:24:890 0 sec: 0 operations; est completion in 0 second 
+2022-01-10 05:24:34:866 10 sec: 57611 operations; 5761.1 current ops/sec; est completion in 1 hour 55 minutes [INSERT: Count=57621, Max=56735, Min=589, Avg=1695.59, 90=2433, 99=3261, 99.9=4751, 99.99=56511] 
+2022-01-10 05:24:44:866 20 sec: 117831 operations; 6022 current ops/sec; est completion in 1 hour 52 minutes [INSERT: Count=60210, Max=104703, Min=576, Avg=1655.71, 90=2307, 99=3161, 99.9=66367, 99.99=103999] 
+2022-01-10 05:24:54:867 30 sec: 179620 operations; 6178.9 current ops/sec; est completion in 1 hour 50 minutes [INSERT: Count=61794, Max=22367, Min=580, Avg=1614.19, 90=2379, 99=3271, 99.9=5203, 99.99=21391] 
+2022-01-10 05:25:04:866 40 sec: 240047 operations; 6042.7 current ops/sec; est completion in 1 hour 50 minutes [INSERT: Count=60423, Max=99583, Min=587, Avg=1650.9, 90=2325, 99=3313, 99.9=27007, 99.99=94335] 
+2022-01-10 05:25:14:867 50 sec: 300529 operations; 6048.2 current ops/sec; est completion in 1 hour 50 minutes [INSERT: Count=60486, Max=144511, Min=595, Avg=1649.11, 90=2329, 99=3239, 99.9=67007, 99.99=144127] 
+2022-01-10 05:25:24:867 60 sec: 363994 operations; 6346.5 current ops/sec; est completion in 1 hour 48 minutes [INSERT: Count=63463, Max=26367, Min=589, Avg=1571.94, 90=2307, 99=3197, 99.9=5159, 99.99=25007] 
+2022-01-10 05:25:34:866 70 sec: 426239 operations; 6224.5 current ops/sec; est completion in 1 hour 48 minutes [INSERT: Count=62243, Max=107391, Min=591, Avg=1602.59, 90=2293, 99=3187, 99.9=21951, 99.99=107327] 
+2022-01-10 05:25:44:866 80 sec: 489294 operations; 6305.5 current ops/sec; est completion in 1 hour 47 minutes [INSERT: Count=63058, Max=42175, Min=572, Avg=1582.07, 90=2295, 99=3253, 99.9=21983, 99.99=40191] 
+2022-01-10 05:25:49:871 85 sec: 521815 operations; 6499 current ops/sec; est completion in 1 hour 47 minutes [CLEANUP: Count=10, Max=1, Min=0, Avg=0.2, 90=1, 99=1, 99.9=1, 99.99=1] [INSERT: Count=32517, Max=45983, Min=597, Avg=1535.23, 90=2187, 99=3065, 99.9=22303, 99.99=45631] 

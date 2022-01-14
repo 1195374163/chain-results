@@ -1,0 +1,10 @@
+2022-01-13 15:00:55:310 0 sec: 0 operations; est completion in 0 second 
+2022-01-13 15:01:05:276 10 sec: 75310 operations; 7531 current ops/sec; est completion in 2 hours 56 minutes [INSERT: Count=75310, Max=220799, Min=2404, Avg=9720.25, 90=10967, 99=47423, 99.9=213375, 99.99=219391] 
+2022-01-13 15:01:15:276 20 sec: 143518 operations; 6820.8 current ops/sec; est completion in 3 hours 5 minutes [INSERT: Count=68211, Max=837631, Min=1565, Avg=10947.76, 90=10719, 99=51839, 99.9=450815, 99.99=834559] 
+2022-01-13 15:01:25:276 30 sec: 216745 operations; 7322.7 current ops/sec; est completion in 3 hours 4 minutes [INSERT: Count=73228, Max=1224703, Min=1227, Avg=10116.54, 90=10543, 99=48511, 99.9=238079, 99.99=873983] 
+2022-01-13 15:01:35:276 40 sec: 291314 operations; 7456.9 current ops/sec; est completion in 3 hours 2 minutes [INSERT: Count=74570, Max=744959, Min=2544, Avg=10222.42, 90=10663, 99=55647, 99.9=291583, 99.99=739839] 
+2022-01-13 15:01:45:276 50 sec: 364310 operations; 7299.6 current ops/sec; est completion in 3 hours 2 minutes [INSERT: Count=72991, Max=772095, Min=2246, Avg=10274.14, 90=10407, 99=61503, 99.9=397311, 99.99=766463] 
+2022-01-13 15:01:55:276 60 sec: 440793 operations; 7648.3 current ops/sec; est completion in 3 hours [INSERT: Count=76484, Max=278527, Min=1238, Avg=9804.48, 90=10655, 99=60991, 99.9=217215, 99.99=272639] 
+2022-01-13 15:02:05:276 70 sec: 514416 operations; 7362.3 current ops/sec; est completion in 3 hours [INSERT: Count=73633, Max=380159, Min=2962, Avg=10183.36, 90=10727, 99=66239, 99.9=230527, 99.99=272127] 
+2022-01-13 15:02:15:276 80 sec: 591049 operations; 7663.3 current ops/sec; est completion in 2 hours 59 minutes [INSERT: Count=76626, Max=239871, Min=3180, Avg=9776.1, 90=10519, 99=66111, 99.9=213759, 99.99=235647] 
+2022-01-13 15:02:20:426 85 sec: 628900 operations; 7348.28 current ops/sec; est completion in 2 hours 59 minutes [CLEANUP: Count=75, Max=6, Min=0, Avg=0.12, 90=0, 99=1, 99.9=6, 99.99=6] [INSERT: Count=37847, Max=229375, Min=2930, Avg=10033.38, 90=10439, 99=84479, 99.9=215551, 99.99=228479] 

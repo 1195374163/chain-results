@@ -1,0 +1,13 @@
+I[20:46:06,515] [main]RingPaxosPiggyProto: RingPiggyPaxos: {members=[172.16.66.2:50300, 172.16.66.18:50300, 172.16.66.19:50300, 172.16.66.20:50300, 172.16.66.21:50300, 172.16.66.22:50300, 172.16.66.23:50300]} qs 4 max instances: 250
+W[20:46:06,525] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.22:50300, cause: finishConnect(..) failed: Connection refused: gros-22/172.16.66.22:50300
+W[20:46:06,525] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+I[20:46:09,552] [600-RingPiggyProto]RingPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[20:46:09,553] [100-RingFront0]RingPaxosFront: New writesTo: /172.16.66.2
+W[20:47:22,017] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 4342016 to 172.16.66.22:50300  decided until 4342015 received 4342019
+W[20:47:22,018] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 4342017 to 172.16.66.22:50300  decided until 4342016 received 4342068
+W[20:47:22,019] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 4342018 to 172.16.66.22:50300  decided until 4342017 received 4342276
+W[20:47:22,020] [600-RingPiggyProto]RingPaxosPiggyProto: Asking for accept: 4342266
+W[20:47:22,024] [600-RingPiggyProto]RingPaxosPiggyProto: Asking for accept: 4342267
+W[20:47:22,025] [600-RingPiggyProto]RingPaxosPiggyProto: Asking for accept: 4342268
+W[20:47:36,377] [600-RingPiggyProto]RingPaxosPiggyProto: Requesting old decision: 5293608 to 172.16.66.22:50300  decided until 5293607 received 5293609
+I[20:47:42,064] [Thread-1]HashMapApp: Writes: 5552462, reads: 0

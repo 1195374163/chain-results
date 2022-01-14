@@ -1,0 +1,8 @@
+I[22:38:16,974] [main]ChainPaxosDelayedProto: ChainProtoDelay: {members=[172.16.66.3:50300, 172.16.66.17:50300, 172.16.66.19:50300]} qs 2
+W[22:38:16,984] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.17:50300, cause: finishConnect(..) failed: Connection refused: gros-17/172.16.66.17:50300
+W[22:38:16,985] [200-ChainProtoDelay]ChainPaxosDelayedProto: Connection failed to 172.16.66.19:50300, cause: finishConnect(..) failed: Connection refused: gros-19/172.16.66.19:50300
+I[22:38:21,976] [200-ChainProtoDelay]ChainPaxosDelayedProto: Attempting to take leadership...
+I[22:38:21,981] [200-ChainProtoDelay]ChainPaxosDelayedProto: New highest instance leader: iN:0, SN{0:172.16.66.3:50300}
+I[22:38:21,982] [100-ChainFrontDelay0]ChainPaxosDelayedFront: New writesTo: /172.16.66.3
+I[22:38:21,993] [200-ChainProtoDelay]ChainPaxosDelayedProto: I am leader now! @ instance 0
+I[22:39:55,134] [Thread-1]HashMapApp: Writes: 8495989, reads: 2235670

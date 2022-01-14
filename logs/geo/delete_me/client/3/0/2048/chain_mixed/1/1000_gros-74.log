@@ -1,0 +1,10 @@
+2022-01-11 12:31:48:577 0 sec: 0 operations; est completion in 0 second 
+2022-01-11 12:31:58:541 10 sec: 42689 operations; 4268.9 current ops/sec; est completion in 2 hours 36 minutes [INSERT: Count=42689, Max=2541567, Min=86848, Avg=224649.8, 90=385791, 99=1946623, 99.9=2527231, 99.99=2539519] 
+2022-01-11 12:32:08:541 20 sec: 99433 operations; 5674.4 current ops/sec; est completion in 2 hours 13 minutes [INSERT: Count=56744, Max=331519, Min=88576, Avg=176442.89, 90=247551, 99=272895, 99.9=327935, 99.99=330495] 
+2022-01-11 12:32:18:541 30 sec: 156508 operations; 5707.5 current ops/sec; est completion in 2 hours 7 minutes [INSERT: Count=57075, Max=333567, Min=88896, Avg=175844.93, 90=247295, 99=282111, 99.9=320255, 99.99=333055] 
+2022-01-11 12:32:28:542 40 sec: 212986 operations; 5647.8 current ops/sec; est completion in 2 hours 4 minutes [INSERT: Count=56482, Max=322047, Min=90176, Avg=176418.67, 90=248703, 99=286207, 99.9=320255, 99.99=321791] 
+2022-01-11 12:32:38:541 50 sec: 269964 operations; 5697.8 current ops/sec; est completion in 2 hours 2 minutes [INSERT: Count=56976, Max=315135, Min=89088, Avg=175850.17, 90=248447, 99=275711, 99.9=309759, 99.99=314879] 
+2022-01-11 12:32:48:541 60 sec: 327121 operations; 5715.7 current ops/sec; est completion in 2 hours 1 minute [INSERT: Count=57155, Max=272383, Min=96448, Avg=174680.12, 90=248959, 99=254591, 99.9=261119, 99.99=269311] 
+2022-01-11 12:32:58:541 70 sec: 384327 operations; 5720.6 current ops/sec; est completion in 2 hours [INSERT: Count=57206, Max=272639, Min=94784, Avg=174742, 90=249087, 99=256383, 99.9=263935, 99.99=272639] 
+2022-01-11 12:33:08:541 80 sec: 440749 operations; 5642.2 current ops/sec; est completion in 1 hour 59 minutes [INSERT: Count=56422, Max=342271, Min=90560, Avg=177091.37, 90=250751, 99=291583, 99.9=337151, 99.99=342015] 
+2022-01-11 12:33:13:848 85 sec: 470749 operations; 5653.98 current ops/sec; est completion in 1 hour 59 minutes [CLEANUP: Count=1000, Max=7, Min=0, Avg=0.03, 90=0, 99=1, 99.9=4, 99.99=7] [INSERT: Count=30000, Max=265215, Min=96896, Avg=176022.6, 90=247295, 99=253951, 99.9=264447, 99.99=265215] 

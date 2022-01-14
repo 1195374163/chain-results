@@ -1,0 +1,13 @@
+I[15:47:25,814] [main]DistPaxosPiggyProto: DistinguishedPiggy: {members=[172.16.66.12:50300, 172.16.66.22:50300, 172.16.66.45:50300, 172.16.66.87:50300, 172.16.66.113:50300, 172.16.66.114:50300, 172.16.66.116:50300]} qs 4
+W[15:47:25,854] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.116:50300, cause: finishConnect(..) failed: Connection refused: gros-116/172.16.66.116:50300
+W[15:47:25,854] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.45:50300, cause: finishConnect(..) failed: Connection refused: gros-45/172.16.66.45:50300
+W[15:47:25,855] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.113:50300, cause: finishConnect(..) failed: Connection refused: gros-113/172.16.66.113:50300
+W[15:47:25,855] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.114:50300, cause: finishConnect(..) failed: Connection refused: gros-114/172.16.66.114:50300
+W[15:47:25,855] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.87:50300, cause: finishConnect(..) failed: Connection refused: gros-87/172.16.66.87:50300
+W[15:47:26,857] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.116:50300, cause: finishConnect(..) failed: Connection refused: gros-116/172.16.66.116:50300
+W[15:47:26,857] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.114:50300, cause: finishConnect(..) failed: Connection refused: gros-114/172.16.66.114:50300
+W[15:47:26,858] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.113:50300, cause: finishConnect(..) failed: Connection refused: gros-113/172.16.66.113:50300
+W[15:47:27,859] [400-DistPiggyProto]DistPaxosPiggyProto: Connection failed to 172.16.66.116:50300, cause: finishConnect(..) failed: Connection refused: gros-116/172.16.66.116:50300
+I[15:47:30,335] [400-DistPiggyProto]DistPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.12:50300}
+I[15:47:30,336] [100-DistFront0]DistPaxosFront: New writesTo: /172.16.66.12
+I[15:49:02,946] [Thread-1]HashMapApp: Writes: 686964, reads: 0

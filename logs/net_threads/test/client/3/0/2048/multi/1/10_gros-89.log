@@ -1,0 +1,10 @@
+2022-01-10 17:04:19:837 0 sec: 0 operations; est completion in 0 second 
+2022-01-10 17:04:29:813 10 sec: 77110 operations; 7711 current ops/sec; est completion in 1 hour 26 minutes [INSERT: Count=77117, Max=242943, Min=154, Avg=1266.61, 90=1433, 99=1904, 99.9=5631, 99.99=242303] 
+2022-01-10 17:04:39:813 20 sec: 159579 operations; 8246.9 current ops/sec; est completion in 1 hour 23 minutes [INSERT: Count=82463, Max=56575, Min=160, Avg=1208.47, 90=1414, 99=1604, 99.9=7919, 99.99=56287] 
+2022-01-10 17:04:49:813 30 sec: 242764 operations; 8318.5 current ops/sec; est completion in 1 hour 21 minutes [INSERT: Count=83187, Max=48703, Min=168, Avg=1198.54, 90=1410, 99=1575, 99.9=4475, 99.99=48479] 
+2022-01-10 17:04:59:813 40 sec: 324926 operations; 8216.2 current ops/sec; est completion in 1 hour 21 minutes [INSERT: Count=82159, Max=53215, Min=156, Avg=1210.15, 90=1420, 99=1588, 99.9=4359, 99.99=53055] 
+2022-01-10 17:05:09:813 50 sec: 407417 operations; 8249.1 current ops/sec; est completion in 1 hour 20 minutes [INSERT: Count=82493, Max=60191, Min=164, Avg=1212.14, 90=1407, 99=1569, 99.9=1940, 99.99=59647] 
+2022-01-10 17:05:19:813 60 sec: 490232 operations; 8281.5 current ops/sec; est completion in 1 hour 20 minutes [INSERT: Count=82819, Max=52191, Min=152, Avg=1204.14, 90=1413, 99=1567, 99.9=1879, 99.99=51711] 
+2022-01-10 17:05:29:813 70 sec: 572850 operations; 8261.8 current ops/sec; est completion in 1 hour 20 minutes [INSERT: Count=82613, Max=61663, Min=163, Avg=1206.98, 90=1407, 99=1572, 99.9=2353, 99.99=61311] 
+2022-01-10 17:05:39:813 80 sec: 655237 operations; 8238.7 current ops/sec; est completion in 1 hour 20 minutes [INSERT: Count=82389, Max=59199, Min=155, Avg=1210.25, 90=1426, 99=1582, 99.9=6575, 99.99=58527] 
+2022-01-10 17:05:44:817 85 sec: 697024 operations; 8352.39 current ops/sec; est completion in 1 hour 19 minutes [CLEANUP: Count=10, Max=2, Min=0, Avg=0.3, 90=1, 99=2, 99.9=2, 99.99=2] [INSERT: Count=41784, Max=60415, Min=158, Avg=1193.97, 90=1412, 99=1585, 99.9=7171, 99.99=60383] 

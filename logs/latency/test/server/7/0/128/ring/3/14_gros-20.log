@@ -1,0 +1,55 @@
+I[00:03:23,467] [main]RingPaxosProto: RingPaxos: {members=[172.16.66.2:50300, 172.16.66.18:50300, 172.16.66.19:50300, 172.16.66.20:50300, 172.16.66.21:50300, 172.16.66.22:50300, 172.16.66.23:50300]} qs 4 max instances: 60
+W[00:03:23,477] [600-RingProto]RingPaxosProto: Connection failed to 172.16.66.22:50300, cause: finishConnect(..) failed: Connection refused: gros-22/172.16.66.22:50300
+W[00:03:23,478] [600-RingProto]RingPaxosProto: Connection failed to 172.16.66.21:50300, cause: finishConnect(..) failed: Connection refused: gros-21/172.16.66.21:50300
+W[00:03:23,478] [600-RingProto]RingPaxosProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+W[00:03:24,480] [600-RingProto]RingPaxosProto: Connection failed to 172.16.66.23:50300, cause: finishConnect(..) failed: Connection refused: gros-23/172.16.66.23:50300
+I[00:03:26,983] [600-RingProto]RingPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[00:03:26,984] [100-RingFront0]RingPaxosFront: New writesTo: /172.16.66.2
+W[00:03:33,267] [600-RingProto]RingPaxosProto: Asking for accept: 584
+W[00:03:33,312] [600-RingProto]RingPaxosProto: Requesting old decision: 1049 to 172.16.66.21:50300  decided until 1048 received 1050
+W[00:03:33,313] [600-RingProto]RingPaxosProto: Asking for accept: 1083
+W[00:03:33,316] [600-RingProto]RingPaxosProto: Asking for accept: 1125
+W[00:03:33,319] [600-RingProto]RingPaxosProto: Asking for accept: 1163
+W[00:03:33,323] [600-RingProto]RingPaxosProto: Asking for accept: 1214
+W[00:03:33,323] [600-RingProto]RingPaxosProto: Requesting old decision: 1234 to 172.16.66.21:50300  decided until 1233 received 1235
+W[00:03:33,824] [600-RingProto]RingPaxosProto: Requesting old decision: 1234 to 172.16.66.21:50300  decided until 1233 received 5991
+W[00:03:33,825] [600-RingProto]RingPaxosProto: Asking for accept: 1358
+W[00:04:18,167] [600-RingProto]RingPaxosProto: Asking for accept: 404051
+W[00:04:18,169] [600-RingProto]RingPaxosProto: Asking for accept: 404052
+W[00:04:18,170] [600-RingProto]RingPaxosProto: Requesting old decision: 404074 to 172.16.66.21:50300  decided until 404073 received 404142
+W[00:04:18,170] [600-RingProto]RingPaxosProto: Requesting old decision: 404075 to 172.16.66.21:50300  decided until 404074 received 404185
+W[00:04:18,171] [600-RingProto]RingPaxosProto: Requesting old decision: 404076 to 172.16.66.21:50300  decided until 404075 received 404199
+W[00:04:18,171] [600-RingProto]RingPaxosProto: Requesting old decision: 404077 to 172.16.66.21:50300  decided until 404076 received 404201
+W[00:04:18,183] [600-RingProto]RingPaxosProto: Requesting old decision: 404465 to 172.16.66.21:50300  decided until 404464 received 404471
+W[00:04:18,184] [600-RingProto]RingPaxosProto: Requesting old decision: 404466 to 172.16.66.21:50300  decided until 404465 received 404473
+W[00:04:18,184] [600-RingProto]RingPaxosProto: Requesting old decision: 404467 to 172.16.66.21:50300  decided until 404466 received 404494
+W[00:04:18,185] [600-RingProto]RingPaxosProto: Requesting old decision: 404468 to 172.16.66.21:50300  decided until 404467 received 404506
+W[00:04:18,185] [600-RingProto]RingPaxosProto: Requesting old decision: 404469 to 172.16.66.21:50300  decided until 404468 received 404539
+W[00:04:18,185] [600-RingProto]RingPaxosProto: Requesting old decision: 404470 to 172.16.66.21:50300  decided until 404469 received 404545
+W[00:04:18,185] [600-RingProto]RingPaxosProto: Asking for accept: 404493
+W[00:04:18,186] [600-RingProto]RingPaxosProto: Asking for accept: 404494
+W[00:04:18,195] [600-RingProto]RingPaxosProto: Asking for accept: 404838
+W[00:04:18,196] [600-RingProto]RingPaxosProto: Asking for accept: 404839
+W[00:04:18,196] [600-RingProto]RingPaxosProto: Asking for accept: 404840
+W[00:04:18,197] [600-RingProto]RingPaxosProto: Asking for accept: 404841
+W[00:04:18,197] [600-RingProto]RingPaxosProto: Asking for accept: 404842
+W[00:04:18,197] [600-RingProto]RingPaxosProto: Asking for accept: 404843
+W[00:04:18,897] [600-RingProto]RingPaxosProto: Requesting old decision: 409692 to 172.16.66.21:50300  decided until 409691 received 409693
+W[00:04:19,537] [600-RingProto]RingPaxosProto: Requesting old decision: 409692 to 172.16.66.21:50300  decided until 409691 received 414248
+W[00:04:19,537] [600-RingProto]RingPaxosProto: Asking for accept: 409731
+W[00:04:19,538] [600-RingProto]RingPaxosProto: Asking for accept: 410065
+W[00:04:32,284] [600-RingProto]RingPaxosProto: Requesting old decision: 530482 to 172.16.66.21:50300  decided until 530481 received 530487
+W[00:04:32,285] [600-RingProto]RingPaxosProto: Requesting old decision: 530483 to 172.16.66.21:50300  decided until 530482 received 530498
+W[00:04:32,286] [600-RingProto]RingPaxosProto: Requesting old decision: 530484 to 172.16.66.21:50300  decided until 530483 received 530524
+W[00:04:32,286] [600-RingProto]RingPaxosProto: Requesting old decision: 530485 to 172.16.66.21:50300  decided until 530484 received 530541
+W[00:04:32,286] [600-RingProto]RingPaxosProto: Requesting old decision: 530486 to 172.16.66.21:50300  decided until 530485 received 530550
+W[00:04:32,287] [600-RingProto]RingPaxosProto: Asking for accept: 530515
+W[00:04:32,287] [600-RingProto]RingPaxosProto: Asking for accept: 530516
+W[00:04:32,288] [600-RingProto]RingPaxosProto: Asking for accept: 530517
+W[00:04:32,288] [600-RingProto]RingPaxosProto: Asking for accept: 530518
+W[00:04:32,289] [600-RingProto]RingPaxosProto: Asking for accept: 530519
+W[00:04:32,289] [600-RingProto]RingPaxosProto: Asking for accept: 530520
+W[00:04:32,290] [600-RingProto]RingPaxosProto: Asking for accept: 530521
+W[00:04:32,291] [600-RingProto]RingPaxosProto: Asking for accept: 530522
+W[00:04:32,292] [600-RingProto]RingPaxosProto: Asking for accept: 530523
+I[00:04:59,491] [Thread-1]HashMapApp: Writes: 763113, reads: 0

@@ -1,0 +1,11 @@
+2022-01-11 01:20:16:912 0 sec: 0 operations; est completion in 0 second 
+2022-01-11 01:20:26:876 10 sec: 4201 operations; 420.1 current ops/sec; est completion in 1 day 2 hours [INSERT: Count=4201, Max=2357247, Min=239488, Avg=669602.26, 90=1060863, 99=2275327, 99.9=2357247, 99.99=2357247] 
+2022-01-11 01:20:36:876 20 sec: 9638 operations; 543.7 current ops/sec; est completion in 23 hours 3 minutes [INSERT: Count=5437, Max=2131967, Min=95040, Avg=539590.41, 90=1532927, 99=2093055, 99.9=2129919, 99.99=2131967] 
+2022-01-11 01:20:46:876 30 sec: 13150 operations; 351.2 current ops/sec; est completion in 1 day 1 hour [INSERT: Count=3512, Max=1003519, Min=580608, Avg=861105.57, 90=965119, 99=985599, 99.9=993279, 99.99=1003519] 
+2022-01-11 01:20:56:876 40 sec: 20272 operations; 712.2 current ops/sec; est completion in 21 hours 54 minutes [INSERT: Count=7122, Max=740863, Min=170624, Avg=433227.05, 90=586239, 99=726015, 99.9=740351, 99.99=740863] 
+2022-01-11 01:21:06:876 50 sec: 27347 operations; 707.5 current ops/sec; est completion in 20 hours 18 minutes [INSERT: Count=7075, Max=514815, Min=304128, Avg=428214.57, 90=498943, 99=508415, 99.9=514559, 99.99=514815] 
+2022-01-11 01:21:16:876 60 sec: 33931 operations; 658.4 current ops/sec; est completion in 19 hours 37 minutes [INSERT: Count=6584, Max=851967, Min=193920, Avg=443247.85, 90=701439, 99=820735, 99.9=848383, 99.99=851967] 
+2022-01-11 01:21:26:876 70 sec: 38960 operations; 502.9 current ops/sec; est completion in 19 hours 56 minutes [INSERT: Count=5029, Max=772095, Min=359936, Avg=607619.46, 90=699903, 99=732159, 99.9=750079, 99.99=772095] 
+2022-01-11 01:21:36:876 80 sec: 46495 operations; 753.5 current ops/sec; est completion in 19 hours 5 minutes [INSERT: Count=7535, Max=3448831, Min=89472, Avg=355161.1, 90=681983, 99=2775039, 99.9=3438591, 99.99=3448831] 
+Still waiting for thread Thread-3 to complete. Workload status: true
+2022-01-11 01:21:46:552 89 sec: 49093 operations; 268.47 current ops/sec; est completion in 20 hours 16 minutes [CLEANUP: Count=300, Max=47, Min=0, Avg=0.31, 90=0, 99=9, 99.9=47, 99.99=47] [INSERT: Count=2598, Max=6062079, Min=112832, Avg=974406.74, 90=4812799, 99=6004735, 99.9=6049791, 99.99=6062079] 

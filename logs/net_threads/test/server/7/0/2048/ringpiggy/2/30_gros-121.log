@@ -1,0 +1,4 @@
+I[15:42:59,588] [main]RingPaxosPiggyProto: RingPiggyPaxos: {members=[172.16.66.13:50300, 172.16.66.110:50300, 172.16.66.111:50300, 172.16.66.112:50300, 172.16.66.115:50300, 172.16.66.120:50300, 172.16.66.121:50300]} qs 4 max instances: 20
+I[15:43:01,597] [600-RingPiggyProto]RingPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.13:50300}
+I[15:43:01,598] [100-RingFront0]RingPaxosFront: New writesTo: /172.16.66.13
+I[15:44:34,067] [Thread-1]HashMapApp: Writes: 1443737, reads: 0

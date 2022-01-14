@@ -1,0 +1,7 @@
+I[12:33:36,622] [main]ChainPaxosMixedProto: ChainPaxos: {members=[172.16.66.7:50300, 172.16.66.8:50300, 172.16.66.9:50300, 172.16.66.69:50300, 172.16.66.70:50300]} qs 3
+W[12:33:36,796] [200-ChainProtoMixed]ChainPaxosMixedProto: Connection failed to 172.16.66.70:50300, cause: finishConnect(..) failed: Connection refused: gros-70/172.16.66.70:50300
+I[12:33:40,137] [200-ChainProtoMixed]ChainPaxosMixedProto: New highest instance leader: iN:0, SN{0:172.16.66.7:50300}
+I[12:33:40,139] [100-ChainFrontMixed0]ChainPaxosMixedFront: New writesTo: /172.16.66.7
+W[12:34:24,971] [100-ChainFrontMixed0]ChainPaxosMixedFront: Lost connection to writesTo, re-connecting: OutConnectionDown{node=172.16.66.7:50400, cause=io.netty.channel.unix.Errors$NativeIoException: readAddress(..) failed: Connection reset by peer}
+W[12:34:24,973] [200-ChainProtoMixed]ChainPaxosMixedProto: OutConnectionDown{node=172.16.66.7:50300, cause=null}
+I[12:34:24,975] [Thread-1]HashMapApp: Writes: 896670, reads: 0

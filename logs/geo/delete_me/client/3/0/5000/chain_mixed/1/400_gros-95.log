@@ -1,0 +1,11 @@
+2022-01-11 03:15:44:969 0 sec: 0 operations; est completion in 0 second 
+2022-01-11 03:15:54:933 10 sec: 2523 operations; 252.3 current ops/sec; est completion in 1 day 20 hours [INSERT: Count=2523, Max=3258367, Min=116288, Avg=1314000.55, 90=3094527, 99=3221503, 99.9=3258367, 99.99=3258367] 
+2022-01-11 03:16:04:933 20 sec: 5562 operations; 303.9 current ops/sec; est completion in 1 day 15 hours [INSERT: Count=3039, Max=2979839, Min=681472, Avg=1430361.21, 90=2654207, 99=2949119, 99.9=2973695, 99.99=2979839] 
+2022-01-11 03:16:14:933 30 sec: 9457 operations; 389.5 current ops/sec; est completion in 1 day 11 hours [INSERT: Count=3895, Max=2088959, Min=523520, Avg=1007688.56, 90=1362943, 99=1806335, 99.9=1955839, 99.99=2088959] 
+2022-01-11 03:16:24:933 40 sec: 12289 operations; 283.2 current ops/sec; est completion in 1 day 12 hours [INSERT: Count=2832, Max=6496255, Min=475648, Avg=1268407.95, 90=2220031, 99=5984255, 99.9=6434815, 99.99=6496255] 
+2022-01-11 03:16:34:933 50 sec: 15197 operations; 290.8 current ops/sec; est completion in 1 day 12 hours [INSERT: Count=2908, Max=7778303, Min=563712, Avg=1525484.9, 90=3325951, 99=7438335, 99.9=7753727, 99.99=7778303] 
+2022-01-11 03:16:44:933 60 sec: 18507 operations; 331 current ops/sec; est completion in 1 day 12 hours [INSERT: Count=3310, Max=3303423, Min=317952, Avg=1217117.93, 90=2674687, 99=3280895, 99.9=3299327, 99.99=3303423] 
+2022-01-11 03:16:54:933 70 sec: 22068 operations; 356.1 current ops/sec; est completion in 1 day 11 hours [INSERT: Count=3561, Max=1653759, Min=792576, Avg=1147622.62, 90=1326079, 99=1602559, 99.9=1653759, 99.99=1653759] 
+2022-01-11 03:17:04:933 80 sec: 24868 operations; 280 current ops/sec; est completion in 1 day 11 hours [INSERT: Count=2800, Max=2303999, Min=572416, Avg=1328434.83, 90=2146303, 99=2217983, 99.9=2224127, 99.99=2303999] 
+Still waiting for thread Thread-3 to complete. Workload status: true
+2022-01-11 03:17:12:432 87 sec: 26324 operations; 194.13 current ops/sec; est completion in 1 day 12 hours [CLEANUP: Count=400, Max=24, Min=0, Avg=0.15, 90=0, 99=5, 99.9=24, 99.99=24] [INSERT: Count=1456, Max=2476031, Min=1053696, Avg=1971699.34, 90=2318335, 99=2443263, 99.9=2473983, 99.99=2476031] 

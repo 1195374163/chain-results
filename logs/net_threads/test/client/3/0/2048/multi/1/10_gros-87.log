@@ -1,0 +1,10 @@
+2022-01-10 17:04:19:853 0 sec: 0 operations; est completion in 0 second 
+2022-01-10 17:04:29:829 10 sec: 76803 operations; 7680.3 current ops/sec; est completion in 1 hour 26 minutes [INSERT: Count=76812, Max=243071, Min=172, Avg=1272.55, 90=1437, 99=1899, 99.9=5623, 99.99=242943] 
+2022-01-10 17:04:39:829 20 sec: 161475 operations; 8467.2 current ops/sec; est completion in 1 hour 22 minutes [INSERT: Count=84664, Max=56575, Min=144, Avg=1177.41, 90=1398, 99=1595, 99.9=7355, 99.99=56031] 
+2022-01-10 17:04:49:829 30 sec: 244552 operations; 8307.7 current ops/sec; est completion in 1 hour 21 minutes [INSERT: Count=83081, Max=48479, Min=169, Avg=1199.89, 90=1407, 99=1583, 99.9=4359, 99.99=48383] 
+2022-01-10 17:04:59:829 40 sec: 326464 operations; 8191.2 current ops/sec; est completion in 1 hour 21 minutes [INSERT: Count=81911, Max=53183, Min=165, Avg=1216.9, 90=1421, 99=1583, 99.9=4623, 99.99=53055] 
+2022-01-10 17:05:09:829 50 sec: 408857 operations; 8239.3 current ops/sec; est completion in 1 hour 20 minutes [INSERT: Count=82395, Max=60031, Min=159, Avg=1209.96, 90=1409, 99=1565, 99.9=1885, 99.99=59711] 
+2022-01-10 17:05:19:829 60 sec: 490813 operations; 8195.6 current ops/sec; est completion in 1 hour 20 minutes [INSERT: Count=81954, Max=52287, Min=168, Avg=1216.37, 90=1419, 99=1570, 99.9=1821, 99.99=51647] 
+2022-01-10 17:05:29:829 70 sec: 573292 operations; 8247.9 current ops/sec; est completion in 1 hour 20 minutes [INSERT: Count=82481, Max=61631, Min=158, Avg=1208.75, 90=1407, 99=1567, 99.9=2485, 99.99=61215] 
+2022-01-10 17:05:39:829 80 sec: 656392 operations; 8310 current ops/sec; est completion in 1 hour 19 minutes [INSERT: Count=83096, Max=59231, Min=157, Avg=1199.92, 90=1423, 99=1584, 99.9=5763, 99.99=58367] 
+2022-01-10 17:05:44:832 85 sec: 698821 operations; 8480.71 current ops/sec; est completion in 1 hour 19 minutes [CLEANUP: Count=10, Max=6, Min=0, Avg=1, 90=2, 99=6, 99.9=6, 99.99=6] [INSERT: Count=42427, Max=60447, Min=169, Avg=1175.53, 90=1408, 99=1572, 99.9=6555, 99.99=59967] 

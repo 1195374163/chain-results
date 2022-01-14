@@ -1,0 +1,7 @@
+I[20:26:42,437] [main]URingPaxosProto: URingPaxos: {members=[172.16.66.2:50300, 172.16.66.18:50300, 172.16.66.19:50300]} qs 2
+W[20:26:42,447] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.19:50300, cause: finishConnect(..) failed: Connection refused: gros-19/172.16.66.19:50300
+W[20:26:42,448] [200-URingPaxos]URingPaxosProto: Connection failed to 172.16.66.18:50300, cause: finishConnect(..) failed: Connection refused: gros-18/172.16.66.18:50300
+I[20:26:47,439] [200-URingPaxos]URingPaxosProto: Attempting to take leadership...
+I[20:26:47,444] [200-URingPaxos]URingPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[20:26:47,453] [200-URingPaxos]URingPaxosProto: I am leader now! @ instance 0
+I[20:28:18,367] [Thread-1]HashMapApp: Writes: 10910535, reads: 0

@@ -1,0 +1,23 @@
+I[22:04:12,806] [main]RingPaxosPiggyProto: RingPiggyPaxos: {members=[172.16.66.2:50300, 172.16.66.18:50300, 172.16.66.19:50300]} qs 2 max instances: 15
+W[22:04:12,814] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.19:50300, cause: finishConnect(..) failed: Connection refused: gros-19/172.16.66.19:50300
+W[22:04:12,814] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.18:50300, cause: finishConnect(..) failed: Connection refused: gros-18/172.16.66.18:50300
+I[22:04:17,808] [600-RingPiggyProto]RingPaxosPiggyProto: Attempting to take leadership...
+I[22:04:17,812] [600-RingPiggyProto]RingPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.2:50300}
+I[22:04:17,813] [100-RingFront0]RingPaxosFront: New writesTo: /172.16.66.2
+I[22:04:17,823] [600-RingPiggyProto]RingPaxosPiggyProto: I am leader now! @ instance 0
+W[22:04:17,824] [600-RingPiggyProto]RingPaxosPiggyProto: PrepareOk ignored, either already leader or stopped trying
+W[22:04:39,501] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 383573
+W[22:04:39,501] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 383574
+W[22:04:39,502] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 383575
+W[22:04:39,502] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 383576
+W[22:04:39,502] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 383577
+W[22:04:39,502] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 383578
+W[22:04:39,502] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 383579
+W[22:04:39,502] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 383580
+W[22:04:39,502] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 383581
+W[22:04:39,502] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 383582
+W[22:04:39,502] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 383583
+W[22:04:39,503] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 383584
+W[22:04:39,503] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 383585
+W[22:04:39,503] [600-RingPiggyProto]RingPaxosPiggyProto: Resending old accept 383586
+I[22:05:48,286] [Thread-1]HashMapApp: Writes: 1802744, reads: 0

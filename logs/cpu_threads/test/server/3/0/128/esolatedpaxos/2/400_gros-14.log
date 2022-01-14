@@ -1,0 +1,4 @@
+I[22:35:10,032] [main]Membership: New preferred members: [172.16.66.12:50300]
+I[22:35:10,161] [main]EsolatedPaxosProto: EsolatedPaxos: {members=[172.16.66.12:50300, 172.16.66.13:50300, 172.16.66.14:50300]} mcf 1
+I[22:35:10,164] [100-EPaxosFront0]EPaxosFront: New writesTo: /172.16.66.14
+I[22:36:44,811] [Thread-1]HashMapApp: Writes: 10752467, reads: 0

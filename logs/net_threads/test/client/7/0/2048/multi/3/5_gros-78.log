@@ -1,0 +1,10 @@
+2022-01-10 17:50:28:906 0 sec: 0 operations; est completion in 0 second 
+2022-01-10 17:50:38:883 10 sec: 28116 operations; 2811.6 current ops/sec; est completion in 3 hours 56 minutes [INSERT: Count=28119, Max=94079, Min=401, Avg=1732.35, 90=1839, 99=2429, 99.9=8439, 99.99=94015] 
+2022-01-10 17:50:48:883 20 sec: 56858 operations; 2874.2 current ops/sec; est completion in 3 hours 54 minutes [INSERT: Count=28740, Max=135679, Min=505, Avg=1731.37, 90=1807, 99=2139, 99.9=7671, 99.99=134911] 
+2022-01-10 17:50:58:883 30 sec: 86438 operations; 2958 current ops/sec; est completion in 3 hours 50 minutes [INSERT: Count=29580, Max=30319, Min=481, Avg=1684.03, 90=1812, 99=2089, 99.9=5019, 99.99=29343] 
+2022-01-10 17:51:08:883 40 sec: 116004 operations; 2956.6 current ops/sec; est completion in 3 hours 49 minutes [INSERT: Count=29566, Max=39807, Min=412, Avg=1685.85, 90=1807, 99=2083, 99.9=5203, 99.99=38943] 
+2022-01-10 17:51:18:883 50 sec: 145456 operations; 2945.2 current ops/sec; est completion in 3 hours 48 minutes [INSERT: Count=29452, Max=33311, Min=704, Avg=1692.08, 90=1820, 99=2095, 99.9=4819, 99.99=33055] 
+2022-01-10 17:51:28:883 60 sec: 174847 operations; 2939.1 current ops/sec; est completion in 3 hours 47 minutes [INSERT: Count=29390, Max=31551, Min=418, Avg=1695.9, 90=1824, 99=2131, 99.9=5163, 99.99=31055] 
+2022-01-10 17:51:38:883 70 sec: 204255 operations; 2940.8 current ops/sec; est completion in 3 hours 47 minutes [INSERT: Count=29408, Max=44159, Min=499, Avg=1695.01, 90=1822, 99=2089, 99.9=4787, 99.99=43743] 
+2022-01-10 17:51:48:883 80 sec: 233908 operations; 2965.3 current ops/sec; est completion in 3 hours 46 minutes [INSERT: Count=29655, Max=37087, Min=745, Avg=1681.27, 90=1812, 99=2093, 99.9=4235, 99.99=36095] 
+2022-01-10 17:51:53:887 85 sec: 248666 operations; 2949.83 current ops/sec; est completion in 3 hours 46 minutes [CLEANUP: Count=5, Max=3, Min=0, Avg=0.8, 90=3, 99=3, 99.9=3, 99.99=3] [INSERT: Count=14756, Max=50303, Min=703, Avg=1690.6, 90=1817, 99=2105, 99.9=4867, 99.99=50207] 
