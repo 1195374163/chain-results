@@ -5,9 +5,9 @@ Geo exps were done in jobs of 16 nodes (1 coordinator + 10 clients + 3/5 servers
 Assuming file system:
 .
 ├── apache-zookeeper-3.7.0-bin      //chain zookeeper, extracted from tar @ zookeeper-assembly
-├── client                          //contents of chain-client/deploy/client
+├── client                          //contents of chain-client/deploy/client (includes packaged code)
 ├── logs
-├── scripts                         //contents of chain-client/deploy/client (includes packaged code)
+├── scripts                         //contents of chain-client/deploy/scripts
 ├── server                          //contents of chain/deploy/server (includes packaged code)
 └── zkOriginal                      //Default 3.7.0 zookeeper
 
