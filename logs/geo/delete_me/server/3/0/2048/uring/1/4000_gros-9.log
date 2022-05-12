@@ -1,7 +1,0 @@
-I[13:26:17,074] [main]URingPaxosProto: URingPaxos: {members=[172.16.66.7:50300, 172.16.66.8:50300, 172.16.66.9:50300]} qs 2
-I[13:26:21,128] [200-URingPaxos]URingPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.7:50300}
-I[13:26:30,407] [200-URingPaxos]URingPaxosProto: Attempting to take leadership...
-I[13:26:30,409] [200-URingPaxos]URingPaxosProto: New highest instance leader: iN:2, SN{1:172.16.66.9:50300}
-I[13:26:36,909] [200-URingPaxos]URingPaxosProto: I am leader now! @ instance 2
-I[13:26:41,752] [200-URingPaxos]URingPaxosProto: New highest instance leader: iN:2, SN{2:172.16.66.8:50300}
-I[13:26:46,385] [Thread-1]HashMapApp: Writes: 37850, reads: 0

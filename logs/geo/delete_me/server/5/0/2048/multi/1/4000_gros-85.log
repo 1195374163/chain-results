@@ -1,5 +1,0 @@
-I[13:36:41,978] [main]MultiPaxosProto: MultiPaxos: {members=[172.16.66.81:50300, 172.16.66.82:50300, 172.16.66.83:50300, 172.16.66.84:50300, 172.16.66.85:50300]} qs 3
-I[13:36:44,851] [400-MultiProto]MultiPaxosProto: New highest instance leader: iN:0, SN{0:172.16.66.81:50300}
-I[13:36:44,853] [100-DistFront0]DistPaxosFront: New writesTo: /172.16.66.81
-W[13:38:15,270] [100-DistFront0]DistPaxosFront: Sending batch by timeout, size 8
-I[13:38:18,457] [Thread-1]HashMapApp: Writes: 4800778, reads: 0

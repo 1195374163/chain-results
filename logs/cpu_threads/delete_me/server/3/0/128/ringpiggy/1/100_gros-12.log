@@ -1,9 +1,0 @@
-I[18:16:17,386] [main]RingPaxosPiggyProto: RingPiggyPaxos: {members=[172.16.66.12:50300, 172.16.66.13:50300, 172.16.66.64:50300]} qs 2
-W[18:16:17,395] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.64:50300, cause: finishConnect(..) failed: Connection refused: gros-64/172.16.66.64:50300
-W[18:16:17,395] [600-RingPiggyProto]RingPaxosPiggyProto: Connection failed to 172.16.66.13:50300, cause: finishConnect(..) failed: Connection refused: gros-13/172.16.66.13:50300
-I[18:16:22,388] [600-RingPiggyProto]RingPaxosPiggyProto: Attempting to take leadership...
-I[18:16:22,392] [600-RingPiggyProto]RingPaxosPiggyProto: New highest instance leader: iN:0, SN{0:172.16.66.12:50300}
-I[18:16:22,393] [100-RingFront0]RingPaxosFront: New writesTo: /172.16.66.12
-I[18:16:22,404] [600-RingPiggyProto]RingPaxosPiggyProto: I am leader now! @ instance 0
-W[18:16:22,404] [600-RingPiggyProto]RingPaxosPiggyProto: PrepareOk ignored, either already leader or stopped trying
-I[18:17:52,843] [Thread-1]HashMapApp: Writes: 6683026, reads: 0
