@@ -2,6 +2,7 @@ import itertools
 import os
 import glob
 import matplotlib.pyplot as plt
+import numpy as np
 
 # Press Shift+F10 to execute it or replace it with your code.
 
@@ -163,6 +164,9 @@ def process_alg(alg_path):
 
     # list of nThreads, throughput, latency
     results_parsed = []
+    stds_perf = []
+    stds_lat = []
+
     for thread in n_threads_filtered:
         # One position per run
         n_total_threads = thread * n_clients
@@ -188,8 +192,15 @@ def process_alg(alg_path):
             avg_thread_lat_list.append(weighted_average(avg_run_lat_list))
         # Average runs
         # print(avg_thread_lat_list)
+        if(thread >= 10):
+            stds_lat.append(np.std(avg_thread_lat_list) * 100 / average(avg_thread_lat_list))
+            stds_perf.append(np.std(avg_thread_tp_list) * 100 / average(avg_thread_tp_list))
+
         results_parsed.append(
             (n_total_threads, average(avg_thread_tp_list) / 1000, average(avg_thread_lat_list) / 1000))
+    print("lat " + str(max(stds_lat)))
+    print("perf " + str(max(stds_perf)))
+
     return results_parsed
 
 

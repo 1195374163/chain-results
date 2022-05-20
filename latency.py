@@ -126,10 +126,10 @@ def process_alg(alg_path):
                 (lat, nOps) = results_raw[run][client][time]
                 avg_run_lat_list.append((lat, nOps))
         avg_thread_lat_list.append(weighted_average(avg_run_lat_list))
-    return average(avg_thread_lat_list) / 1000
+    return (average(avg_thread_lat_list) / 1000, np.std(avg_thread_lat_list)/1000)
 
 
-def create_plot(results_all):
+def create_plot(results_all, results_all_error):
     plt.rcParams.update({'font.size': 12})
 
     # plt.figure(figsize=(10, 8))
@@ -139,8 +139,11 @@ def create_plot(results_all):
     width = 0.9 / len(results_all)
 
     i = 0
-    for alg, lats in results_all.items():
-        plt.bar(x - (len(results_all)/2 * width) + width*i, lats, width, label=alg_mapper[alg])
+    for alg in results_all.keys():
+        lats = results_all[alg]
+        errors = results_all_error[alg]
+        plt.bar(x - (len(results_all)/2 * width) + width*i, lats, width, label=alg_mapper[alg],
+                yerr=errors, capsize=3, alpha=1)
         i+=1
 
     plt.xlabel("Number of replicas")
@@ -155,14 +158,19 @@ def create_plot(results_all):
 
 if __name__ == '__main__':
     results_all = {}
+    results_all_error = {}
     for exp_name in exp_names:
         for alg in algorithms:
             results_all[alg] = []
+            results_all_error[alg] = []
             print(alg)
             for server in n_servers:
                 alg_path = "logs/" + exp_name + "/client/" + str(server) + "/" + str(reads) + "/" + str(
                     payload) + "/" + alg
                 check_folder_or_exit(alg_path)
-                results_all[alg].append(process_alg(alg_path))
+                lat, error = process_alg(alg_path)
+                results_all[alg].append(lat)
+                results_all_error[alg].append(error)
             print(results_all[alg])
-        create_plot(results_all)
+            print(results_all_error[alg])
+        create_plot(results_all, results_all_error)
