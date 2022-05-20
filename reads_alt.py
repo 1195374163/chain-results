@@ -42,7 +42,7 @@ alg_limiter = {
     }
 }
 
-alg_mapper = {"chain_mixed_0": "Chain Reads 0/100%",
+alg_mapper = {"chain_mixed_0": "Chain Reads 0-100%",
               "chain_delayed_50": "Local Reads 50%",
               "chain_delayed_95": "Local Reads 95%",
               "chain_mixed_95": "Chain Read 95%",
