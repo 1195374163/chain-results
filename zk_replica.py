@@ -5,7 +5,6 @@ import numpy as np
 
 # Press Shift+F10 to execute it or replace it with your code.
 
-exp_names = ["zk_merge/test"]
 savedir = "graphs/"
 os.makedirs(savedir, exist_ok=True)
 
@@ -271,20 +270,26 @@ def create_plot(results_all):
     plt.show()
 
 
+exp_name_weak = "zk/test"
+exp_name_strong = "zk_strong/test"
+
 if __name__ == '__main__':
-    for exp_name in exp_names:
-        for n_server in n_servers:
-            results_all = {}
-            for read in reads:
-                for alg in algorithms:
-                    print(alg)
-                    print(n_server)
-                    alg_path = "logs/" + exp_name + "/client/" + str(n_server) + "/" + str(read) + "/" + str(
-                        payload) + "/" + alg
-                    check_folder_or_exit(alg_path)
-                    results_all[alg + "_" + str(read)] = process_alg(alg_path)
-                    for tuple in results_all[alg + "_" + str(read)]:
-                        print("%4s" % tuple[0],
-                              "%10s" % round(tuple[1], 2),
-                              "%10s" % round(tuple[2], 2))
-            create_plot(results_all)
+    for n_server in n_servers:
+        results_all = {}
+        for read in reads:
+            for alg in algorithms:
+                if alg.endswith("_strong"):
+                    exp_name = exp_name_strong
+                else:
+                    exp_name = exp_name_weak
+                print(alg)
+                print(n_server)
+                alg_path = "logs/" + exp_name + "/client/" + str(n_server) + "/" + str(read) + "/" + str(
+                    payload) + "/" + alg.replace("_strong", "")
+                check_folder_or_exit(alg_path)
+                results_all[alg + "_" + str(read)] = process_alg(alg_path)
+                for tuple in results_all[alg + "_" + str(read)]:
+                    print("%4s" % tuple[0],
+                          "%10s" % round(tuple[1], 2),
+                          "%10s" % round(tuple[2], 2))
+        create_plot(results_all)

@@ -157,7 +157,7 @@ def process_alg(alg_path):
                         print("On line: " + line)
                         raise
                 check_len_or_exit(results_raw[run][thread][client], (time_max - time_min) / 10 + 1,
-                                  f"alg {alg} run {run} thread {thread} client {client}")
+                                  f"alg {alg} run {run} thread {thread} client {thread_file}")
                 client += 1
             check_len_or_exit(results_raw[run][thread], n_clients)
         check_len_or_exit(results_raw[run], len(n_threads_filtered))
