@@ -206,6 +206,7 @@ def process_alg(alg_path):
 
 
 def create_plot(results_all):
+    plt.clf()
     plt.rcParams.update({'font.size': 12})
     # figB, axB = plt.subplots(num=1, clear=True)
     # figT, axT = plt.subplots(num=2, clear=True)
@@ -245,9 +246,9 @@ def create_plot(results_all):
 
 
 if __name__ == '__main__':
-    results_all = {}
     for exp_name in exp_names:
         for server in n_servers:
+            results_all = {}
             for alg in algorithms:
                 print(alg)
                 alg_path = "logs/" + exp_name + "/client/" + str(server) + "/" + str(reads) + "/" + str(
