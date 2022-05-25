@@ -230,6 +230,7 @@ def process_alg(alg_path):
 
 
 def create_plot(results_all):
+    plt.clf()
     plt.rcParams.update({'font.size': 12})
     # figB, axB = plt.subplots(num=1, clear=True)
     # figT, axT = plt.subplots(num=2, clear=True)
