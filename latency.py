@@ -4,7 +4,10 @@ import matplotlib.pyplot as plt
 
 # Press Shift+F10 to execute it or replace it with your code.
 import numpy as np
+import matplotlib
 
+matplotlib.rcParams['pdf.fonttype'] = 42
+matplotlib.rcParams['ps.fonttype'] = 42
 exp_names = ["latency/test"]
 savedir = "graphs/"
 os.makedirs(savedir, exist_ok=True)

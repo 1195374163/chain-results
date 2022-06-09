@@ -3,6 +3,11 @@ import glob
 import matplotlib.pyplot as plt
 import numpy as np
 
+import matplotlib
+matplotlib.rcParams['pdf.fonttype'] = 42
+matplotlib.rcParams['ps.fonttype'] = 42
+
+
 # Press Shift+F10 to execute it or replace it with your code.
 
 exp_names = ["read_strong/test"]
